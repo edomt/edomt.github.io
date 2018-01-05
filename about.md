@@ -12,11 +12,6 @@ permalink: /about/
 
 🇫🇷 2011-2012 - **Social Media Manager** - Europe Ecology-The Greens
 
-🇪🇸 *2010-2011 - **Universidad Pontificia de Salamanca** - Facultad de Comunicación*
-
-🇫🇷 *2008-2013 - **Sciences Po Paris** - Bachelor's and Master's degree, Political science and marketing*
-
-
 
 ## Things
 
@@ -53,3 +48,13 @@ October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter 
 **Analytics**: Twitter API, Facebook API, Google Analytics
 
 **Web development**: HTML, CSS, PHP
+
+
+## Education
+
+🇫🇷 2011-2013 - **Sciences Po Paris** - Master's degree, Marketing and Market Research
+
+🇪🇸 2010-2011 - **Universidad Pontificia de Salamanca** - Facultad de Comunicación
+
+🇫🇷 2008-2011 - **Sciences Po Paris** - Bachelor's degree, Political science
+

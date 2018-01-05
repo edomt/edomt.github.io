@@ -4,13 +4,13 @@ title: About me
 permalink: /about/
 ---
 
-# Work
+## Work
 
 🇬🇧 Since 2015 - **Data Scientist** - University of Oxford, Medical Sciences Division
 
 🇫🇷 2012-2015 - **Social Media Analyst** - La Netscouade
 
-🇫🇷 2011-2012 - **Presidential Candidate's Social Media Manager** - Europe Ecology-The Greens
+🇫🇷 2011-2012 - **Social Media Manager** - Europe Ecology-The Greens
 
 🇪🇸 *2010-2011 - **Universidad Pontificia de Salamanca** - Facultad de Comunicación*
 
@@ -18,35 +18,35 @@ permalink: /about/
 
 
 
-# Things
+## Things
 
-November 2017 - *WHIP – L'observatoire des groupes parlementaires à l'Assemblée nationale* (link)
+November 2017 - *WHIP – L'observatoire des groupes parlementaires à l'Assemblée nationale* ([link](https://redouad.shinyapps.io/WHIP/))
 
-September 2017 - *Le mirage Macron : jamais un nouveau président n’a été aussi impopulaire* (link)
+September 2017 - *Le mirage Macron : jamais un nouveau président n’a été aussi impopulaire* ([link](https://pinkybrain.net/2017/09/28/le-mirage-macron-jamais-un-nouveau-president-na-ete-aussi-impopulaire/))
 
-September 2017 - *Archived tweets from French politicians* (link)
+September 2017 - *Archived tweets from French politicians* ([link](https://github.com/edomt/tweets_archive_FRpol))
 
-September 2017 - *Dataset of 27,957 video game ratings scraped from PEGI's website* (link)
+September 2017 - *Dataset of 27,957 video game ratings scraped from PEGI's website* ([link](https://github.com/edomt/pegi))
 
-January 2016 - *Qui sont les meilleurs et les pires députés de 2015 ?* (link, link)
+January 2016 - *Qui sont les meilleurs et les pires députés de 2015 ?* ([link](https://www.lesechos.fr/15/01/2016/lesechos.fr/021620041874_qui-sont-les-meilleurs-et-les-pires-deputes-de-2015--.htm), [link](https://github.com/edomt/datapol))
 
-December 2015 - *Non, Marine Le Pen n’est pas en mesure de devenir présidente en 2017* (link)
+December 2015 - *Non, Marine Le Pen n’est pas en mesure de devenir présidente en 2017* ([link](https://medium.com/@edmathieu/non-marine-le-pen-n-est-pas-en-mesure-de-devenir-pr%C3%A9sidente-en-2017-859ebe516e5d))
 
-October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter ?* (link)
+October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter ?* ([link](https://medium.com/@edmathieu/a-qui-les-ministres-du-gouvernement-francais-sinteressent-ils-sur-twitter-4f21d2c98c2a))
 
 
 
-# Skills
+## Skills
 
 **R**: data cleaning, manipulation & analysis (tidyverse, data.table, ggplot2, stringr, Shiny, knitr, rvest...)
-
-**Statistics**: frequentist inference, regression analysis, machine learning fundamentals
 
 **Python**: file manipulation, automation, GUI programming with Tkinter
 
 **Data storage and manipulation**: relational databases, advanced SQL, web scraping, JSON, XML
 
 **Data visualisation**: Shiny, ggplot2, ggvis, Gephi
+
+**Statistics**: frequentist inference, regression analysis, machine learning fundamentals
 
 **Development tools**: Unix shell, SublimeText, RStudio, Git
 

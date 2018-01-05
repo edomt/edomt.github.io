@@ -6,7 +6,9 @@ permalink: /about/
 
 ## Work
 
-🇬🇧 Since 2015 - **Data Scientist** - University of Oxford, Medical Sciences Division
+🇬🇧 Since 2018 - **Data Scientist & Programmer** - University of Oxford, Nuffield Department of Primary Care Health Sciences
+
+🇬🇧 2015-2018 - **Data Analyst** - University of Oxford, Big Data Institute, UK Biobank
 
 🇫🇷 2012-2015 - **Social Media Analyst** - La Netscouade
 

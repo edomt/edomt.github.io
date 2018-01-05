@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Placeholder
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Iusto ipsam consequatur amet ducimus dignissimos. Sunt eius harum numquam aut eius voluptatibus ratione molestiae. Aut aut recusandae nulla quia nihil. Deserunt fugiat et velit ex.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Nihil qui et amet est eveniet. Provident fugiat excepturi deleniti aliquid qui id quia dolorem. Corporis maxime nam minima eaque sed corporis laudantium. Est aut repudiandae eum aliquam rem velit velit ut. Maxime eligendi consequatur explicabo sint perferendis. Occaecati veritatis quae qui.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Deleniti excepturi facilis dolorem. Et autem qui ducimus corporis qui. Eos et voluptatibus enim omnis ratione sequi dolorem unde. Odio ut earum delectus nemo recusandae nihil expedita totam. Eum laboriosam dicta magni aspernatur. Provident qui enim aliquid.
+
+Debitis quod explicabo amet quo velit labore illo eaque. Et dolorem et qui consequuntur. Ut et ut est.
+
+Minus velit itaque esse officiis. Ut ea molestiae ex quibusdam suscipit tempora minima unde. Ea facilis ad ut voluptatem ut.

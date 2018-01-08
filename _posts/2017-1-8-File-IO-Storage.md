@@ -12,6 +12,7 @@ In this article, we'll have a look at the most efficient ways to read and write 
 
 We'll be using functions from four different packages (readr, data.table, feather, and fst), and comparing them using the microbenchmark package.
 
+    ```r
     install.packages(c("microbenchmark", "readr", "data.table", "feather", "fst"))
 
     library(microbenchmark)
@@ -19,10 +20,13 @@ We'll be using functions from four different packages (readr, data.table, feathe
     library(data.table)
     library(feather)
     library(fst)
+    ```
 
 The dataset we'll be using as an example contains random data over 20 columns and 500,000 rows, for a reasonable size of 115 MB in CSV format. The 20 variables are a mix of integers, real numbers, dates and strings.
 
+    ```r
     filename <- "dataset.csv"
+    ```
 
 
 ## Permanent input/output
@@ -40,6 +44,7 @@ For the first part of this analysis, we'll look at permanent input/output, i.e. 
 
 Let's use `microbenchmark` to import our file using those three functions (the `microbenchmark()` functions executes each expression 10 times and averages the elapsed time).
 
+    ```r
     microbenchmark(data <- read.csv(filename),
                    data <- read_csv(filename),
                    data <- fread(filename),
@@ -54,6 +59,7 @@ Let's use `microbenchmark` to import our file using those three functions (the `
     ##  27.681976 35.389826    10
     ##   3.329171  3.618546    10
     ##   3.938012  4.146957    10
+    ```
 
 The `read_csv` and `fread` functions imported our file in 3 seconds, against 28 seconds for the `read.csv` function. This improvement is mostly due to the way those two functions identify the type of each column - by guessing the type based on a sample of values.
 
@@ -69,6 +75,7 @@ We'll now test the three equivalent functions to *write* the same file instead o
 * `write_csv` from the `write_*` series of functions in the readr package;
 * `fwrite` from the data.table package (introduced in 2016).
 
+    ```r
     microbenchmark(write.csv(data, "baseR_file.csv", row.names = F),
                    write_csv(data, "readr_file.csv"),
                    fwrite(data, "datatable_file.csv"),
@@ -83,15 +90,18 @@ We'll now test the three equivalent functions to *write* the same file instead o
     ##  13.9118324 13.8776993 13.9269675 14.3241311    10
     ##   3.8572456  3.8690681  3.8991995  4.0637453    10
     ##   0.4097876  0.4061506  0.4159007  0.4355469    10
+    ```
 
 The results are impressive: readr improved our writing time from 14 seconds in base R to 4 seconds with `write_csv` - but `fwrite` improved the speed *again* by a factor of 10, writing the file in only 0.4 second!
 
 Note that both `write_csv` and `fwrite` include an "automatic" mode for quotes: columns will only be quoted if separators are found in some of their values. In datasets with many columns, this ends up saving some space compared to the base R process:
 
+    ```r
     ##               File Size.MB
     ##     baseR_file.csv   123.0
     ##     readr_file.csv   115.0
     ## datatable_file.csv   112.5
+    ```
 
 
 ## Efficient storage for analysis
@@ -109,6 +119,7 @@ Fortunately, R offers many ways to store R objects (including data frames) in a 
 
 Let's now compare all of those solutions:
 
+    ```r
     microbenchmark(save(list = "data", file = "RDATA_file.rdata"),
                    saveRDS(data, "baseRDS_file.rds"),
                    write_rds(data, "readrRDS_file.rds"),
@@ -136,6 +147,7 @@ Let's now compare all of those solutions:
     ## 3    readrRDS_file.rds    70.3
     ## 4 feather_file.feather    65.1
     ## 5         fst_file.fst    50.8
+    ```
 
 It is easy to see in those results the different implementation of those binary formats: the RDATA and RDS functions in base R create files that are much smaller (37 MB), but much slower (8 seconds). On the contrary, the readr version of RDS, as well as the feather and fst formats do not compress the data (reaching sizes of ~50-70 MB) but complete the operation extremely fast (from 0.15 to 0.5 second).
 
@@ -143,6 +155,7 @@ It is easy to see in those results the different implementation of those binary 
 
 We can then compare the performance of each equivalent reading function:
 
+    ```r
     microbenchmark(load("RDATA_file.rdata"),
                    readRDS("baseRDS_file.rds"),
                    read_rds("readrRDS_file.rds"),
@@ -163,6 +176,7 @@ We can then compare the performance of each equivalent reading function:
     ##  0.8075097 0.8910611 0.9799408    10
     ##  0.3184593 0.3856978 0.5930344    10
     ##  0.3426191 0.3695636 0.6478421    10
+    ```
 
 Same results here: non-compressed files are loaded much faster (~0.3 second for feather and fst), while compressed versions take about 3 times longer (~1 second).
 

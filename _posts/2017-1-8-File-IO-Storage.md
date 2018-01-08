@@ -154,18 +154,12 @@ microbenchmark(load("RDATA_file.rdata"),
                times = 10, unit = "s")
 
 ## Unit: seconds
-##                                  expr       min        lq      mean
-##              load("RDATA_file.rdata") 0.9555964 0.9615745 1.0295261
-##           readRDS("baseRDS_file.rds") 0.9567269 0.9606673 1.0314218
-##         read_rds("readrRDS_file.rds") 0.6399538 0.6862210 0.8017189
-##  read_feather("feather_file.feather") 0.2624005 0.2770924 0.3620786
-##              read_fst("fst_file.fst") 0.2948647 0.3006780 0.3674351
-##     median        uq       max neval
-##  0.9947425 1.0638597 1.2702307    10
-##  0.9708909 1.0131944 1.2687111    10
-##  0.8075097 0.8910611 0.9799408    10
-##  0.3184593 0.3856978 0.5930344    10
-##  0.3426191 0.3695636 0.6478421    10
+##                                  expr       min        lq      mean    median        uq       max neval
+##              load("RDATA_file.rdata") 0.9555964 0.9615745 1.0295261 0.9947425 1.0638597 1.2702307    10
+##           readRDS("baseRDS_file.rds") 0.9567269 0.9606673 1.0314218 0.9708909 1.0131944 1.2687111    10
+##         read_rds("readrRDS_file.rds") 0.6399538 0.6862210 0.8017189 0.8075097 0.8910611 0.9799408    10
+##  read_feather("feather_file.feather") 0.2624005 0.2770924 0.3620786 0.3184593 0.3856978 0.5930344    10
+##              read_fst("fst_file.fst") 0.2948647 0.3006780 0.3674351 0.3426191 0.3695636 0.6478421    10
 ```
 
 Same results here: non-compressed files are loaded much faster (~0.3 second for feather and fst), while compressed versions take about 3 times longer (~1 second).

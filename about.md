@@ -39,8 +39,6 @@ permalink: /about/
 
 November 2017 - *WHIP – L'observatoire des groupes parlementaires à l'Assemblée nationale* ([link](https://redouad.shinyapps.io/WHIP/))
 
-September 2017 - *Le mirage Macron : jamais un nouveau président n’a été aussi impopulaire* ([link](https://pinkybrain.net/2017/09/28/le-mirage-macron-jamais-un-nouveau-president-na-ete-aussi-impopulaire/))
-
 September 2017 - *Archived tweets from French politicians* ([link](https://github.com/edomt/tweets_archive_FRpol))
 
 September 2017 - *Dataset of 27,957 video game ratings scraped from PEGI's website* ([link](https://github.com/edomt/pegi))

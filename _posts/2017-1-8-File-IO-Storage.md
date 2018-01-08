@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Efficient file input, output and storage in R
+excerpt_separator: <!--more-->
 ---
 
 Whether used in academia, industry or journalism, working with R involves importing and exporting a lot of data. While the basic functions to read and write files are known to all users, different methods have been developed over the years to optimise this process.
 
 In this article, we'll have a look at the most efficient ways to read and write permanent files (i.e. in plain-text formats such as CSV), and to save and load binary files, a solution often overlooked by R users but much better suited to regular analysis of a given dataset.
+
+<!--more-->
 
 
 ## Setting up our benchmark

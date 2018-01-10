@@ -156,7 +156,7 @@ microbenchmark(save(list = "data", file = "RDATA_file.rdata"),
 It is easy to see in those results the different implementations of those binary formats:
 
 * Among the compressed files, the RDATA and RDS functions in base R create files that are much smaller (37 MB), but much slower (8 seconds). But the `compress = 100` version of fst is even more compressed (33 MB) and only took 2.2 seconds to write to disk!
-* When compression isn't required, all implementations generate a file around 65-70 MB. `saveRDS` and `write_rds` took about 0.37 second, `write_feather` only 0.11 second... and `write_fst` with `compress = 0` only 0.08 second.
+* When compression isn't required, all implementations generate a file around 65-70 MB. `saveRDS` and `write_rds` took about 0.37 second, `write_feather` only 0.11 second, and `write_fst` with `compress = 0` only 0.08 second.
 
 
 ### Loading R objects
@@ -184,11 +184,11 @@ microbenchmark(load("RDATA_file.rdata"),
 ##      read_fst("fst_comp100_file.fst") 0.2835336 0.2865808 0.3434378 0.3261273 0.3608169 0.4697726    10
 ```
 
-Here we see that compression and time-to-load are entirely correlated: non-compressed files are *generally* loaded faster (~0.6 second for non-compressed RDS, ~0.25 second for feather and fst with `compress = 0`), while compressed versions take much longer (~0.93 second for RDS and RDATA in base R). However, the fst version with `compress = 100` only took ~0.34 second to load, which is much faster than other compressed files, and not that much longer than the uncompressed solutions!
+Here we see that compression and time-to-load are not entirely correlated: non-compressed files are *generally* loaded faster (~0.6 second for non-compressed RDS, ~0.25 second for feather and fst with `compress = 0`), while compressed versions take longer (~0.93 second for RDS and RDATA in base R). However, the fst version with `compress = 100` only took ~0.34 second to load, which is much faster than other compressed files, and not that much longer than the uncompressed solutions!
 
 Ultimately, the trade-off must be judged by each user for each situation, but I would agree with the idea that *space is generally cheaper than time*: if storing the original CSV file is possible, then storing a smaller binary file alongside should rarely be a problem; and saving significant time on each data import will be much more valuable.
 
-However, `write_fst` seems to achieve a great balance, by offering flexibility (you can choose your own compression value anywhere between 0 and 100, with a default of 50) but still loading with very compressed files extremely fast.
+Overall, `write_fst` seems to achieve a great balance, by offering flexibility (letting you choose your own compression value anywhere between 0 and 100) but still loading highly-compressed files extremely fast.
 
 
 ## Verdict

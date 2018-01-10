@@ -116,33 +116,48 @@ Fortunately, R offers many ways to store R objects (including data frames) in a 
 
 ### Saving R objects
 
-Let's now compare all of those solutions:
+Let's now compare all of those solutions.
+
+A couple of notes:
+
+* By default the `saveRDS()` function uses compression, but it's possible to disable it with `compress = FALSE`, so we'll include this possibility as well.
+* The `write_fst()` function can take an argument `compress = N` where N is a value in the range 0 to 100, indicating the amount of compression to use. The default is 50, but we'll test both extremes (0 and 100).
 
 ```r
 microbenchmark(save(list = "data", file = "RDATA_file.rdata"),
-               saveRDS(data, "baseRDS_file.rds"),
+               saveRDS(data, "baseRDS_comp_file.rds", compress = T),
+               saveRDS(data, "baseRDS_noncomp_file.rds", compress = F),
                write_rds(data, "readrRDS_file.rds"),
                write_feather(data, "feather_file.feather"),
-               write_fst(data, "fst_file.fst"),
+               write_fst(data, "fst_comp0_file.fst", compress = 0),
+               write_fst(data, "fst_comp100_file.fst", compress = 100),
                times = 10, unit = "s")
 
 ## Unit: seconds
-##                                            expr       min        lq      mean    median        uq       max neval
-##  save(list = "data", file = "RDATA_file.rdata") 8.0673156 8.0755946 8.1528986 8.1288394 8.1966048 8.3445479    10
-##               saveRDS(data, "baseRDS_file.rds") 8.0590230 8.1361188 8.2308732 8.1761716 8.2695996 8.5512118    10
-##            write_rds(data, "readrRDS_file.rds") 0.4966769 0.5041497 0.5094116 0.5117017 0.5154003 0.5165610    10
-##     write_feather(data, "feather_file.feather") 0.1691139 0.1726092 0.1776742 0.1762208 0.1795757 0.1989124    10
-##                 write_fst(data, "fst_file.fst") 0.1440342 0.1460134 0.1494708 0.1478471 0.1516870 0.1610215    10
+##                                                     expr        min         lq       mean      median         uq       max neval
+##           save(list = "data", file = "RDATA_file.rdata") 7.96338920 8.01461160 8.05888978  8.04906326 8.10588731 8.1770513    10
+##     saveRDS(data, "baseRDS_comp_file.rds", compress = T) 7.88657332 7.96057057 8.11137097  8.05012876 8.08823067 8.7744078    10
+##  saveRDS(data, "baseRDS_noncomp_file.rds", compress = F) 0.36618762 0.37159785 0.38247426  0.38253665 0.38849595 0.4012216    10
+##                     write_rds(data, "readrRDS_file.rds") 0.33957280 0.34512827 0.36789954  0.36944088 0.38139510 0.4033564    10
+##              write_feather(data, "feather_file.feather") 0.11037106 0.11065625 0.11337884  0.11259769 0.11543701 0.1191594    10
+##      write_fst(data, "fst_comp0_file.fst", compress = 0) 0.08293022 0.08501644 0.08889665  0.08691963 0.09289635 0.1002668    10
+##  write_fst(data, "fst_comp100_file.fst", compress = 100) 2.16989012 2.19063069 2.24112161  2.24799947 2.27968396 2.3116543    10
 
-##                   File Size.MB
-## 1     RDATA_file.rdata    37.2
-## 2     baseRDS_file.rds    37.2
-## 3    readrRDS_file.rds    70.3
-## 4 feather_file.feather    65.1
-## 5         fst_file.fst    50.8
+##                       File Size.MB
+## 1         RDATA_file.rdata    37.2
+## 2    baseRDS_comp_file.rds    37.2
+## 3 baseRDS_noncomp_file.rds    70.3
+## 4        readrRDS_file.rds    70.3
+## 5     feather_file.feather    65.1
+## 6       fst_comp0_file.fst    65.3
+## 7     fst_comp100_file.fst    32.9
 ```
 
-It is easy to see in those results the different implementations of those binary formats: the RDATA and RDS functions in base R create files that are much smaller (37 MB), but much slower (8 seconds). On the contrary, the readr version of RDS, as well as the feather and fst formats do not compress the data (reaching sizes of ~50-70 MB) but complete the operation extremely fast (from 0.15 to 0.5 second).
+It is easy to see in those results the different implementations of those binary formats:
+
+* Among the compressed files, the RDATA and RDS functions in base R create files that are much smaller (37 MB), but much slower (8 seconds). But the `compress = 100` version of fst is even more compressed (33 MB) and only took 2.2 seconds to write to disk!
+* When compression isn't required, all implementations generate a file around 65-70 MB. `saveRDS` and `write_rds` took about 0.37 second, `write_feather` only 0.11 second... and `write_fst` with `compress = 0` only 0.08 second.
+
 
 ### Loading R objects
 
@@ -150,27 +165,30 @@ We can then compare the performance of each equivalent reading function:
 
 ```r
 microbenchmark(load("RDATA_file.rdata"),
-               readRDS("baseRDS_file.rds"),
+               readRDS("baseRDS_comp_file.rds"),
+               readRDS("baseRDS_noncomp_file.rds"),
                read_rds("readrRDS_file.rds"),
                read_feather("feather_file.feather"),
-               read_fst("fst_file.fst"),
+               read_fst("fst_comp0_file.fst"),
+               read_fst("fst_comp100_file.fst"),
                times = 10, unit = "s")
 
 ## Unit: seconds
 ##                                  expr       min        lq      mean    median        uq       max neval
-##              load("RDATA_file.rdata") 0.9555964 0.9615745 1.0295261 0.9947425 1.0638597 1.2702307    10
-##           readRDS("baseRDS_file.rds") 0.9567269 0.9606673 1.0314218 0.9708909 1.0131944 1.2687111    10
-##         read_rds("readrRDS_file.rds") 0.6399538 0.6862210 0.8017189 0.8075097 0.8910611 0.9799408    10
-##  read_feather("feather_file.feather") 0.2624005 0.2770924 0.3620786 0.3184593 0.3856978 0.5930344    10
-##              read_fst("fst_file.fst") 0.2948647 0.3006780 0.3674351 0.3426191 0.3695636 0.6478421    10
+##              load("RDATA_file.rdata") 0.8775526 0.8892134 0.9321619 0.9253322 0.9480082 1.0236830    10
+##      readRDS("baseRDS_comp_file.rds") 0.8749464 0.8875014 0.9349717 0.9151411 0.9591819 1.0452654    10
+##   readRDS("baseRDS_noncomp_file.rds") 0.5509024 0.5629992 0.6108047 0.5701881 0.7095914 0.7261663    10
+##         read_rds("readrRDS_file.rds") 0.5769474 0.5951807 0.6423258 0.6052121 0.6814075 0.8037006    10
+##  read_feather("feather_file.feather") 0.1927875 0.1976274 0.2614764 0.2484733 0.3249248 0.3466373    10
+##        read_fst("fst_comp0_file.fst") 0.2129975 0.2145049 0.2475619 0.2207756 0.2458871 0.3549952    10
+##      read_fst("fst_comp100_file.fst") 0.2835336 0.2865808 0.3434378 0.3261273 0.3608169 0.4697726    10
 ```
 
-Same results here: non-compressed files are loaded much faster (~0.3 second for feather and fst), while compressed versions take about 3 times longer (~1 second).
+Here we see that compression and time-to-load are entirely correlated: non-compressed files are *generally* loaded faster (~0.6 second for non-compressed RDS, ~0.25 second for feather and fst with `compress = 0`), while compressed versions take much longer (~0.93 second for RDS and RDATA in base R). However, the fst version with `compress = 100` only took ~0.34 second to load, which is much faster than other compressed files, and not that much longer than the uncompressed solutions!
 
-Ultimately the trade-off must be judged by each user for each situation, but I would agree with the idea that *space is generally cheaper than time*: if storing the original CSV file is possible, then storing a smaller binary file alongside should rarely be a problem; and saving significant time on each data import will be much more valuable.
+Ultimately, the trade-off must be judged by each user for each situation, but I would agree with the idea that *space is generally cheaper than time*: if storing the original CSV file is possible, then storing a smaller binary file alongside should rarely be a problem; and saving significant time on each data import will be much more valuable.
 
-Currently and with the example dataset used here, it seems difficult to decide of a clear winner between fst and feather. Both packages achieve very similar performance; if anything, the fst file created in our example was 25% smaller, for the same execution time.
-
+However, `write_fst` seems to achieve a great balance, by offering flexibility (you can choose your own compression value anywhere between 0 and 100, with a default of 50) but still loading with very compressed files extremely fast.
 
 
 ## Verdict
@@ -181,4 +199,4 @@ Multiple solutions coexist to offer very efficient data input/output and storage
 
 * To write permanent files (e.g. CSV): `data.table::fwrite()`, added to the data.table package in 2016, includes the same optimisation features as the readr functions, but with very strong improvements in writing speeds.
 
-* To write and read optimised binary files to be loaded frequently for analysis: using the native RDS/RDATA is already a big improvement over keeping files in plain-text format, but the `feather` and `fst` formats offer undisputed speeds, at the small expense of lower compression.
+* To write and read optimised binary files to be loaded frequently for analysis: using the native RDS/RDATA is already a big improvement over keeping files in plain-text format, but the `feather` and `fst` formats offer undisputed speed improvements. At this stage I would recommend `fst`, because it does give the user the option of high compression if needed, while still loading the resulting file very quickly.

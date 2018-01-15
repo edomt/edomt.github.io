@@ -6,13 +6,13 @@ permalink: /about/
 
 ## Work
 
-🇬🇧 Since 2018 - **Data Scientist & Programmer** - University of Oxford
+🇬🇧 Since 2018 - **Data Scientist & Programmer** - [University of Oxford](https://www.phc.ox.ac.uk/)
 
-🇬🇧 2015-2018 - **Data Analyst** - University of Oxford / UK Biobank
+🇬🇧 2015-2018 - **Data Analyst** - [University of Oxford](https://www.ndph.ox.ac.uk/) / [UK Biobank](https://www.ukbiobank.ac.uk/)
 
-🇫🇷 2012-2015 - **Social Media Analyst** - La Netscouade
+🇫🇷 2012-2015 - **Social Media Analyst** - [La Netscouade](http://www.lanetscouade.com/)
 
-🇫🇷 2011-2012 - **Social Media Manager** - Europe Ecology-The Greens
+🇫🇷 2011-2012 - **Social Media Manager** - [Europe Ecology-The Greens](http://eelv.fr/)
 
 
 ## Skills

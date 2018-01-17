@@ -52,9 +52,9 @@ October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter 
 
 ## Education
 
-🇫🇷 2011-2013 - **Sciences Po Paris** - Master's degree, Marketing and Market Research
+🇫🇷 2011-2013 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Master's degree, Marketing and Market Research
 
-🇪🇸 2010-2011 - **Universidad Pontificia de Salamanca** - Facultad de Comunicación
+🇪🇸 2010-2011 - [**Pontifical University of Salamanca**](https://en.wikipedia.org/wiki/Pontifical_University_of_Salamanca) - Department of Communication
 
-🇫🇷 2008-2011 - **Sciences Po Paris** - Bachelor's degree, Political science
+🇫🇷 2008-2011 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Bachelor's degree, Political science
 

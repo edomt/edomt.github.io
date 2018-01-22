@@ -21,7 +21,7 @@ permalink: /about/
 
 **Python**: file manipulation, automation, GUI programming with Tkinter
 
-**Data storage and manipulation**: relational databases, advanced SQL, web scraping, JSON, XML
+**Data storage and manipulation**: relational databases & advanced SQL (MySQL, Ingres), JSON, XML, web scraping
 
 **Data visualisation**: Shiny, ggplot2, ggvis, Gephi
 

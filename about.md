@@ -17,22 +17,17 @@ permalink: /about/
 
 ## Skills
 
-**R**: data cleaning, manipulation & analysis (tidyverse, data.table, ggplot2, stringr, Shiny, knitr, rvest...)
+**R**: data manipulation (data.table, dplyr), cleaning (stringr, tidyr, lubridate), visualisation (ggplot2, ggvis, Shiny), input/output (readr, feather/fst, rvest), profiling and optimisation (profvis, microbenchmark).
 
-**Python**: file manipulation, automation, GUI programming with Tkinter
+**Other languages used**: SQL, C++, Python, PHP, HTML/CSS
 
-**Data storage and manipulation**: relational databases & advanced SQL (MySQL, Ingres), JSON, XML, web scraping
-
-**Data visualisation**: Shiny, ggplot2, ggvis, Gephi
+**Data collection and storage**: relational databases (MySQL, Ingres), JSON, XML, web scraping
 
 **Statistics**: frequentist inference, regression analysis, machine learning fundamentals
 
-**Development tools**: Unix shell, SublimeText, RStudio, Git
+**Development tools**: Git, Unix shell, SublimeText, RStudio
 
-**Analytics**: Twitter API, Facebook API, Google Analytics
-
-**Web development**: HTML, CSS, PHP
-
+**Analytics**: Google Analytics, Twitter API, Facebook API
 
 
 ## Things

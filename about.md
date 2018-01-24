@@ -19,7 +19,7 @@ permalink: /about/
 
 **R**: data manipulation (data.table, dplyr), cleaning (stringr, tidyr, lubridate), visualisation (ggplot2, ggvis, Shiny), input/output (readr, feather/fst, rvest), profiling and optimisation (profvis, microbenchmark).
 
-**Other languages used**: SQL, C++, Python, PHP, HTML/CSS
+**Other languages used**: SQL, Python, C++, PHP, HTML/CSS
 
 **Data collection and storage**: relational databases (MySQL, Ingres), JSON, XML, web scraping
 

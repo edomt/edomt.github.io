@@ -14,27 +14,27 @@ If your main data is stored in an SQL database, creating a connection to query t
 
 First, you need to choose which version of Ingres and R you want to run: both the Ingres driver and your installation of R need to either be 32-bit, or 64-bit, in order to communicate with each other.
 
-The simplest way to determine your existing version of R is to look at the start-up message when you start R or RStudio. As of January 2018, mine currently shows:
+The simplest way to determine your existing version of R is to look at the start-up message when you start R or RStudio. As of February 2018, mine currently shows:
 
-```r
+```
 R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
 Copyright (C) 2017 The R Foundation for Statistical Computing
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 ```
 
-This means that I'm running the 64-bit version of R, and that I need the 64-bit version of Ingres installed in order to create an interface between them.
+I'm running the 64-bit version of R, so I need the 64-bit version of Ingres installed in order to create an interface between them.
 
 As explained on [Actian's website](http://esd.actian.com/product/drivers), *"the Ingres ODBC Driver is included with the Actian Vector and Ingres Client Runtime and DBA Tools Packages."* This means that if Ingres is already installed on your computer (again, in the right version!), the driver should be available already.
 
-The easiest way to check this is to open the Windows Start Menu, type "ODBC" in the Search box, and open "XX-bit ODBC Data Source Administrator" (where XX is the version you want to use).
+The easiest way to check this is to open the Windows Start Menu, type "ODBC" in the Search box, and open "XX-bit ODBC Data Source Administrator" (where XX is the version you want to use):
 
-![ODBC in Start Menu](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/start.png)S
+![ODBC in Start Menu](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/start.png)
 
-If you see Ingres in the Drivers tab, then you're good to go. Otherwise, you'll need to [download the Ingres Client Runtime](http://esd.actian.com/product/drivers) that includes the driver.
+If you see Ingres in the Drivers tab, then you're good to go. Depending on the way you've installed Ingres on your computer, you might see different names in the Name column of the Drivers tab, including "Ingres", "Ingres CR", "Ingres VT" or "Ingres II". Take a note of the one you have, as we'll need that information later on.
 
 ![ODBC drivers](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/odbc.png)
 
-Depending on the way you've installed Ingres on your computer, you might see different names in the Name column of the Drivers tab, including "Ingres", "Ingres CR", "Ingres VT" or "Ingres II". Take a note of the one you have, as we'll need that information later on.
+Otherwise, you'll need to [download the Ingres Client Runtime](http://esd.actian.com/product/drivers) that includes the driver. Then come back to this step and take note of the driver.
 
 
 ### Setting up your vnode

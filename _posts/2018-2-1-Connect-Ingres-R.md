@@ -28,11 +28,11 @@ As explained on [Actian's website](http://esd.actian.com/product/drivers), *"the
 
 The easiest way to check this is to open the Windows Start Menu, type "ODBC" in the Search box, and open "XX-bit ODBC Data Source Administrator" (where XX is the version you want to use).
 
-start.png
+!(https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/start.png)
 
 If you see Ingres in the Drivers tab, then you're good to go. Otherwise, you'll need to [download the Ingres Client Runtime](http://esd.actian.com/product/drivers) that includes the driver.
 
-odbc.png
+!(https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/odbc.png)
 
 Depending on the way you've installed Ingres on your computer, you might see different names in the Name column of the Drivers tab, including "Ingres", "Ingres CR", "Ingres VT" or "Ingres II". Take a note of the one you have, as we'll need that information later on.
 
@@ -45,12 +45,11 @@ For this, we need the Actian Network Utility. Again, the easiest way to find it 
 
 To add a vnode, go to Node > Add, and configure a connection to your server hosting Ingres. The configuration here will depend greatly on how your system is set up, so ask for help around you if you're not sure what to use!
 
-add_vnode.png
+!(https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/add_vnode.png)
 
 Once the vnode is created, you should test it by right-clicking it in the "Nodes/Connections" list, and click on "Test Node". You should then see the following dialog box:
 
-vnode_test.png
-
+!(https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/vnode_test.png)
 
 Success! We can now finally move to R.
 

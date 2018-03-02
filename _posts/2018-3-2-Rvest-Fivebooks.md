@@ -47,10 +47,12 @@ also be using other packages, namely `dplyr`, `stringr` and
 previously, make sure to run
 `install.packages(c("rvest", "dplyr", "stringr", "data.table"))` first.
 
-    library(rvest)
-    library(dplyr)
-    library(stringr)
-    library(data.table)
+```r
+library(rvest)
+library(dplyr)
+library(stringr)
+library(data.table)
+```
 
 What do we want?
 ----------------
@@ -82,22 +84,28 @@ Let's start coding!
 We need to start from somewhere, so we'll simply use a recent interview
 that appeared on the home page of Fivebooks when I wrote this tutorial.
 
-    to_be_visited <- "https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/"
+```r
+to_be_visited <- "https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/"
+```
 
 For now our vector `to_be_visited` only contains one page that we need
 to look at. But as soon as we visit it, we'll add to `to_be_visited` all
 the recommended links given in the sidebar. Slowly this vector will
 start including all the interviews on the website.
 
-    visited <- c()
+```r
+visited <- c()
+```
 
 As soon as a page has been visited, we'll remove it from `to_be_visited`
 and add it to `visited`. We'll keep going from page to page in
 `to_be_visited` like this, until all interviews have been checked, and
 the sidebar recommendations stop adding new links to `to_be_visited`.
 
-    fivebooks_data <- list()
-    i <- 1
+```r
+fivebooks_data <- list()
+i <- 1
+```
 
 As we go from page to page, we'll create a small data.frame for each
 page with the information we need, and we'll add it to a list called
@@ -107,34 +115,38 @@ this list into one data.frame.
 
 Our main loop will take the following form:
 
-    while (length(to_be_visited) > 0) {
-      
-      # 1. Select the next page in to_be_visited
-      # 2. Gather the information we need from the interview
-      # 3. Put this information in a data.frame and insert it into fivebooks_data
-      # 4. Find the recommended links and add them to to_be_visited
-      # 5. Remove the page from to_be_visited and add it to visited
-      
-    }
+```r
+while (length(to_be_visited) > 0) {
+  
+  # 1. Select the next page in to_be_visited
+  # 2. Gather the information we need from the interview
+  # 3. Put this information in a data.frame and insert it into fivebooks_data
+  # 4. Find the recommended links and add them to to_be_visited
+  # 5. Remove the page from to_be_visited and add it to visited
+  
+}
 
-    # Merge fivebooks_data into a data.frame
+# Merge fivebooks_data into a data.frame
+```
 
 Instructions 1 and 5 are probably the easiest to write:
 
-    while (length(to_be_visited) > 0) {
-      
-      # 1. Select the next page in to_be_visited
-      current_url <- to_be_visited[1]
-      
-      # 2. Gather the information we need from the interview
-      # 3. Put this information in a small data.frame and insert it into the list
-      # 4. Find the recommended links and add them to to_be_visited,
-      #    if they haven't been visited already!
-      
-      # 5. Remove the page from to_be_visited and add it to visited
-      visited <- c(visited, current_url)
-      to_be_visited <- setdiff(to_be_visited, visited)
-    }
+```r
+while (length(to_be_visited) > 0) {
+  
+  # 1. Select the next page in to_be_visited
+  current_url <- to_be_visited[1]
+  
+  # 2. Gather the information we need from the interview
+  # 3. Put this information in a small data.frame and insert it into the list
+  # 4. Find the recommended links and add them to to_be_visited,
+  #    if they haven't been visited already!
+  
+  # 5. Remove the page from to_be_visited and add it to visited
+  visited <- c(visited, current_url)
+  to_be_visited <- setdiff(to_be_visited, visited)
+}
+```
 
 Gathering information from a webpage using rvest
 ------------------------------------------------
@@ -147,7 +159,9 @@ easy in R.
 For any given page, the first thing we'll need to do is to read the HTML
 source:
 
-    page <- read_html(current_url)
+```r
+page <- read_html(current_url)
+```
 
 From there, our object `page` contains all the source code, and
 we simply need to navigate its contents and find the relevant pieces of
@@ -225,38 +239,40 @@ This means for example that
 This might seem like a lot of functions to use, but our code is actually
 not that long at this point:
 
-    while (length(to_be_visited) > 0) {
-      
-      # 1. Select the next page in to_be_visited
-      current_url <- to_be_visited[1]
-      
-      # 2. Gather the information we need from the interview
-      page <- read_html(current_url)
-      
-      category <- page %>%
-        html_node(".interview-heading") %>%
-        html_text
-      
-      subject <- page %>%
-        html_node(".subject") %>%
-        html_text
-      
-      book <- page %>%
-        html_nodes(".interview-page-bookshelf .title") %>%
-        html_text
-      
-      author <- page %>%
-        html_nodes(".interview-page-bookshelf .book-title") %>%
-        html_text %>%
-        str_replace(".* \n    by ", "")
-      
-      # 3. Put this information in a small data.frame and insert it into the list
-      # 4. Find the recommended links and add them to to_be_visited
-      
-      # 5. Remove the page from to_be_visited and add it to visited
-      visited <- c(visited, current_url)
-      to_be_visited <- setdiff(to_be_visited, visited)
-    }
+```r
+while (length(to_be_visited) > 0) {
+  
+  # 1. Select the next page in to_be_visited
+  current_url <- to_be_visited[1]
+  
+  # 2. Gather the information we need from the interview
+  page <- read_html(current_url)
+  
+  category <- page %>%
+    html_node(".interview-heading") %>%
+    html_text
+  
+  subject <- page %>%
+    html_node(".subject") %>%
+    html_text
+  
+  book <- page %>%
+    html_nodes(".interview-page-bookshelf .title") %>%
+    html_text
+  
+  author <- page %>%
+    html_nodes(".interview-page-bookshelf .book-title") %>%
+    html_text %>%
+    str_replace(".* \n    by ", "")
+  
+  # 3. Put this information in a small data.frame and insert it into the list
+  # 4. Find the recommended links and add them to to_be_visited
+  
+  # 5. Remove the page from to_be_visited and add it to visited
+  visited <- c(visited, current_url)
+  to_be_visited <- setdiff(to_be_visited, visited)
+}
+```
 
 Storing the information
 -----------------------
@@ -270,46 +286,48 @@ before the loop, using the index `i`. After each interview, we increment
 `i` by 1 so that the next interview is stored in the next space on the
 list.
 
-    while (length(to_be_visited) > 0) {
-      
-      # 1. Select the next page in to_be_visited
-      current_url <- to_be_visited[1]
-      
-      # 2. Gather the information we need from the interview
-      page <- read_html(current_url)
-      
-      category <- page %>%
-        html_node(".interview-heading") %>%
-        html_text
-      
-      subject <- page %>%
-        html_node(".subject") %>%
-        html_text
-      
-      book <- page %>%
-        html_nodes(".interview-page-bookshelf .title") %>%
-        html_text
-      
-      author <- page %>%
-        html_nodes(".interview-page-bookshelf .book-title") %>%
-        html_text %>%
-        str_replace(".* \n    by ", "")
-      
-      # 3. Put this information in a small data.frame and insert it into the list
-      fivebooks_data[[i]] <- data.frame(category,
-                                        subject,
-                                        book,
-                                        author,
-                                        url = current_url,
-                                        stringsAsFactors = F)
-      i <- i + 1
-      
-      # 4. Find the recommended links and add them to to_be_visited
-      
-      # 5. Remove the page from to_be_visited and add it to visited
-      visited <- c(visited, current_url)
-      to_be_visited <- setdiff(to_be_visited, visited)
-    }
+```r
+while (length(to_be_visited) > 0) {
+  
+  # 1. Select the next page in to_be_visited
+  current_url <- to_be_visited[1]
+  
+  # 2. Gather the information we need from the interview
+  page <- read_html(current_url)
+  
+  category <- page %>%
+    html_node(".interview-heading") %>%
+    html_text
+  
+  subject <- page %>%
+    html_node(".subject") %>%
+    html_text
+  
+  book <- page %>%
+    html_nodes(".interview-page-bookshelf .title") %>%
+    html_text
+  
+  author <- page %>%
+    html_nodes(".interview-page-bookshelf .book-title") %>%
+    html_text %>%
+    str_replace(".* \n    by ", "")
+  
+  # 3. Put this information in a small data.frame and insert it into the list
+  fivebooks_data[[i]] <- data.frame(category,
+                                    subject,
+                                    book,
+                                    author,
+                                    url = current_url,
+                                    stringsAsFactors = F)
+  i <- i + 1
+  
+  # 4. Find the recommended links and add them to to_be_visited
+  
+  # 5. Remove the page from to_be_visited and add it to visited
+  visited <- c(visited, current_url)
+  to_be_visited <- setdiff(to_be_visited, visited)
+}
+```
 
 Adding recommandations
 ----------------------
@@ -329,50 +347,52 @@ We then add those links to the vector `to_be_visited`. Note that this
 could potentially create duplicates in this vector, but since we later
 use `setdiff` at step 5, all duplicates will be removed.
 
-    while (length(to_be_visited) > 0) {
-      
-      # 1. Select the next page in to_be_visited
-      current_url <- to_be_visited[1]
-      
-      # 2. Gather the information we need from the interview
-      page <- read_html(current_url)
-      
-      category <- page %>%
-        html_node(".interview-heading") %>%
-        html_text
-      
-      subject <- page %>%
-        html_node(".subject") %>%
-        html_text
-      
-      book <- page %>%
-        html_nodes(".interview-page-bookshelf .title") %>%
-        html_text
-      
-      author <- page %>%
-        html_nodes(".interview-page-bookshelf .book-title") %>%
-        html_text %>%
-        str_replace(".* \n    by ", "")
-      
-      # 3. Put this information in a small data.frame and insert it into the list
-      fivebooks_data[[i]] <- data.frame(category,
-                                        subject,
-                                        book,
-                                        author,
-                                        url = current_url,
-                                        stringsAsFactors = F)
-      i <- i + 1
-      
-      # 4. Find the recommended links and add them to to_be_visited
-      recommended <- page %>%
-        html_nodes(".related-item a") %>%
-        html_attr("href")
-      to_be_visited <- c(to_be_visited, recommended)
-      
-      # 5. Remove the page from to_be_visited and add it to visited
-      visited <- c(visited, current_url)
-      to_be_visited <- setdiff(to_be_visited, visited)
-    }
+```r
+while (length(to_be_visited) > 0) {
+  
+  # 1. Select the next page in to_be_visited
+  current_url <- to_be_visited[1]
+  
+  # 2. Gather the information we need from the interview
+  page <- read_html(current_url)
+  
+  category <- page %>%
+    html_node(".interview-heading") %>%
+    html_text
+  
+  subject <- page %>%
+    html_node(".subject") %>%
+    html_text
+  
+  book <- page %>%
+    html_nodes(".interview-page-bookshelf .title") %>%
+    html_text
+  
+  author <- page %>%
+    html_nodes(".interview-page-bookshelf .book-title") %>%
+    html_text %>%
+    str_replace(".* \n    by ", "")
+  
+  # 3. Put this information in a small data.frame and insert it into the list
+  fivebooks_data[[i]] <- data.frame(category,
+                                    subject,
+                                    book,
+                                    author,
+                                    url = current_url,
+                                    stringsAsFactors = F)
+  i <- i + 1
+  
+  # 4. Find the recommended links and add them to to_be_visited
+  recommended <- page %>%
+    html_nodes(".related-item a") %>%
+    html_attr("href")
+  to_be_visited <- c(to_be_visited, recommended)
+  
+  # 5. Remove the page from to_be_visited and add it to visited
+  visited <- c(visited, current_url)
+  to_be_visited <- setdiff(to_be_visited, visited)
+}
+```
 
 Putting the final touches
 -------------------------
@@ -391,58 +411,60 @@ Finally, *after* the loop, we use the `rbindlist` function from the
 Phew! That was a lot of explanations overall, but again the final code
 is not that long:
 
-    while (length(to_be_visited) > 0) {
-      
-      # 1. Select the next page in to_be_visited
-      current_url <- to_be_visited[1]
-      
-      # 2. Gather the information we need from the interview
-      page <- read_html(current_url)
-      
-      category <- page %>%
-        html_node(".interview-heading") %>%
-        html_text
-      
-      subject <- page %>%
-        html_node(".subject") %>%
-        html_text
-      
-      book <- page %>%
-        html_nodes(".interview-page-bookshelf .title") %>%
-        html_text
-      
-      author <- page %>%
-        html_nodes(".interview-page-bookshelf .book-title") %>%
-        html_text %>%
-        str_replace(".* \n    by ", "")
-      
-      # 3. Put this information in a small data.frame and insert it into the list
-      fivebooks_data[[i]] <- data.frame(category,
-                                        subject,
-                                        book,
-                                        author,
-                                        url = current_url,
-                                        stringsAsFactors = F)
-      i <- i + 1
-      
-      # 4. Find the recommended links and add them to to_be_visited
-      recommended <- page %>%
-        html_nodes(".related-item a") %>%
-        html_attr("href")
-      to_be_visited <- c(to_be_visited, recommended)
-      
-      # 5. Remove the page from to_be_visited and add it to visited
-      visited <- c(visited, current_url)
-      to_be_visited <- setdiff(to_be_visited, visited)
-      
-      message(subject,
-              " - ",
-              length(visited), " pages visited",
-              " - ",
-              length(to_be_visited), " pages left to visit")
-    }
+```r
+while (length(to_be_visited) > 0) {
+  
+  # 1. Select the next page in to_be_visited
+  current_url <- to_be_visited[1]
+  
+  # 2. Gather the information we need from the interview
+  page <- read_html(current_url)
+  
+  category <- page %>%
+    html_node(".interview-heading") %>%
+    html_text
+  
+  subject <- page %>%
+    html_node(".subject") %>%
+    html_text
+  
+  book <- page %>%
+    html_nodes(".interview-page-bookshelf .title") %>%
+    html_text
+  
+  author <- page %>%
+    html_nodes(".interview-page-bookshelf .book-title") %>%
+    html_text %>%
+    str_replace(".* \n    by ", "")
+  
+  # 3. Put this information in a small data.frame and insert it into the list
+  fivebooks_data[[i]] <- data.frame(category,
+                                    subject,
+                                    book,
+                                    author,
+                                    url = current_url,
+                                    stringsAsFactors = F)
+  i <- i + 1
+  
+  # 4. Find the recommended links and add them to to_be_visited
+  recommended <- page %>%
+    html_nodes(".related-item a") %>%
+    html_attr("href")
+  to_be_visited <- c(to_be_visited, recommended)
+  
+  # 5. Remove the page from to_be_visited and add it to visited
+  visited <- c(visited, current_url)
+  to_be_visited <- setdiff(to_be_visited, visited)
+  
+  message(subject,
+          " - ",
+          length(visited), " pages visited",
+          " - ",
+          length(to_be_visited), " pages left to visit")
+}
 
-    fivebooks_data <- rbindlist(fivebooks_data)
+fivebooks_data <- rbindlist(fivebooks_data)
+```
 
 Let's run it!
 -------------
@@ -475,11 +497,13 @@ I won't go into details since this isn't the goal of this tutorial, but by using
 
 ### Most cited books overall:
 
-    fivebooks_data %>%
-      group_by(author, book) %>%
-      tally %>%
-      ungroup %>%
-      top_n(n = 10, wt = n)
+```r
+fivebooks_data %>%
+  group_by(author, book) %>%
+  tally %>%
+  ungroup %>%
+  top_n(n = 10, wt = n)
+```
 
     ## # A tibble: 18 x 3
     ##    author           book                         n
@@ -505,12 +529,14 @@ I won't go into details since this isn't the goal of this tutorial, but by using
 
 ### Most cited authors overall:
 
-    fivebooks_data %>%
-      filter(author != "") %>%
-      group_by(author) %>%
-      tally %>%
-      ungroup %>%
-      top_n(n = 10, wt = n)
+```r
+fivebooks_data %>%
+  filter(author != "") %>%
+  group_by(author) %>%
+  tally %>%
+  ungroup %>%
+  top_n(n = 10, wt = n)
+```
 
     ## # A tibble: 10 x 2
     ##    author                  n
@@ -528,12 +554,14 @@ I won't go into details since this isn't the goal of this tutorial, but by using
 
 ### Most cited author by category:
 
-    fivebooks_data %>%
-      filter(author != "") %>%
-      group_by(category, author) %>%
-      tally %>%
-      top_n(n = 1, wt = n) %>%
-      print.data.frame()
+```r
+fivebooks_data %>%
+  filter(author != "") %>%
+  group_by(category, author) %>%
+  tally %>%
+  top_n(n = 1, wt = n) %>%
+  print.data.frame()
+```
 
     ##                           category                             author  n
     ## 1     Art, Design and Architecture                        John Berger  4

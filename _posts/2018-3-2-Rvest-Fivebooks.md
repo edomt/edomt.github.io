@@ -1,3 +1,9 @@
+---
+layout: post
+title: Web scraping: a tutorial using rvest on fivebooks.com
+excerpt_separator: <!--more-->
+---
+
 The purpose of this tutorial is to show a concrete example of how
 `rvest` can be used to build a dataset purely from an external,
 non-preformatted source of data.
@@ -10,9 +16,11 @@ interview.* Their archive consists of more than one thousand interviews
 (i.e. five thousand book recommendations), and they add 2 new interviews
 every week.
 
-Our objective today will be to use R, and in particular `rvest`, to
+Our objective will be to use R, and in particular `rvest`, to
 gather the entire list of books recommended on Fivebooks, and see which
 ones are the most popular!
+
+<!--more-->
 
 Prerequisites
 -------------

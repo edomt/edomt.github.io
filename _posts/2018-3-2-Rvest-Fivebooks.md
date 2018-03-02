@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web scraping: a tutorial using rvest on fivebooks.com
+title: A web scraping tutorial using rvest on fivebooks.com
 excerpt_separator: <!--more-->
 ---
 

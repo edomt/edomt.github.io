@@ -176,9 +176,9 @@ elements we need in the page, we find that:
 -   The book names are written in elements with the class `title`,
     inside a larger element with class `interview-page-bookshelf`. Keep
     in mind that there are 5 book names to collect, so we'll need to use
-    the right function to collect all elements under this class.
+    the right function to collect all elements under this class, not just the first one.
 -   Finally, the name of the author is also in the "bookshelf" (class
-    `interview-page-bookshelf`), in each elements of class `book-title`.
+    `interview-page-bookshelf`), in each element of class `book-title`.
     These elements contain the name of the book, followed by the name of
     the author, such as *"Adam Smith in His Time and Ours by Jerry
     Muller"*.
@@ -188,9 +188,7 @@ using the `page` object we created above, and use the `html_node`
 function to select an element based on its HTML tag or CSS class. CSS
 classes should be prefixed with `.`. For example
 `page %>% html_node(".interview-heading")` selects the first element of
-the page with a CSS class of `interview-heading`.
-
-(This notation uses the [pipe
+the page with a CSS class of `interview-heading`. (This notation uses the [pipe
 operator](https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html)
 introduced by the `magrittr` package.)
 
@@ -204,12 +202,13 @@ A couple more things to know:
     class, and then the element *inside it* that uses the second class,
     etc. For example, `html_nodes(".interview-page-bookshelf .title")`
     selects the element with a class of `interview-page-bookshelf`, and
-    then looks for elements of class `title` inside.
+    then looks for elements of class `title` inside of it.
 
 Once we have selected the right elements, our last step is to extract
 the **text** inside each element. Otherwise the element will contain its
 HTML and CSS tags, which is not what we want. For this, we use the
-`html_text` function and apply it to the selected elements.
+`html_text` function and apply it to the selected elements. Thus, `"<span class=\"subject\">Adam Smith</span>"`
+simply becomes `"Adam Smith"`.
 
 To summarise:
 
@@ -316,13 +315,13 @@ Adding recommandations
 ----------------------
 
 Let's not forget that our scraping process is based on the idea of
-gathering interview links based on the recommendations in the sidebar.
+gathering interview links, based on the recommendations in the sidebar.
 Here we'll need another bit of `rvest` code:
 `page %>% html_nodes(".related-item a") %>% html_attr("href")`.
 
 This selects all links (HTML tags `<a>`) inside all elements with CSS
-class `related-item`. After the links are created, we use the
-`html_attr` function to extract the HTML attribute of those links. Here
+class `related-item`. After the links are selected, we use the
+`html_attr` function to extract an HTML attribute of those links. Here
 we're interested in the `href` attribute, since it holds the actual URLs
 of the recommended interviews.
 
@@ -472,7 +471,9 @@ total of 1,018 interview pages visited.
 Analysing our results
 ---------------------
 
-Most cited books overall:
+I won't go into details since this isn't the goal of this tutorial, but by using `dplyr` we can easily tabulate counts on our newly created dataset, and find out what are the most recommended books and authors in more than 1,000 interviews on Fivebooks!
+
+### Most cited books overall:
 
     fivebooks_data %>%
       group_by(author, book) %>%
@@ -502,7 +503,7 @@ Most cited books overall:
     ## 17 Richard Dawkins  The Blind Watchmaker         5
     ## 18 Vasily Grossman  Life and Fate                5
 
-Most cited authors overall:
+### Most cited authors overall:
 
     fivebooks_data %>%
       filter(author != "") %>%
@@ -525,7 +526,7 @@ Most cited authors overall:
     ##  9 Virginia Woolf         14
     ## 10 William Shakespeare    19
 
-Most cited author by category:
+### Most cited author by category:
 
     fivebooks_data %>%
       filter(author != "") %>%

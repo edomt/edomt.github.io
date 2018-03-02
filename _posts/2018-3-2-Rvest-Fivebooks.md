@@ -13,12 +13,12 @@ which I've been using for many years to find book recommendations. As
 explained on the website itself, Fivebooks *asks experts to recommend
 the five best books in their subject and explain their selection in an
 interview.* Their archive consists of more than one thousand interviews
-(i.e. five thousand book recommendations), and they add 2 new interviews
+(i.e. five thousand book recommendations), and they add two new interviews
 every week.
 
-Our objective will be to use R, and in particular `rvest`, to
+Our objective will be to use R, and in particular the `rvest` package, to
 gather the entire list of books recommended on Fivebooks, and see which
-ones are the most popular!
+ones are the most popular.
 
 <!--more-->
 
@@ -55,8 +55,8 @@ previously, make sure to run
 What do we want?
 ----------------
 
-In order to get all the data we need and check the most popular books
-and authors on the website, we'll make sure to gather the following
+In order to get all the data we want and check the most popular books
+and authors on the website, we need to gather the following
 elements on each interview page:
 
 -   The general category of the interview (e.g. *Philosophy* or *World &
@@ -68,7 +68,7 @@ elements on each interview page:
 
 But in order to do this, we'll also need to build a list of all the
 interviews on Fivebooks. There could be several ways to do this,
-including using Google's indexing to simply look for pages from the
+including [using Google's indexing](https://www.google.com/search?q=site%3Afivebooks.com) to look for pages from the
 fivebooks.com domain. But if you go to [any interview page on
 Fivebooks](https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/),
 you'll notice that after some scrolling, there are links to other
@@ -82,7 +82,7 @@ Let's start coding!
 We need to start from somewhere, so we'll simply use a recent interview
 that appeared on the home page of Fivebooks when I wrote this tutorial.
 
-    to_be_visited <- c("https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/")
+    to_be_visited <- "https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/"
 
 For now our vector `to_be_visited` only contains one page that we need
 to look at. But as soon as we visit it, we'll add to `to_be_visited` all
@@ -105,7 +105,7 @@ page with the information we need, and we'll add it to a list called
 `rbindlist` function from the `data.table` package to elegantly merge
 this list into one data.frame.
 
-Our script will take the following form:
+Our main loop will take the following form:
 
     while (length(to_be_visited) > 0) {
       
@@ -140,7 +140,7 @@ Gathering information from a webpage using rvest
 ------------------------------------------------
 
 In order to write instructions 2, 3, and 4, we're going to have to use
-`rvest` in order to *scrape* data from the page. Web scraping itself
+`rvest` to *scrape* data from the page. Web scraping itself
 isn't terribly complicated, and `rvest` really makes the process very
 easy in R.
 
@@ -149,7 +149,7 @@ source:
 
     page <- read_html(current_url)
 
-From there, our object `page` contains all the information we need, and
+From there, our object `page` contains all the source code, and
 we simply need to navigate its contents and find the relevant pieces of
 data. To navigate in the source, we'll use HTML and CSS tags.
 Fortunately modern web browsers give us tools to find the tags we need
@@ -159,20 +159,20 @@ the page.
 If you go to a page like the [Adam Smith book
 interview](https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/),
 you can open the developer tools of your browser (Ctrl + Shift + I in
-Firefox and Chrome for Windows, and Cmd + Alt + I on a Mac). You can the
+Firefox and Chrome for Windows, and Cmd + Alt + I on a Mac). You can then
 use the element selector (step 1 below), and click on any element in the
 page to automatically select it in the HTML source (step 2).
 
 ![Dev tools](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/devtools_fivebooks.png)
 
 This tool is an excellent way to navigate the HTML source of a page, and
-find how to exactly select the data you need. By selecting the various
+find how to exactly select the data you need. By looking for the various
 elements we need in the page, we find that:
 
 -   The name of the category is mentioned at the top of each page, in a
-    CSS class called `interview-heading`
+    CSS class called `interview-heading`.
 -   The subject of the interview is also at the top of the page, in an
-    element with class `subject`
+    element with class `subject`.
 -   The book names are written in elements with the class `title`,
     inside a larger element with class `interview-page-bookshelf`. Keep
     in mind that there are 5 book names to collect, so we'll need to use
@@ -184,25 +184,25 @@ elements we need in the page, we find that:
     Muller"*.
 
 Now, how do we select elements in a web page using `rvest`? Simply by
-using the `page` object we created above, and use the `html_node`
+using the `page` object we created above, and the `html_node`
 function to select an element based on its HTML tag or CSS class. CSS
-classes should be prefixed with `.`. For example
+classes should be prefixed with a dot. For example
 `page %>% html_node(".interview-heading")` selects the first element of
 the page with a CSS class of `interview-heading`. (This notation uses the [pipe
 operator](https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html)
-introduced by the `magrittr` package.)
+introduced by the `magrittr` package, and included in `rvest`.)
 
 A couple more things to know:
 
 -   When multiple elements should be selected, such as for our books and
     authors, we need to use `html_nodes` (plural) instead of `html_node`
-    (singular).
+    (singular) to return all elements, not just the first one.
 -   We can specify a series of nested CSS classes in the function, in
     which case `rvest` will select the element that uses the first CSS
     class, and then the element *inside it* that uses the second class,
     etc. For example, `html_nodes(".interview-page-bookshelf .title")`
     selects the element with a class of `interview-page-bookshelf`, and
-    then looks for elements of class `title` inside of it.
+    then looks for elements of class `title` inside.
 
 Once we have selected the right elements, our last step is to extract
 the **text** inside each element. Otherwise the element will contain its
@@ -261,8 +261,8 @@ not that long at this point:
 Storing the information
 -----------------------
 
-For each interview, we'll then create a small data.frame at step 3. This
-will include the data from all of our variables: `category`, `subject`,
+For each interview, we then create a small data.frame at step 3. This
+includes the data from all of our variables: `category`, `subject`,
 `book`, `author` and `current_url`.
 
 This data.frame is stored in the `fivebooks_data` list that we created
@@ -448,7 +448,7 @@ Let's run it!
 -------------
 
 As the script starts running, we get the expected messages, telling us
-the interview being scrapped, how many pages have been visited and how
+the interview being scraped, how many pages have been visited and how
 many are left to visit.
 
     Adam Smith - 1 pages visited - 46 pages left to visit
@@ -465,7 +465,7 @@ many are left to visit.
 
 As expected, the number of pages "left to visit" quickly increases, as
 new interviews are found in the recommended links. The script takes
-several minutes to go through all interviews, but finally ends with a
+several minutes to go through all the interviews, but finally ends with a
 total of 1,018 interview pages visited.
 
 Analysing our results

@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 ---
 
 The purpose of this tutorial is to show a concrete example of how
-`rvest` can be used to build a dataset purely from an external,
+web scraping can be used to build a dataset purely from an external,
 non-preformatted source of data.
 
 Our example will be the website [Fivebooks.com](https://fivebooks.com),
@@ -28,7 +28,7 @@ Prerequisites
 This tutorial assumes a very basic knowledge of HTML/CSS, which we'll
 use to select elements in web pages. If you don't know anything about
 those two languages, I'd strongly recommend spending an hour or two
-learning the basics. Not only will you be able to read this tutorial,
+learning the basics. Not only will you be able to apply this tutorial,
 but HTML and CSS are very useful languages to understand for everyday
 tasks involving web pages.
 
@@ -48,31 +48,9 @@ previously, make sure to run
 `install.packages(c("rvest", "dplyr", "stringr", "data.table"))` first.
 
     library(rvest)
-
-    ## Loading required package: xml2
-
     library(dplyr)
-
-    ## 
-    ## Attaching package: 'dplyr'
-
-    ## The following objects are masked from 'package:stats':
-    ## 
-    ##     filter, lag
-
-    ## The following objects are masked from 'package:base':
-    ## 
-    ##     intersect, setdiff, setequal, union
-
     library(stringr)
     library(data.table)
-
-    ## 
-    ## Attaching package: 'data.table'
-
-    ## The following objects are masked from 'package:dplyr':
-    ## 
-    ##     between, first, last
 
 What do we want?
 ----------------
@@ -185,7 +163,7 @@ Firefox and Chrome for Windows, and Cmd + Alt + I on a Mac). You can the
 use the element selector (step 1 below), and click on any element in the
 page to automatically select it in the HTML source (step 2).
 
-INSERT IMAGE
+![Dev tools](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/devtools_fivebooks.png)
 
 This tool is an excellent way to navigate the HTML source of a page, and
 find how to exactly select the data you need. By selecting the various

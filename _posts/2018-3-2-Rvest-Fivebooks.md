@@ -47,12 +47,10 @@ also be using other packages, namely `dplyr`, `stringr` and
 previously, make sure to run
 `install.packages(c("rvest", "dplyr", "stringr", "data.table"))` first.
 
-```r
-library(rvest)
-library(dplyr)
-library(stringr)
-library(data.table)
-```
+    library(rvest)
+    library(dplyr)
+    library(stringr)
+    library(data.table)
 
 What do we want?
 ----------------
@@ -84,9 +82,7 @@ Let's start coding!
 We need to start from somewhere, so we'll simply use a recent interview
 that appeared on the home page of Fivebooks when I wrote this tutorial.
 
-```r
-to_be_visited <- c("https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/")
-```
+    to_be_visited <- c("https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/")
 
 For now our vector `to_be_visited` only contains one page that we need
 to look at. But as soon as we visit it, we'll add to `to_be_visited` all

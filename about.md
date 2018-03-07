@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Email: ![email](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/email.png)
+![email](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/email.png)
 
 ## Work
 

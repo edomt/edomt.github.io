@@ -23,7 +23,7 @@ permalink: /about/
 
 **Other languages used**: Python, C++, SQL, Stata, PHP, HTML/CSS
 
-**Structured data**: relational databases (MySQL, Ingres, Oracle, SQLite), entity relationship diagrams
+**Data engineering**: ETL, relational databases (MySQL, Ingres, Oracle, SQLite)
 
 **Unstructured data**: JSON, XML, web scraping
 

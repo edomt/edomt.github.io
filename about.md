@@ -55,7 +55,7 @@ October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter 
 
 ## Education
 
-🌐 2018 - [**Data Warehousing Specialization**](https://www.coursera.org/specializations/data-warehousing) - Online course, University of Colorado
+🌐 2018 - [**Database Management**](https://www.coursera.org/learn/database-management) - Online course, University of Colorado
 
 🌐 2015 - [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) - Online course, Johns Hopkins University
 

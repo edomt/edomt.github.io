@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Work
 
-🇬🇧 Since 2018 - **Tech/Data Support** - [Five Books](https://fivebooks.com/)
+🇬🇧 Since 2018 - **Developer** - [Five Books](https://fivebooks.com/)
 
 🇬🇧 Since 2018 - **Data Scientist / Programmer** - [University of Oxford](https://www.phc.ox.ac.uk/)
 

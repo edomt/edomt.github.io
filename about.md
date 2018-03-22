@@ -55,9 +55,11 @@ October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter 
 
 ## Education
 
-🌐 2015 - [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) - Online course by Johns Hopkins University
+🌐 2018 - [**Data Warehousing Specialization**](https://www.coursera.org/specializations/data-warehousing) - Online course, University of Colorado
 
-🌐 2014 - [**Data Analysis and Statistical Inference**](https://www.coursera.org/course/statistics) - Online course by Duke University
+🌐 2015 - [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) - Online course, Johns Hopkins University
+
+🌐 2014 - [**Data Analysis and Statistical Inference**](https://www.coursera.org/course/statistics) - Online course, Duke University
 
 🇫🇷 2011-2013 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Master's degree, Marketing and Market Research
 

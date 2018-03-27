@@ -53,7 +53,7 @@ December 2015 - *Non, Marine Le Pen n’est pas en mesure de devenir présidente
 October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter ?* ([link](https://medium.com/@edmathieu/a-qui-les-ministres-du-gouvernement-francais-sinteressent-ils-sur-twitter-4f21d2c98c2a))
 
 
-## Learning
+## Education
 
 💻 2018 - [**Database Management**](https://www.coursera.org/learn/database-management) - Online course, University of Colorado
 

@@ -55,11 +55,7 @@ October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter 
 
 ## Education
 
-💻 2018 - [**Database Management**](https://www.coursera.org/learn/database-management) - Online course, University of Colorado
-
 💻 2015 - [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) - Online course, Johns Hopkins University
-
-💻 2014 - [**Data Analysis and Statistical Inference**](https://www.coursera.org/course/statistics) - Online course, Duke University
 
 🇫🇷 2011-2013 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Master's degree, Marketing and Market Research
 

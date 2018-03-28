@@ -8,9 +8,9 @@ permalink: /about/
 
 ## Work
 
-💻 Since 2018 - **Developer** - [Five Books](https://fivebooks.com/)
-
 🇬🇧 Since 2018 - **Data Scientist / Programmer** - [University of Oxford](https://www.phc.ox.ac.uk/)
+
+💻 Since 2018 - **Developer** - [Five Books](https://fivebooks.com/)
 
 🇬🇧 2015-2018 - **Data Analyst** - [University of Oxford](https://www.ndph.ox.ac.uk/) / [UK Biobank](https://www.ukbiobank.ac.uk/)
 

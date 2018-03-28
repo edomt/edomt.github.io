@@ -23,7 +23,7 @@ permalink: /about/
 
 **R**: data manipulation (data.table, dplyr), cleaning (stringr, tidyr, lubridate), visualisation (ggplot2, ggvis, Shiny), input/output (readr, feather/fst, rvest), profiling and optimisation (profvis, microbenchmark)
 
-**Other languages used**: Python, C++, SQL, Stata, PHP, HTML/CSS
+**Other languages used**: Python, C++, SQL, Stata, PHP, HTML, CSS
 
 **Data engineering**: ETL, relational databases (MySQL, Ingres, Oracle, SQLite)
 
@@ -55,7 +55,7 @@ October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter 
 
 ## Education
 
-💻 2015 - [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) - Online course, Johns Hopkins University
+💻 2015 - [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) - Coursera / Johns Hopkins University
 
 🇫🇷 2011-2013 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Master's degree, Marketing and Market Research
 

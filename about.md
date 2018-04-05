@@ -12,11 +12,11 @@ permalink: /about/
 
 🌐 Since 2018 - **Developer & Interviewer** - [Five Books](https://fivebooks.com/)
 
-🇬🇧 2015-2018 - **Data Analyst** - [University of Oxford](https://www.ndph.ox.ac.uk/) / [UK Biobank](https://www.ukbiobank.ac.uk/)
+🇬🇧 2015-2018 - Data Analyst - [University of Oxford](https://www.ndph.ox.ac.uk/) / [UK Biobank](https://www.ukbiobank.ac.uk/)
 
-🇫🇷 2012-2015 - **Social Media Analyst** - [La Netscouade](http://www.lanetscouade.com/)
+🇫🇷 2012-2015 - Social Media Analyst - [La Netscouade](http://www.lanetscouade.com/)
 
-🇫🇷 2011-2012 - **Social Media Manager** - [Europe Ecology-The Greens](http://eelv.fr/)
+🇫🇷 2011-2012 - Social Media Manager - [Europe Ecology-The Greens](http://eelv.fr/)
 
 
 ## Skills

@@ -23,7 +23,7 @@ permalink: /about/
 
 **R**: data manipulation (data.table, dplyr), cleaning (stringr, tidyr, lubridate), visualisation (ggplot2, ggvis, Shiny), input/output (readr, feather/fst, rvest), profiling and optimisation (profvis, microbenchmark)
 
-**Other languages used**: Python, C++, SQL, Stata, PHP, HTML, CSS
+**Other languages**: Python, SQL, Scala, C++, PHP, HTML, CSS
 
 **Data engineering**: ETL, relational databases (MySQL, Ingres, Oracle, SQLite)
 
@@ -54,6 +54,8 @@ October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter 
 
 
 ## Education
+
+💻 2018 - [**Scala & Spark Specialization**](https://www.coursera.org/specializations/scala) - Coursera / École polytechnique fédérale de Lausanne
 
 💻 2015 - [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) - Coursera / Johns Hopkins University
 

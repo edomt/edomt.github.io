@@ -23,15 +23,13 @@ permalink: /about/
 
 **R**: data manipulation (data.table, dplyr), cleaning (stringr, tidyr, lubridate), visualisation (ggplot2, ggvis, Shiny), input/output (readr, feather/fst, rvest), profiling and optimisation (profvis, microbenchmark)
 
-**Other languages**: Python, SQL, Scala, C++, PHP, HTML, CSS
+**Other languages**: Python, SQL, Bash, PHP, HTML, CSS
 
-**Data engineering**: ETL, relational databases (MySQL, Ingres, Oracle, SQLite)
+**Data engineering**: ETL, relational databases (MySQL, Ingres, Oracle, SQLite), JSON, XML, web scraping
 
-**Unstructured data**: JSON, XML, web scraping
+**Server operating systems**: Ubuntu Server, Windows Server
 
-**Statistics**: frequentist inference, regression analysis, machine learning fundamentals
-
-**Development tools**: Git, Unix shell, SublimeText, RStudio
+**Statistics**: frequentist inference, regression analysis, machine learning techniques
 
 **Analytics**: Google Analytics, Twitter API, Facebook API
 
@@ -54,8 +52,6 @@ October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter 
 
 
 ## Education
-
-💻 2018 - [**Scala & Spark Specialization**](https://www.coursera.org/specializations/scala) - Coursera / École polytechnique fédérale de Lausanne
 
 💻 2015 - [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) - Coursera / Johns Hopkins University
 

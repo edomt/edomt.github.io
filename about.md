@@ -36,8 +36,6 @@ permalink: /about/
 
 ## Things
 
-March 2018 - *A web scraping tutorial using rvest on fivebooks.com* ([link](https://edomt.github.io/Rvest-Fivebooks/))
-
 November 2017 - *WHIP – L'observatoire des groupes parlementaires à l'Assemblée nationale* ([link](https://redouad.shinyapps.io/WHIP/))
 
 September 2017 - *Archived tweets from French politicians* ([link](https://github.com/edomt/tweets_archive_FRpol))

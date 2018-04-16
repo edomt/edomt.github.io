@@ -51,8 +51,6 @@ October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter 
 
 ## Education
 
-💻 2015 - [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) - Coursera / Johns Hopkins University
-
 🇫🇷 2011-2013 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Master's degree, Marketing and Market Research
 
 🇪🇸 2010-2011 - [**Pontifical University of Salamanca**](https://en.wikipedia.org/wiki/Pontifical_University_of_Salamanca) - Department of Communication

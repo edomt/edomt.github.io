@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digging deeper\: online resources for intermediate to advanced R users
+title: "Digging deeper: online resources for intermediate to advanced R users"
 excerpt_separator: <!--more-->
 ---
 

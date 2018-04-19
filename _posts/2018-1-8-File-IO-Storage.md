@@ -194,3 +194,5 @@ Multiple solutions coexist to offer very efficient data input/output and storage
 * To write permanent files (e.g. CSV): `data.table::fwrite()`, added to the data.table package in 2016, includes the same optimisation features as the readr functions, but with very strong improvements in writing speeds.
 
 * To write and read optimised binary files to be loaded frequently for analysis: using the native RDS/RDATA is already a big improvement over keeping files in plain-text format, but the `feather` and `fst` formats offer undisputed speed improvements. At this stage I would recommend `fst`, because it does give the user the option of high compression if needed, while still loading the resulting file very quickly.
+
+!(R logo)[https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/rstats.png]

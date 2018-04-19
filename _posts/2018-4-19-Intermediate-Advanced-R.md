@@ -4,42 +4,50 @@ title: "Digging deeper: online resources for intermediate to advanced R users"
 excerpt_separator: <!--more-->
 ---
 
-Anybody wanting to learn R from scratch in 2018 will find an incredible wealth of tutorials, interactive learning websites, and high-quality videos at their disposal - almost to a point where it's difficult to know where to start! This is of course a good thing, and is mainly due to R's quickly growing popularity, with a constant stream of new users from both industry and academia wanting to learn the fundamentals.
+Anybody wanting to learn R from scratch in 2018 will find an incredible wealth of tutorials, interactive learning websites, and high-quality videos at their disposal—almost to a point where it's difficult to know where to start! This is of course a good thing, and is mainly due to R's quickly growing popularity, with a constant stream of new users from both industry and academia wanting to learn the fundamentals.
 
-But I've found that once you reach a certain level of confidence with the language, it becomes more difficult to find material for intermediate/advanced users who wish to become really good at R programming. But these materials do exist - they just tend to be less mentioned and highlighted by the community.
+But I've found that once you reach a certain level of confidence with the language, it becomes more difficult to find material for intermediate/advanced users who wish to become really good at R programming. But these materials do exist—they just tend to be mentioned and highlighted less frequently by the community.
 
-Hence this post, where I've tried to gather a variety of books, courses and resources that should be beneficial to you, if you're at that level where you don't need another tidyverse tutorial, but wish you could read advanced advice from seasoned R programmers. 
+Hence this post, where I've tried to gather a variety of books, courses and resources that should be beneficial to you, if you're at that level where you don't need another tidyverse tutorial, but wish you could get advanced insights from seasoned R programmers. 
 
 <!--more-->
 
-Note that I've tried to only list here material that I've actually tested and used (maybe not entirely, but at least enough to judge its benefits). I'm sure there are many more resources out there that are as valuable!
+Note that I've only listed here material that I've actually tested and used (maybe not entirely, but at least enough to judge its benefits). I'm sure there are many more resources out there that are as valuable!
+
+---
 
 ## Books
 
 There are actually quite a few books available on intermediate/advanced R programming ([O'Reilly](https://ssearch.oreilly.com/?i=1;q=R;q1=Books;x1=t1&act=fc_contenttype_Books) is usually a good source for this), but I've chosen the four books below in particular because:
 
 * They cover broad areas of R programming, rather than very narrow issues that will only be interesting to specific users (such as advanced statistical models, large-scale Shiny apps, etc.);
-* All can be read for free on a dedicated website - but of course, buying a physical copy is the best way to thank their authors if you found the contents useful (which you'll most likely do!).
+* All can be read for free on a dedicated website—but of course, buying a physical copy is the best way to thank their authors if you found the contents useful (which you'll most likely do!).
 
 ### _Advanced R_, by Hadley Wickham
-http://adv-r.had.co.nz/
 
-I feel like this almost shouldn't be listed here, since it hardly fits my definition of material "less mentioned by the community"! Hadley Wickham's book is the main learning reference on advanced R programming. It takes you all the way back to the fundamentals, teaching you the intricacies of variable assignment, vectors and matrices - not because you don't know what they are, but because you don't _entirely_ know what they are. Contents also cover object-oriented programming, debugging, performance/profiling, and a highly-useful style guide.
+[http://adv-r.had.co.nz/](http://adv-r.had.co.nz/)
+
+I feel like this almost shouldn't be listed here, since it hardly fits my definition of material "less frequently mentioned by the community"! Hadley Wickham's book is the main reference on advanced R programming. It takes you all the way back to the fundamentals, teaching you the intricacies of variable assignment, vectors and matrices—not because you don't know what they are, but because you don't _entirely_ know what they are. Contents also cover object-oriented programming, debugging, performance/profiling, and a highly-useful style guide.
 
 ### _Efficient R programming_, by Colin Gillespie & Robin Lovelace
-https://csgillespie.github.io/efficientR/
 
-This book seems to be somewhat less known in the R community (I found it through a random Google search), but it is the perfect resource if you feel like you know how to get things done in R, but want to learn how to get things done "properly" and efficiently. The concept of efficiency has a broad definition here, and includes obvious aspects such as code optimisation and profiling, but also workflow, data input/output, collaboration, learning, etc. Highly recommended!
+[https://csgillespie.github.io/efficientR/](https://csgillespie.github.io/efficientR/)
+
+This book seems to be somewhat less known in the R community (I found it through a random Google search), but it is the perfect resource if you feel like you know how to get things done in R, but want to learn how to get things done "properly" and efficiently. The concept of efficiency has a broad definition here, and includes obvious aspects such as code optimisation and profiling, but also workflow, data input/output, collaboration, learning, and many others. Highly recommended!
 
 ### _Data Visualization: A practical introduction_, by Kieran Healy
-http://socviz.co/
 
-This circulated a lot on Twitter last year when it was published online, and I went through the whole website before it was subsequently published as a book. This holds extremely valuable information for anybody producing data visualizations for their projects. I found it to have the perfect balance between theoretical aspects (principles of perception, data representation, ease of understanding) and practical learning on how to implement things in ggplot2. Note that Part 2 (_"Get started"_) can be skipped almost entirely if you're already an experienced R user.
+[http://socviz.co/](http://socviz.co/)
+
+This circulated a lot on Twitter last year when it was published online, and I read the whole thing before it was subsequently published as a book. This holds extremely valuable information for anybody producing data visualizations for their projects. I found it to have the perfect balance between theoretical aspects (principles of perception, data representation, ease of understanding) and practical learning on how to implement things in ggplot2. Note that Part 2 (_"Get started"_) can be skipped almost entirely if you're already an experienced R user.
 
 ### _R packages_, by Hadley Wickham
-http://r-pkgs.had.co.nz/
 
-I haven't read _R packages_ as thoroughly as the other books above, but it is the main (and only?) exhaustive book on how (and why) to write R packages. Many people equate packages with CRAN; and while it is of course very useful to make your code available to other R users around the world, packages can also simply be a way to better organise your projects, and to make sure that your entire workflow is very tidy and fully reproducible.
+[http://r-pkgs.had.co.nz/](http://r-pkgs.had.co.nz/)
+
+I haven't read _R packages_ as thoroughly as the other books above, but it is the main reference book on how (and why) to write R packages. Many people equate packages with CRAN; and while it is of course very useful to make your code available to other R users around the world, packages can also simply be a way to better organise your projects, and to make sure that your entire workflow is very tidy and fully reproducible.
+
+---
 
 ## Courses
 
@@ -47,7 +55,7 @@ Online courses are usually much more expensive than the one-off price of a book,
 
 ### Mastering Software Development in R Specialization, by Johns Hopkins University on Coursera.org
 
-https://www.coursera.org/specializations/r
+[https://www.coursera.org/specializations/r](https://www.coursera.org/specializations/r)
 
 **Cost:** Free for 7 days, then ~$40/£28/32€ per month
 
@@ -57,7 +65,7 @@ This series of courses aims at teaching users how to _"design software for data 
 
 ### R courses on Datacamp.com
 
-https://www.datacamp.com/courses/tech:r
+[https://www.datacamp.com/courses/tech:r](https://www.datacamp.com/courses/tech:r)
 
 **Cost:** ~$29/£20/23€ per month
 
@@ -67,7 +75,7 @@ Another well-known resource in the R community, Datacamp provides one of the bes
 
 ### Code Clinic: R, by Mark Niemann-Ross on Lynda.com
 
-https://www.lynda.com/R-tutorials/Code-Clinic-R/372541-2.html
+[https://www.lynda.com/R-tutorials/Code-Clinic-R/372541-2.html](https://www.lynda.com/R-tutorials/Code-Clinic-R/372541-2.html)
 
 **Cost:** Free for 1 month, then ~$30/£21/24€ per month
 
@@ -77,14 +85,16 @@ This course is very different from everything else mentioned on this list. The i
 
 ### RStudio webinars
 
-https://www.rstudio.com/resources/webinars/
+[https://www.rstudio.com/resources/webinars/](https://www.rstudio.com/resources/webinars/)
 
 **Cost:** Free
 
 **Duration:** around 40 minutes to 1 hour
 
-The RStudio company runs regular webinars, i.e. hour-long teaching videos covering a very specific topic in R programming... so specific that you might not see any use in some of them. But I highly recommend going through their list of past webinars and watching whatever seems relevant to your particular job/role.
+The RStudio company runs regular webinars, i.e. live teaching videos covering a very specific topic in R programming... so specific that you might not see any possible use in some of them. But I highly recommend going through their list of past webinars and watching whatever seems relevant to your particular job/role.
+
+---
 
 ## What else?
 
-If you've been through all the material above, it's probably time to delve into more specific subtopics. I find [this Quora answer by Benjamin Paul Rollert](https://www.quora.com/How-do-I-become-an-expert-in-R-if-I%E2%80%99m-an-intermediate-now-Any-good-books-lectures-or-blogs/answer/Benjamin-Paul-Rollert) to be quite complete. More generally, you can search for ["advanced R courses"](https://duckduckgo.com/?q=advanced+r+course&t=ffab&ia=web) being taught in universities or elsewhere. Those courses often list the topics covered during the day on the booking page, so that's another great place to find ways to extend your R knowledge.
+If you've been through all the material above, it's probably time to delve into more specific subtopics. I find [this Quora answer by Benjamin Paul Rollert](https://www.quora.com/How-do-I-become-an-expert-in-R-if-I%E2%80%99m-an-intermediate-now-Any-good-books-lectures-or-blogs/answer/Benjamin-Paul-Rollert) to be quite complete. More generally, you can search for ["advanced R courses"](https://duckduckgo.com/?q=advanced+r+course&t=ffab&ia=web) being taught in universities or elsewhere. The topics covered by the course are often listed on the booking page, so that's another great way to find new areas to explore.

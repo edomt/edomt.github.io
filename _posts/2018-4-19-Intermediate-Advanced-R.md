@@ -1,10 +1,16 @@
-# Digging deeper: online resources for intermediate to advanced R users
+---
+layout: post
+title: Digging deeper: online resources for intermediate to advanced R users
+excerpt_separator: <!--more-->
+---
 
 Anybody wanting to learn R from scratch in 2018 will find an incredible wealth of tutorials, interactive learning websites, and high-quality videos at their disposal - almost to a point where it's difficult to know where to start! This is of course a good thing, and is mainly due to R's quickly growing popularity, with a constant stream of new users from both industry and academia wanting to learn the fundamentals.
 
 But I've found that once you reach a certain level of confidence with the language, it becomes more difficult to find material for intermediate/advanced users who wish to become really good at R programming. But these materials do exist - they just tend to be less mentioned and highlighted by the community.
 
 Hence this post, where I've tried to gather a variety of books, courses and resources that should be beneficial to you, if you're at that level where you don't need another tidyverse tutorial, but wish you could read advanced advice from seasoned R programmers. 
+
+<!--more-->
 
 Note that I've tried to only list here material that I've actually tested and used (maybe not entirely, but at least enough to judge its benefits). I'm sure there are many more resources out there that are as valuable!
 

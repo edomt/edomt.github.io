@@ -23,6 +23,8 @@ There are actually quite a few books available on intermediate/advanced R progra
 * They cover broad areas of R programming, rather than very narrow issues that will only be interesting to specific users (such as advanced statistical models, large-scale Shiny apps, etc.);
 * All can be read for free on a dedicated website—but of course, buying a physical copy is the best way to thank their authors if you found the contents useful (which you'll most likely do!).
 
+![Advanced R books](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/bookshelf.png)
+
 ### _Advanced R_, by Hadley Wickham
 
 [http://adv-r.had.co.nz/](http://adv-r.had.co.nz/)
@@ -98,5 +100,3 @@ The RStudio company runs regular webinars, i.e. live teaching videos covering a 
 ## What else?
 
 If you've been through all the material above, it's probably time to delve into more specific subtopics. I find [this Quora answer by Benjamin Paul Rollert](https://www.quora.com/How-do-I-become-an-expert-in-R-if-I%E2%80%99m-an-intermediate-now-Any-good-books-lectures-or-blogs/answer/Benjamin-Paul-Rollert) to be quite complete. More generally, you can search for ["advanced R courses"](https://duckduckgo.com/?q=advanced+r+course&t=ffab&ia=web) being taught in universities or elsewhere. The topics covered by the course are often listed on the booking page, so that's another great way to find new areas to explore.
-
-![R logo](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/rstats.png)

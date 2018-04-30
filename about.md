@@ -36,17 +36,19 @@ permalink: /about/
 
 ## Things
 
-November 2017 - *WHIP – L'observatoire des groupes parlementaires à l'Assemblée nationale* ([link](https://redouad.shinyapps.io/WHIP/))
+Apr. 2018 - *Five Books – The best books on Computer Science and Programming* ([link](https://fivebooks.com/best-books/programming-computer-science-ana-bell/))
 
-September 2017 - *Archived tweets from French politicians* ([link](https://github.com/edomt/tweets_archive_FRpol))
+Nov. 2017 - *WHIP – L'observatoire des groupes parlementaires à l'Assemblée nationale* ([link](https://redouad.shinyapps.io/WHIP/))
 
-September 2017 - *Dataset of 27,957 video game ratings scraped from PEGI's website* ([link](https://github.com/edomt/pegi))
+Sep. 2017 - *Archived tweets from French politicians* ([link](https://github.com/edomt/tweets_archive_FRpol))
 
-January 2016 - *Qui sont les meilleurs et les pires députés de 2015 ?* ([link](https://www.lesechos.fr/15/01/2016/lesechos.fr/021620041874_qui-sont-les-meilleurs-et-les-pires-deputes-de-2015--.htm), [link](https://github.com/edomt/datapol))
+Sep. 2017 - *Dataset of 27,957 video game ratings scraped from PEGI's website* ([link](https://github.com/edomt/pegi))
 
-December 2015 - *Non, Marine Le Pen n’est pas en mesure de devenir présidente en 2017* ([link](https://medium.com/@edmathieu/non-marine-le-pen-n-est-pas-en-mesure-de-devenir-pr%C3%A9sidente-en-2017-859ebe516e5d))
+Jan. 2016 - *Qui sont les meilleurs et les pires députés de 2015 ?* ([link](https://www.lesechos.fr/15/01/2016/lesechos.fr/021620041874_qui-sont-les-meilleurs-et-les-pires-deputes-de-2015--.htm), [link](https://github.com/edomt/datapol))
 
-October 2014 - *À qui les ministres français s’intéressent-ils sur Twitter ?* ([link](https://medium.com/@edmathieu/a-qui-les-ministres-du-gouvernement-francais-sinteressent-ils-sur-twitter-4f21d2c98c2a))
+Dec. 2015 - *Non, Marine Le Pen n’est pas en mesure de devenir présidente en 2017* ([link](https://medium.com/@edmathieu/non-marine-le-pen-n-est-pas-en-mesure-de-devenir-pr%C3%A9sidente-en-2017-859ebe516e5d))
+
+Oct. 2014 - *À qui les ministres français s’intéressent-ils sur Twitter ?* ([link](https://medium.com/@edmathieu/a-qui-les-ministres-du-gouvernement-francais-sinteressent-ils-sur-twitter-4f21d2c98c2a))
 
 
 ## Education

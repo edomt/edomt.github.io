@@ -11,23 +11,23 @@ each variable in the file:
 
 -   Its data type in your R data.frame;
 -   Some more information about the data (range for integers and
-integers, maximum decimal places for floats, maximum length for
+dates, maximum decimal places for floats, maximum length for
 strings);
 -   The corresponding data type in MySQL 8.0;
 -   Whether the column includes missing values.
 
 <!--more-->
 
-If your files include dates and times, the use of readr::read\_\* is
-highly recommended. Other import functions such as read.\* or
-data.table::fwrite will correctly identify numbers and strings, but
+If your files include dates and times, the use of `readr::read\_\*` is
+highly recommended. Other import functions such as `read.\*` or
+`data.table::fwrite` will correctly identify numbers and strings, but
 read\_\* will also recognise dates and times and convert them to the
-appropriate formats.
+appropriate format.
 
 Of course the results shown by this script are purely indicative of the
 data that currently exists in your file. Just because a string variable
-has a maximum length of 240 characters in your data, doesn't mean that
-future files won't ever include longer strings. So the MySQL data types
+has a maximum length of 255 characters in your data, doesn't mean that
+future files won't ever include longer strings. The MySQL data types
 obtained with this script should be carefully reviewed, and compared to
 the theoretical specifications of the data you're working with.
 

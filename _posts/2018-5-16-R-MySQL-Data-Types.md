@@ -18,7 +18,7 @@ strings);
 
 <!--more-->
 
-If your files include dates and times, the use of `r readr::read_*` is
+If your files include dates and times, the use of `readr::read_*` is
 highly recommended. Other import functions such as `read.*` or
 `data.table::fwrite` will correctly identify numbers and strings, but
 read\_\* will also recognise dates and times and convert them to the

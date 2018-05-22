@@ -25,7 +25,7 @@ permalink: /about/
 
 **Other languages**: Python, SQL, Bash, PHP, HTML, CSS
 
-**Data engineering**: relational databases (MySQL, Ingres, Oracle, SQLite), NoSQL (MongoDB, JSON, XML), web scraping
+**Data engineering**: relational databases (MySQL, Ingres, Oracle, SQLite), NoSQL (JSON, XML), web scraping
 
 **Server operating systems**: Ubuntu Server, Windows Server
 

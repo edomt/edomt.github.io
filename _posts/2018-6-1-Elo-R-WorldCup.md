@@ -60,7 +60,7 @@ scene is a nice introduction to Elo, the idea that Zuckerberg would need
 his roommate to "give him the algorithm" – as opposed to just looking it
 up himself, say, on the Internet – is a bit naive. But anyway.)
 
-![Elo in The Social Network](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/social-network1.jpg)
+[![Elo in The Social Network](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/social-network1.jpg)](https://www.youtube.com/watch?v=10AeyTCeZJM)
 
 Getting our data
 ----------------

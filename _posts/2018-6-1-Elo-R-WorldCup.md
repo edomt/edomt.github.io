@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to rank the 32 teams in the 2018 World Cup with R and the 'elo' package
+title: How to rank the 32 teams in the 2018 FIFA World Cup with R and the 'elo' package
 excerpt_separator: <!--more-->
 ---
 

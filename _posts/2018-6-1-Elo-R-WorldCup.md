@@ -82,7 +82,7 @@ library(dplyr)
 matches <- readr::read_csv('results.csv')
 ```
 
-As of 1 June 2018, this dataset includes data on 38949 international
+As of 1 June 2018, this dataset includes data on 38,949 international
 football matches from 30 November 1872 to 28 May 2018.
 
 The data is easy enough to understand. There are only 9 variables, with
@@ -381,6 +381,6 @@ choosing Russia), and update the Elo ratings throughout the competition.
 This way, you can simulate the entire competition all the way from the
 group stage to the final. And if you repeat this process many (thousands
 of) times, you will get detailed probabilities for each team to make
-it to the each stage of the competition. (This is essentially what
+it to the each stage of the competition. This is essentially what
 websites like FiveThirtyEight do for [their sport predictions](https://projects.fivethirtyeight.com/2018-mlb-predictions/), with
-probabilities based on 100,000 simulations of the rest of the season.)
+probabilities based on 100,000 simulations of the rest of the season.

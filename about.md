@@ -34,6 +34,15 @@ permalink: /about/
 **Analytics**: Google Analytics, Twitter API, Facebook API
 
 
+## Education
+
+🇫🇷 2011-2013 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Master's degree, Marketing and Market Research
+
+🇪🇸 2010-2011 - [**Pontifical University of Salamanca**](https://en.wikipedia.org/wiki/Pontifical_University_of_Salamanca) - Department of Communication
+
+🇫🇷 2008-2011 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Bachelor's degree, Political science
+
+
 ## Things
 
 Apr. 2018 - *Five Books – The best books on Computer Science and Programming* ([link](https://fivebooks.com/best-books/programming-computer-science-ana-bell/))
@@ -49,13 +58,4 @@ Jan. 2016 - *Qui sont les meilleurs et les pires députés de 2015 ?* ([link](ht
 Dec. 2015 - *Non, Marine Le Pen n’est pas en mesure de devenir présidente en 2017* ([link](https://medium.com/@edmathieu/non-marine-le-pen-n-est-pas-en-mesure-de-devenir-pr%C3%A9sidente-en-2017-859ebe516e5d))
 
 Oct. 2014 - *À qui les ministres français s’intéressent-ils sur Twitter ?* ([link](https://medium.com/@edmathieu/a-qui-les-ministres-du-gouvernement-francais-sinteressent-ils-sur-twitter-4f21d2c98c2a))
-
-
-## Education
-
-🇫🇷 2011-2013 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Master's degree, Marketing and Market Research
-
-🇪🇸 2010-2011 - [**Pontifical University of Salamanca**](https://en.wikipedia.org/wiki/Pontifical_University_of_Salamanca) - Department of Communication
-
-🇫🇷 2008-2011 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Bachelor's degree, Political science
 

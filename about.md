@@ -36,11 +36,11 @@ permalink: /about/
 
 ## Education
 
-🇫🇷 2011-2013 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Master's degree, Marketing and Market Research
+🇫🇷 2011-2013 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Master's degree, Marketing and Studies
 
 🇪🇸 2010-2011 - [**Pontifical University of Salamanca**](https://en.wikipedia.org/wiki/Pontifical_University_of_Salamanca) - Department of Communication
 
-🇫🇷 2008-2011 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Bachelor's degree, Political science
+🇫🇷 2008-2011 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Bachelor's degree (law, economics, history, political science, sociology)
 
 
 ## Things

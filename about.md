@@ -45,9 +45,9 @@ permalink: /about/
 
 ## Things
 
-Aug. 2018 - *Five Books – The best books on Computer Science for Data Scientists* ([link](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/))
+Aug. 2018 - *Five Books – The best books on Computer Science for Data Scientists, with Hadley Wickham* ([link](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/))
 
-Apr. 2018 - *Five Books – The best books on Computer Science and Programming* ([link](https://fivebooks.com/best-books/programming-computer-science-ana-bell/))
+Apr. 2018 - *Five Books – The best books on Computer Science and Programming, with Ana Bell* ([link](https://fivebooks.com/best-books/programming-computer-science-ana-bell/))
 
 Nov. 2017 - *WHIP – L'observatoire des groupes parlementaires à l'Assemblée nationale* ([link](https://redouad.shinyapps.io/WHIP/))
 

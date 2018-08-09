@@ -3,7 +3,7 @@ layout: post
 title: My interview with Hadley Wickham on the best books for data scientists learning computer science
 ---
 
-[![Hadley Wickham's book choices](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/hadley_books.png)](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
+[![Hadley's book choices](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/hadley_books.png)](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
 
 I'm very happy to publish today my Five Books interview with Hadley Wickham, one of the most respected programmers in the world of data science and R. Hadley recommended five of the best computer science books for data scientists, which gave us an opportunity to discuss programming languages, writing style, and the future of the tidyverse.
 

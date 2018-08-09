@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My interview with Hadley Wickham, Chief Scientist at RStudio and creator of the tidyverse, on the best books for data scientists learning computer science
+title: My interview with Hadley Wickham on the best books for data scientists learning computer science
 ---
 
 [![Hadley Wickham's book choices](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/hadley_books.png)](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)

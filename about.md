@@ -21,9 +21,11 @@ permalink: /about/
 
 ## Skills
 
-**R**: data manipulation (data.table, dplyr), cleaning (stringr, tidyr, lubridate), visualisation (ggplot2, Shiny), input/output (readr, feather/fst, rvest), profiling and optimisation (profvis, microbenchmark)
+**R**: data manipulation (data.table, dplyr), cleaning, visualisation (ggplot2, Shiny), input/output, web scraping, profiling/optimisation
 
-**Other languages**: Python, SQL, Bash, Octave, PHP, HTML, CSS
+**Python**: pandas, matplotlib, scikit-learn, nltk, networkx, Jupyter Notebooks
+
+**Other languages**: SQL, Bash, Octave, PHP, HTML, CSS
 
 **Machine learning & stats**: frequentist inference, linear/logistic regression, supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks), unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning)
 

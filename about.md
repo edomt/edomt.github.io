@@ -45,6 +45,8 @@ permalink: /about/
 
 ## Things
 
+Sep. 2018 - *Five Books – The best books on Existential Risks, recommended by The Centre for the Study of Existential Risk* ([link](https://fivebooks.com/best-books/existential-risks-cambridge-cser/))
+
 Aug. 2018 - *Five Books – The best books on Computer Science for Data Scientists, with Hadley Wickham* ([link](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/))
 
 Apr. 2018 - *Five Books – The best books on Computer Science and Programming, with Ana Bell* ([link](https://fivebooks.com/best-books/programming-computer-science-ana-bell/))

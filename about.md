@@ -47,6 +47,8 @@ permalink: /about/
 
 ## Things
 
+Oct. 2018 - *Five Books – The best books on Data Science, recommended by Roger D. Peng* ([link](https://fivebooks.com/best-books/data-science-roger-peng/))
+
 Sep. 2018 - *Five Books – The best books on Existential Risks, recommended by The Centre for the Study of Existential Risk* ([link](https://fivebooks.com/best-books/existential-risks-cambridge-cser/))
 
 Aug. 2018 - *Five Books – The best books on Computer Science for Data Scientists, with Hadley Wickham* ([link](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/))

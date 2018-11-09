@@ -21,15 +21,15 @@ permalink: /about/
 
 ## Skills
 
-**R**: data manipulation (data.table, dplyr), cleaning, visualisation (ggplot2, Shiny), input/output, web scraping, profiling/optimisation
+**Python**: pandas, matplotlib, scikit-learn, nltk, Jupyter Notebooks
 
-**Python**: pandas, matplotlib, scikit-learn, nltk, networkx, Jupyter Notebooks
+**R**: data manipulation (data.table, dplyr), cleaning, visualisation (ggplot2, Shiny), input/output, web scraping, profiling/optimisation
 
 **Other languages**: SQL, Bash, Octave, PHP, HTML, CSS
 
 **Machine learning & stats**: frequentist inference, linear/logistic regression, supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks), unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning)
 
-**Data engineering**: relational databases (MySQL, Ingres, Oracle, SQLite), NoSQL (JSON, XML), web scraping
+**Data engineering**: cloud computing (AWS, GCP), relational databases (MySQL, Ingres), NoSQL, web scraping
 
 **Server operating systems**: Ubuntu Server, Windows Server
 

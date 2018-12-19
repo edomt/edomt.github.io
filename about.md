@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Work
 
-🇫🇷 **Since 2018 - Data Engineer/Scientist - [Neoxia](https://neoxia.com/)**
+🇫🇷 **Since 2018 - Data Scientist/Engineer - [Neoxia](https://neoxia.com/)**
 
 🌐 **Since 2018 - Science & Technology Editor - [Five Books](https://fivebooks.com/)**
 

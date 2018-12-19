@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My interview with Hadley Wickham on the best books for data scientists learning computer science
+title: My interview with Hadley Wickham, on the best books to learn computer science
 ---
 
 [![Hadley's book choices](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/hadley_books.png)](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)

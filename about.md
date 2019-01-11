@@ -12,7 +12,7 @@ permalink: /about/
 
 🌐 **Since 2018 - Science & Technology Editor - [Five Books](https://fivebooks.com/)**
 
-🇬🇧 2015-2018 - Data Scientist / Programmer - [University of Oxford](https://www.medsci.ox.ac.uk/)
+🇬🇧 2015-2018 - Data Scientist/Programmer - [University of Oxford](https://www.medsci.ox.ac.uk/)
 
 🇫🇷 2012-2015 - Social Media Analyst - [La Netscouade](http://www.lanetscouade.com/)
 
@@ -21,19 +21,19 @@ permalink: /about/
 
 ## Skills
 
-**Python**: pandas, matplotlib, scikit-learn, nltk, Jupyter Notebooks
+**Python**: data manipulation/transformation (pandas), scientific computing (numpy), visualisation (matplotlib), machine learning (scikit-learn), language processing (nltk), web scraping (Beautiful Soup)
 
-**R**: data manipulation (data.table, dplyr), cleaning, visualisation (ggplot2, Shiny), input/output, web scraping, profiling/optimisation
+**R**: data manipulation/transformation (data.table, dplyr), cleaning (tidyr, stringr), visualisation (ggplot2, Shiny), reading/writing (readr, rio, feather, fst), web scraping (rvest), profiling/optimisation
 
-**Other languages**: SQL, Bash, Octave, PHP, HTML, CSS
+**Data engineering**: certified Professional Data Engineer on Google Cloud Platform (GCP): BigQuery, Bigtable, Dataflow, Cloud SQL, Datastore, Datalab, GCE, GCS. Amazon Web Serices (AWS): Aurora, RDS, DynamoDB, Redshift, Sagemaker, EC2, S3.
 
-**Machine learning & stats**: frequentist inference, linear/logistic regression, supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks), unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning)
+**Machine learning & statistics**: frequentist inference, linear/logistic regression, supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks), unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning)
 
-**Data engineering**: cloud computing (AWS, GCP), relational databases (MySQL, Ingres), NoSQL, web scraping
+**Other languages**: Bash, SQL, PHP, HTML/CSS
 
-**Server operating systems**: Ubuntu Server, Windows Server
+**Operating systems**: macOS, Ubuntu, Windows
 
-**Analytics**: Google Analytics, Twitter API, Facebook API
+**Web analytics**: Google Analytics, Twitter API, Facebook API
 
 
 ## Education
@@ -56,8 +56,6 @@ Sep. 2018 - *Five Books – The best books on Existential Risks, recommended by 
 Aug. 2018 - *Five Books – The best books on Computer Science for Data Scientists, with Hadley Wickham* ([link](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/))
 
 Apr. 2018 - *Five Books – The best books on Computer Science and Programming, with Ana Bell* ([link](https://fivebooks.com/best-books/programming-computer-science-ana-bell/))
-
-Nov. 2017 - *WHIP – L'observatoire des groupes parlementaires à l'Assemblée nationale* ([link](https://redouad.shinyapps.io/WHIP/))
 
 Sep. 2017 - *Archived tweets from French politicians* ([link](https://github.com/edomt/tweets_archive_FRpol))
 

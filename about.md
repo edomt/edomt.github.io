@@ -27,6 +27,7 @@ permalink: /about/
 
 **Data engineering**: certified Professional Data Engineer on Google Cloud Platform (GCP): BigQuery, Bigtable, Dataflow, Cloud SQL, Datastore, Datalab, GCE, GCS.
 Amazon Web Services (AWS): Aurora, RDS, DynamoDB, Redshift, Sagemaker, EC2, S3.
+Apache Airflow.
 
 **Machine learning & statistics**: frequentist inference, linear/logistic regression, supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks), unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning)
 
@@ -47,6 +48,8 @@ Amazon Web Services (AWS): Aurora, RDS, DynamoDB, Redshift, Sagemaker, EC2, S3.
 
 
 ## Things
+
+Mar. 2019 - *JDN – Big data : assiste-t-on à l'émergence d'une expertise data "full-stack" ?* ([link](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml))
 
 Jan. 2019 - *Five Books – The best books on Effective Altruism, recommended by Will MacAskill* ([link](https://fivebooks.com/best-books/effective-altruism-will-macaskill/))
 

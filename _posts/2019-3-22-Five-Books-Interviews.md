@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My science & tech-related interviews on Five Books
+title: My science & tech interviews on Five Books
 ---
 
 Since early 2018, I've been very lucky to be part of the editorial team at [Five Books](https://www.fivebooks.com). Here are a few links to my science and tech-related interviews:

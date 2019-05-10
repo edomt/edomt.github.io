@@ -3,7 +3,7 @@ layout: post
 title: My science & tech interviews on Five Books
 ---
 
-Since early 2018, I've been very lucky to be part of the editorial team at [Five Books](https://www.fivebooks.com). Here are a few links to my science and tech-related interviews:
+Since 2018, I've had the pleasure to be part of the editorial team at [Five Books](https://www.fivebooks.com). Here are a few links to my science and tech-related interviews:
 
 * [The best books on Effective Altruism, recommended by Will MacAskill](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)
 * [The best books on Data Science, recommended by Roger D. Peng](https://fivebooks.com/best-books/data-science-roger-peng/)

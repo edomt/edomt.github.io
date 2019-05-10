@@ -21,15 +21,15 @@ permalink: /about/
 
 ## Skills
 
-**Python**: data manipulation/transformation (pandas), scientific computing (numpy), visualisation (matplotlib, seaborn), machine learning (scikit-learn), language processing (nltk), web scraping (Beautiful Soup)
+**Python**: data manipulation/transformation (pandas), scientific computing (numpy), machine learning (keras, scikit-learn), visualisation (matplotlib, seaborn), language processing (nltk), web scraping (Beautiful Soup)
 
 **R**: data manipulation/transformation (data.table, dplyr), cleaning (tidyr, stringr), visualisation (ggplot2, Shiny), reading/writing (readr, rio, feather, fst), web scraping (rvest), profiling/optimisation
+
+**Machine learning & statistics**: frequentist inference, linear/logistic regression, supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks & deep learning), unsupervised learning (clustering, dimensionality reduction, recommender systems)
 
 **Data engineering**: certified Professional Data Engineer on Google Cloud Platform (GCP): BigQuery, Bigtable, Dataflow, Cloud SQL, Datastore, Datalab, GCE, GCS.
 Amazon Web Services (AWS): Aurora, RDS, DynamoDB, Redshift, Sagemaker, EC2, S3.
 Apache Airflow.
-
-**Machine learning & statistics**: frequentist inference, linear/logistic regression, supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks), unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning)
 
 **Other languages**: Bash, SQL, PHP, HTML/CSS
 

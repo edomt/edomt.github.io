@@ -49,6 +49,8 @@ Apache Airflow.
 
 ## Things
 
+May 2019 - *10th place in the 2019 Data Science Olympics, a machine learning contest in Berlin and Paris with 2 hours to create the best predictive model* ([website](https://www.datascience-olympics.com/), [leaderboard](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/dso2019_results.png))
+
 Mar. 2019 - *JDN – Big data : assiste-t-on à l'émergence d'une expertise data "full-stack" ?* ([link](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml))
 
 Jan. 2019 - *Five Books – The best books on Effective Altruism, recommended by Will MacAskill* ([link](https://fivebooks.com/best-books/effective-altruism-will-macaskill/))

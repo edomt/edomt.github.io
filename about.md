@@ -47,7 +47,7 @@ Apache Airflow.
 🇫🇷 2008-2011 - [**Sciences Po Paris**](https://en.wikipedia.org/wiki/Sciences_Po) - Bachelor's degree (law, economics, history, political science, sociology)
 
 
-## Things
+## Projects
 
 Jul. 2019 - *Five Books – The best books on Learning Python and Data Science, recommended by Vicki Boykis* ([link](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/))
 

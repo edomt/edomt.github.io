@@ -8,15 +8,15 @@ permalink: /about/
 
 ## Work
 
-🇫🇷 **Since 2018 - Data Scientist/Engineer - [Neoxia](https://neoxia.com/)**
+🇫🇷 **Since 2018 – Data Scientist/Engineer – [Neoxia](https://neoxia.com/)**
 
-🌐 **Since 2018 - Interviewer - [Five Books](https://fivebooks.com/)**
+🌐 **Since 2018 – Interviewer – [Five Books](https://fivebooks.com/)**
 
-🇬🇧 2015-2018 - Data Scientist/Programmer - [University of Oxford](https://www.medsci.ox.ac.uk/)
+🇬🇧 2015-2018 – Data Scientist/Programmer – [University of Oxford](https://www.medsci.ox.ac.uk/)
 
-🇫🇷 2012-2015 - Social Media Analyst - [La Netscouade](http://www.lanetscouade.com/)
+🇫🇷 2012-2015 – Social Media Analyst – [La Netscouade](http://www.lanetscouade.com/)
 
-🇫🇷 2011-2012 - Social Media Manager - [Europe Ecology-The Greens](http://eelv.fr/)
+🇫🇷 2011-2012 – Social Media Manager – [Europe Ecology-The Greens](http://eelv.fr/)
 
 
 ## Skills

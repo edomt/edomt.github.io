@@ -44,7 +44,7 @@ Apache Airflow.
 
 🇪🇸 2010-2011 - [**Pontifical University of Salamanca**](https://www.upsa.es/) - Department of Communication
 
-🇫🇷 2008-2011 - [**Sciences Po Paris**](https://www.sciencespo.fr/en/home) - Bachelor's degree (law, economics, history, political science, sociology)
+🇫🇷 2008-2011 - [**Sciences Po Paris**](https://www.sciencespo.fr/en/home) - Bachelor's degree (law, economics, history, political science, humanities and sociology)
 
 
 ## Projects

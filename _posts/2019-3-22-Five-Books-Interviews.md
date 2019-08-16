@@ -10,7 +10,7 @@ Since 2018, I've had the pleasure to be part of the editorial team at [Five Book
 * [The best books on Learning Python and Data Science, recommended by **Vicki Boykis**](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/)
 * [The best books on Computer Science and Programming, recommended by **Ana Bell**](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
 
-As well as interviews on other personal interests:
+As well as other interviews on a variety of subjects:
 
 * [The best books on Effective Altruism, recommended by **Will MacAskill**](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)
 * [The best books on Existential Risks, recommended by **The Centre for the Study of Existential Risk**](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)

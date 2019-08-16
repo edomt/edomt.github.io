@@ -3,17 +3,17 @@ layout: post
 title: My interviews on Five Books
 ---
 
-Since 2018, I've had the pleasure to be part of the editorial team at [Five Books](https://www.fivebooks.com). I've mainly published science and tech-related interviews:
+Since 2018, I've had the pleasure to be part of the editorial team at [Five Books](https://www.fivebooks.com). I've published several data and programming-related interviews:
 
 * [The best books on Computer Science for Data Scientists, recommended by **Hadley Wickham**](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
 * [The best books on Data Science, recommended by **Roger D. Peng**](https://fivebooks.com/best-books/data-science-roger-peng/)
-* [The best books on Effective Altruism, recommended by **Will MacAskill**](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)
 * [The best books on Learning Python and Data Science, recommended by **Vicki Boykis**](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/)
-* [The best books on Existential Risks, recommended by **The Centre for the Study of Existential Risk**](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)
 * [The best books on Computer Science and Programming, recommended by **Ana Bell**](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
 
-And also a few interviews on other interests of mine:
+As well as interviews on other personal interests:
 
+* [The best books on Effective Altruism, recommended by **Will MacAskill**](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)
+* [The best books on Existential Risks, recommended by **The Centre for the Study of Existential Risk**](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)
 * [The best books on Modern Japanese Literature, recommended by **Linda Flores**](https://fivebooks.com/best-books/modern-japanese-literature-linda-flores/)
 * [The best books on Anarchism, recommended by **Ruth Kinna**](https://fivebooks.com/best-books/anarchism-ruth-kinna/)
 

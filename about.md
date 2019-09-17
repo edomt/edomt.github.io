@@ -10,6 +10,8 @@ permalink: /about/
 
 🇫🇷 **Since 2018 – Data Scientist/Engineer – [Neoxia](https://neoxia.com/)**
 
+🌐 **Since 2019 – Mentor – [OpenClassrooms](https://openclassrooms.com)**
+
 🌐 **Since 2018 – Interviewer – [Five Books](https://fivebooks.com/)**
 
 🇬🇧 2015-2018 – Data Scientist/Programmer – [University of Oxford](https://www.medsci.ox.ac.uk/)

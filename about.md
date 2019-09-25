@@ -8,13 +8,13 @@ permalink: /about/
 
 ## Work
 
-🇫🇷 **Since 2018 – Data Scientist/Engineer – [Neoxia](https://neoxia.com/)**
+🇫🇷 **Since 2018 – Data Scientist – [Neoxia](https://neoxia.com/)**
 
 🌐 **Since 2019 – Mentor – [OpenClassrooms](https://openclassrooms.com)**
 
 🌐 **Since 2018 – Interviewer – [Five Books](https://fivebooks.com/)**
 
-🇬🇧 2015-2018 – Data Scientist/Programmer – [University of Oxford](https://www.medsci.ox.ac.uk/)
+🇬🇧 2015-2018 – Data Analyst/Scientist – [University of Oxford](https://www.medsci.ox.ac.uk/)
 
 🇫🇷 2012-2015 – Social Media Analyst – [La Netscouade](http://www.lanetscouade.com/)
 

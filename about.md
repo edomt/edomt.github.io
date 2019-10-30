@@ -8,9 +8,9 @@ permalink: /about/
 
 ## Work
 
-🇫🇷 **Since 2018 – Full-Stack Data Scientist – [Neoxia](https://neoxia.com/)**
-
 🌐 **Since 2019 – Mentor – [OpenClassrooms](https://openclassrooms.com)**
+
+🇫🇷 **Since 2018 – Full-Stack Data Scientist – [Neoxia](https://neoxia.com/)**
 
 🌐 **Since 2018 – Interviewer – [Five Books](https://fivebooks.com/)**
 

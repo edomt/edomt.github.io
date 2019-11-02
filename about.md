@@ -59,8 +59,6 @@ Mar. 2019 - *JDN – Big data : assiste-t-on à l'émergence d'une expertise dat
 
 Jan. 2019 - *Five Books – The best books on Effective Altruism, recommended by Will MacAskill* ([link](https://fivebooks.com/best-books/effective-altruism-will-macaskill/))
 
-Jan. 2019 - *Graph d'observation des groupes parlementaires, à partir de données scrappées depuis le site de l’Assemblée nationale* ([link](https://edomt.github.io/WHIP/))
-
 Oct. 2018 - *Five Books – The best books on Data Science, recommended by Roger D. Peng* ([link](https://fivebooks.com/best-books/data-science-roger-peng/))
 
 Sep. 2018 - *Five Books – The best books on Existential Risks, recommended by The Centre for the Study of Existential Risk* ([link](https://fivebooks.com/best-books/existential-risks-cambridge-cser/))

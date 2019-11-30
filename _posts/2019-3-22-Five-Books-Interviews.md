@@ -15,8 +15,6 @@ As well as other interviews on a variety of subjects:
 * [The best books on Effective Altruism, recommended by **Will MacAskill**](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)
 * [The best books on Existential Risks, recommended by **The Centre for the Study of Existential Risk**](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)
 * [The best books on Modern Japanese Literature, recommended by **Linda Flores**](https://fivebooks.com/best-books/modern-japanese-literature-linda-flores/)
-* [The best books on State, Power and Violence, recommended by **Geoffroy de Lagasnerie**](https://fivebooks.com/best-books/state-power-and-violence-geoffroy-de-lagasnerie/)
-* [The best books on Anarchism, recommended by **Ruth Kinna**](https://fivebooks.com/best-books/anarchism-ruth-kinna/)
 
 > Five Books is a book recommendation website that was set up in 2009. Knowledgeable authors, academics and public figures recommend the best books in their subject, or that inspired them. They then talk about those books in an in-depth interview. Readers are able to read about and buy the best books on a subject that interests them/they need to know about and/or recommended by someone whose judgment they value.
 > By 2019, Five Books had more than 1,300 interviews on its site, with around 6,000 books recommended. Book recommenders include Nobel prize winners (Paul Krugman, Robert Shiller), politicians (Karl Rove, John Kerry), world-renowned researchers (Jeffrey Sachs, Dan Ariely), authors (Ian McEwan, Geoff Dyer), and film-makers (Mia Farrow, Darren Aronofsky).

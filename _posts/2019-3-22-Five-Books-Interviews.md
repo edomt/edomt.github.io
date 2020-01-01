@@ -3,7 +3,7 @@ layout: post
 title: My interviews on Five Books
 ---
 
-Since 2018, I've had the pleasure to be part of the editorial team at [Five Books](https://www.fivebooks.com). I've published several data and programming-related interviews:
+Since 2018, I've had the pleasure of being part of the editorial team at [Five Books](https://www.fivebooks.com). I've published several data and programming-related interviews:
 
 * [The best books on Computer Science for Data Scientists, recommended by **Hadley Wickham**](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
 * [The best books on Data Science, recommended by **Roger D. Peng**](https://fivebooks.com/best-books/data-science-roger-peng/)

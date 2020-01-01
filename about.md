@@ -21,25 +21,6 @@ permalink: /about/
 🇫🇷 2011-2012 – Social Media Manager – [Europe Ecology-The Greens](http://eelv.fr/)
 
 
-## Skills
-
-**Python**: data manipulation/transformation (pandas), scientific computing (numpy), machine learning (keras, TensorFlow, scikit-learn), visualisation (matplotlib, seaborn), language processing (nltk), web scraping (Beautiful Soup)
-
-**R**: data manipulation/transformation (data.table, dplyr), cleaning (tidyr, stringr), visualisation (ggplot2, Shiny), reading/writing (readr, rio, feather, fst), web scraping (rvest), profiling/optimisation
-
-**Machine learning & statistics**: frequentist inference, linear/logistic regression, supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks & deep learning), unsupervised learning (clustering, dimensionality reduction, recommender systems)
-
-**Data engineering**: certified Professional Data Engineer on Google Cloud Platform (GCP): BigQuery, Bigtable, Dataflow, Cloud SQL, Datastore, Datalab, GCE, GCS, Cloud Composer.
-Amazon Web Services (AWS): Aurora, RDS, DynamoDB, Redshift, Sagemaker, EC2, S3.
-Apache Airflow.
-
-**Other languages**: Bash, SQL, PHP, HTML/CSS
-
-**Operating systems**: macOS, Ubuntu, Windows
-
-**Web analytics**: Google Analytics, Twitter API, Facebook API
-
-
 ## Education
 
 🇫🇷 2011-2013 – [**Sciences Po Paris**](https://www.sciencespo.fr/en/home) – Master's degree, Marketing and Studies

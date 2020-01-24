@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Work
 
-🇫🇷 **Since 2018 – Lead Data Scientist – [Neoxia](https://neoxia.com/)**
+🇫🇷 **Since 2018 – Data Factory Manager & Lead Data Scientist – [Neoxia](https://neoxia.com/)**
 
 🌐 **Since 2019 – Mentor – [OpenClassrooms](https://openclassrooms.com)**
 

@@ -5,6 +5,7 @@ title: My interviews on Five Books
 
 Since 2018, I've had the pleasure of being part of the editorial team at [Five Books](https://www.fivebooks.com). I've published several interviews on AI/data/programming, as well as a variety of other subjects:
 
+* [Historical Change and Economic Ideology, with **Thomas Piketty**](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/)
 * [Computer Science and Programming, with **Ana Bell**](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
 * [Computer Science for Data Scientists, with **Hadley Wickham**](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
 * [Existential Risks, with **The Centre for the Study of Existential Risk**](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)

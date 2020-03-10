@@ -32,6 +32,8 @@ permalink: /about/
 
 ## Projects
 
+Mar. 2020 - *Five Books – The best books on Historical Change and Economic Ideology, recommended by Thomas Piketty* ([link](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/))
+
 Jul. 2019 - *Five Books – The best books on Learning Python and Data Science, recommended by Vicki Boykis* ([link](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/))
 
 May 2019 - *10th place in the 2019 Data Science Olympics, a machine learning contest in Berlin and Paris with 2 hours to create the best predictive model* ([website](https://www.datascience-olympics.com/), [leaderboard](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/dso2019_results.png))

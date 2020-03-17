@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My interviews on Five Books
+title: Interviews on Five Books
 ---
 
 Since 2018, I've had the pleasure of being part of the editorial team at [Five Books](https://www.fivebooks.com). I've published several interviews on AI/data/programming, as well as a variety of other subjects:

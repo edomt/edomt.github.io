@@ -32,6 +32,8 @@ permalink: /about/
 
 ## Projects
 
+Mar. 2020 - *Articles scientifiques sur le COVID-19, résumés en ~3 minutes de lecture et en français* ([link](https://edomt.github.io/covid19/))
+
 Mar. 2020 - *Five Books – The best books on Historical Change and Economic Ideology, recommended by Thomas Piketty* ([link](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/))
 
 Jul. 2019 - *Five Books – The best books on Learning Python and Data Science, recommended by Vicki Boykis* ([link](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/))

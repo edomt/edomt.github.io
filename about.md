@@ -38,7 +38,11 @@ Mar. 2020 - *Five Books – The best books on Historical Change and Economic Ide
 
 Jul. 2019 - *Five Books – The best books on Learning Python and Data Science, recommended by Vicki Boykis* ([link](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/))
 
+Jun. 2019 - *Factors associated with potentially serious incidental findings and with serious final diagnoses on multi-modal imaging in the UK Biobank Imaging Study: A prospective cohort study* ([link](https://doi.org/10.1371/journal.pone.0218267))
+
 May 2019 - *10th place in the 2019 Data Science Olympics, a machine learning contest in Berlin and Paris with 2 hours to create the best predictive model* ([website](https://www.datascience-olympics.com/), [leaderboard](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/dso2019_results.png))
+
+Apr. 2019 - *Patient consultation rate and clinical and NHS outcomes: a cross-sectional analysis of English primary care data from 2.7 million patients in 238 practices* ([link](https://doi.org/10.1186/s12913-019-4036-y))
 
 Mar. 2019 - *JDN – Big data : assiste-t-on à l'émergence d'une expertise data "full-stack" ?* ([link](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml))
 

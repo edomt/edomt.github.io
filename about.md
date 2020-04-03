@@ -32,6 +32,8 @@ permalink: /about/
 
 ## Projects
 
+Apr. 2020 - *Our World in Data – Data on COVID-19 testing* ([link](https://ourworldindata.org/covid-testing))
+
 Mar. 2020 - *Articles scientifiques sur le COVID-19, résumés en ~3 minutes de lecture et en français* ([link](https://covid19sci.substack.com/archive?sort=new))
 
 Mar. 2020 - *Five Books – The best books on Historical Change and Economic Ideology, recommended by Thomas Piketty* ([link](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/))

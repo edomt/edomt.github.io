@@ -10,9 +10,9 @@ permalink: /about/
 
 🇫🇷 **Since 2018 – Data Factory Manager & Lead Data Scientist – [Neoxia](https://neoxia.com/)**
 
-🌐 **Since 2019 – Mentor – [OpenClassrooms](https://openclassrooms.com)**
-
 🌐 **Since 2018 – Interviewer – [Five Books](https://fivebooks.com/)**
+
+🌐 2019-2020 – Mentor – [OpenClassrooms](https://openclassrooms.com)
 
 🇬🇧 2015-2018 – Data Analyst/Scientist – [University of Oxford](https://www.medsci.ox.ac.uk/)
 

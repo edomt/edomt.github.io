@@ -8,6 +8,8 @@ permalink: /about/
 
 ## Work
 
+🇫🇷 **Since 2020 – Co-Editor – [le Signal et le Bruit](https://signaletbruit.substack.com/subscribe)**
+
 🇫🇷 **Since 2018 – Data Factory Manager & Lead Data Scientist – [Neoxia](https://neoxia.com/)**
 
 🌐 **Since 2018 – Interviewer – [Five Books](https://fivebooks.com/)**

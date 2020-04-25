@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Work
 
-🌐 **Since 2020 – Data Manager – [Our World in Data](https://ourworldindata.org/)**
+🌐 **Since 2020 – [Our World in Data](https://ourworldindata.org/)**
 
 🇫🇷 **Since 2020 – Co-Editor – [le Signal et le Bruit](https://signaletbruit.substack.com/subscribe)**
 

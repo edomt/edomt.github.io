@@ -16,7 +16,7 @@ permalink: /about/
 
 🌐 **Since 2018 – Interviewer – [Five Books](https://fivebooks.com/)**
 
-🌐 2019-2020 – Mentor – [OpenClassrooms](https://openclassrooms.com)
+🌐 2019-2020 – Data Science Mentor – [OpenClassrooms](https://openclassrooms.com)
 
 🇬🇧 2015-2018 – Data Analyst/Scientist – [University of Oxford](https://www.medsci.ox.ac.uk/)
 

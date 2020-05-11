@@ -11,7 +11,7 @@ permalink: /about/
 
 **Since 2020 · [Our World in Data](https://ourworldindata.org/) · Data Manager**
 
-**Since 2020 · [le Signal et le Bruit](https://signaletbruit.substack.com/subscribe) · Co-Editor**
+**Since 2020 · [le Signal et le Bruit](https://signaletbruit.substack.com/subscribe) · Co-Author**
 
 **Since 2018 · [Neoxia](https://neoxia.com/) · Lead Data Scientist**
 

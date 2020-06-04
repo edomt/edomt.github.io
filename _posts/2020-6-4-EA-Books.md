@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Reading the most important books on effective altruism 
+title: Reading the most important books on effective altruism
+excerpt_separator: <!--more-->
 ---
 
 > _Should you feel responsible for helping the world become better? And if so, how should you use your time, money, and career to have the biggest possible impact? These are the questions addressed by the effective altruism movement._
 
-I discovered the effective altruism (EA) community around 2015, and found it to be a deeply inspiring intellectual movement. In late 2018, I published [an interview of one of its key figures](https://fivebooks.com/best-books/effective-altruism-will-macaskill/), Will MacAskill, on the website Five Books. Since then, I have kept reading up on this subject, with the aim of reading at least 50 of the most important books on EA and related areas over the next few years. I'm currently using [Goodreads](https://www.goodreads.com/shelf/show/effective-altruism) as my main source to identify books, but suggestions are always welcome!
+I discovered the effective altruism (EA) community around 2015, and found it to be a deeply inspiring intellectual movement. In late 2018, I published [an interview of one of its key figures](https://fivebooks.com/best-books/effective-altruism-will-macaskill/), Will MacAskill, on the website Five Books. Since then, I have kept reading up on this subject, with the aim of reading at least 50 of the most important books on EA and related areas over the next few years (listed below). I'm currently using [Goodreads](https://www.goodreads.com/shelf/show/effective-altruism) as my main source to identify books, but suggestions are always welcome!
+
+<!--more-->
 
 1. _Superintelligence: Paths, Dangers, Strategies_, by **Nick Bostrom** (published in 2014, read in 2018)
 1. _80,000 Hours: Find a fulfilling career that does good_, by **Benjamin Todd** (2016, 2018)

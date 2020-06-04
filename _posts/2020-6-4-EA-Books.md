@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading the most important books on Effective Altruism 
+title: Reading the most important books on effective altruism 
 ---
 
 > _Should you feel responsible for helping the world become better? And if so, how should you use your time, money, and career to have the biggest possible impact? These are the questions addressed by the effective altruism movement._

@@ -19,22 +19,22 @@ permalink: /about/
 
 ---
 
-2019-2020 · [OpenClassrooms](https://openclassrooms.com) · Data Science Mentor
+2019–2020 · [OpenClassrooms](https://openclassrooms.com) · Data Science Mentor
 
-2015-2018 · [University of Oxford](https://www.medsci.ox.ac.uk/) · Data Analyst/Scientist
+2015–2018 · [University of Oxford](https://www.medsci.ox.ac.uk/) · Data Analyst/Scientist
 
-2012-2015 · [La Netscouade](http://www.lanetscouade.com/) · Social Media Analyst
+2012–2015 · [La Netscouade](http://www.lanetscouade.com/) · Social Media Analyst
 
-2011-2012 · [Europe Ecology-The Greens](http://eelv.fr/) · Social Media Manager
+2011–2012 · [Europe Ecology–The Greens](http://eelv.fr/) · Social Media Manager
 
 
 ## 🎓 Education
 
-2011-2013 · [Sciences Po Paris](https://www.sciencespo.fr/en/home) · Master's degree, Marketing and Studies
+2011–2013 · [Sciences Po Paris](https://www.sciencespo.fr/en/home) · Master's degree, Marketing and Studies
 
-2010-2011 · [Pontifical University of Salamanca](https://www.upsa.es/) · Department of Communication
+2010–2011 · [Pontifical University of Salamanca](https://www.upsa.es/) · Department of Communication
 
-2008-2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/home) · Bachelor's degree (law, economics, history, political science, humanities and sociology)
+2008–2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/home) · Bachelor's degree (law, economics, history, political science, humanities and sociology)
 
 
 ## 👨‍💻 Projects

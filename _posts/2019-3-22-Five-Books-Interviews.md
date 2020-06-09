@@ -7,10 +7,10 @@ Since 2018, I've had the pleasure of being part of the editorial team at [Five B
 
 * [Historical Change and Economic Ideology, with **Thomas Piketty**](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/)
 * [Computer Science for Data Scientists, with **Hadley Wickham**](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
-* [Data Science, with **Roger D. Peng**](https://fivebooks.com/best-books/data-science-roger-peng/)
 * [Effective Altruism, with **Will MacAskill**](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)
-* [Learning Python and Data Science, with **Vicki Boykis**](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/)
+* [Data Science, with **Roger D. Peng**](https://fivebooks.com/best-books/data-science-roger-peng/)
 * [Existential Risks, with **The Centre for the Study of Existential Risk**](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)
+* [Learning Python and Data Science, with **Vicki Boykis**](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/)
 * [Computer Science and Programming, with **Ana Bell**](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
 * [Modern Japanese Literature, with **Linda Flores**](https://fivebooks.com/best-books/modern-japanese-literature-linda-flores/)
 

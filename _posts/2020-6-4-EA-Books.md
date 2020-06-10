@@ -20,8 +20,8 @@ In late 2018, I published an interview with one of effective altruism's key figu
 
 <!--more-->
 
-1. _Superintelligence: Paths, Dangers, Strategies_, by **Nick Bostrom** (published in 2014, read in 2018)
-1. _80,000 Hours: Find a fulfilling career that does good_, by **Benjamin Todd** (2016, 2018)
-1. _Superforecasting: The Art and Science of Prediction_, by **Philip E. Tetlock** (2015, 2019)
-1. _The Precipice: Existential Risk and the Future of Humanity_, by **Toby Ord** (2020, 2020)
-1. _Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think_, by **Hans Rosling** (2018, 2020)
+1. _Superintelligence: Paths, Dangers, Strategies_, by Nick Bostrom (published in 2014, read in 2018)
+1. _80,000 Hours: Find a fulfilling career that does good_, by Benjamin Todd (2016, 2018)
+1. _Superforecasting: The Art and Science of Prediction_, by Philip E. Tetlock (2015, 2019)
+1. _The Precipice: Existential Risk and the Future of Humanity_, by Toby Ord (2020, 2020)
+1. _Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think_, by Hans Rosling (2018, 2020)

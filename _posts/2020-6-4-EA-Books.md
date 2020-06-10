@@ -4,11 +4,13 @@ title: Effective altruism
 excerpt_separator: <!--more-->
 ---
 
-I discovered the [effective altruism](https://www.effectivealtruism.org/) community around 2015, and found it to be a very inspiring intellectual movement. As summarized [on Wikipedia](https://en.wikipedia.org/wiki/Effective_altruism), _"effective altruism is a philosophy and social movement that advocates using evidence and reasoning to determine the most effective ways to benefit others."_ Effective altruists focus their efforts, for example, on causes such as fighting extreme poverty, improving the long-term future, and reducing animal suffering. If you're interested in learning more, I recommend this great [introduction to effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/).
+I discovered the [effective altruism](https://www.effectivealtruism.org/) community around 2015, and found it to be a very inspiring intellectual movement. As summarised [on Wikipedia](https://en.wikipedia.org/wiki/Effective_altruism), _"effective altruism is a philosophy and social movement that advocates using evidence and reasoning to determine the most effective ways to benefit others."_ Effective altruists focus their efforts, for example, on causes such as fighting extreme poverty, improving the long-term future, and reducing animal suffering. If you're interested in learning more, I recommend this great [introduction to effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/).
 
 ## Donations
 
-Since 2015, I have done my best to donate regularly to effective causes, such as the ones recommended by [GiveWell](https://www.givewell.org/charities/top-charities). In 2018, I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/), making a solemn commitment to giving at least 10% of my income to the organisations that can do the most good with it.
+Since 2015, I have donated regularly to effective causes recommended by [GiveWell](https://www.givewell.org/charities/top-charities). In 2018, I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/), making a solemn commitment to giving at least 10% of my income to the organisations that can do the most good with it.
+
+> _"I recognise that I can use part of my income to do a significant amount of good. Since I can live well enough on a smaller income, I pledge that for the rest of my life or until the day I retire, I shall give at least ten percent of what I earn to whichever organisations can most effectively use it to improve the lives of others, now and in the years to come. I make this pledge freely, openly, and sincerely."_ —The Giving What We Can Pledge
 
 ## Books
 

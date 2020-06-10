@@ -4,9 +4,9 @@ title: Effective altruism
 excerpt_separator: <!--more-->
 ---
 
-I discovered the [effective altruism](https://www.effectivealtruism.org/) community around 2015, and found it to be a very inspiring intellectual movement. As summarised [on Wikipedia](https://en.wikipedia.org/wiki/Effective_altruism), _"effective altruism is a philosophy and social movement that advocates using evidence and reasoning to determine the most effective ways to benefit others."_
+I discovered the very inspiring [effective altruism](https://www.effectivealtruism.org/) community around 2015. As summarised [on Wikipedia](https://en.wikipedia.org/wiki/Effective_altruism), _"effective altruism is a philosophy and social movement that advocates using evidence and reasoning to determine the most effective ways to benefit others."_
 
-Effective altruists focus their efforts, for example, on causes such as fighting extreme poverty, improving the long-term future, and reducing animal suffering. If you're interested in learning more, I recommend this great [introduction to effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/).
+Effective altruists focus their efforts, for example, on optimal ways to fight extreme poverty, improve the long-term future, and reduce animal suffering. If you're interested in learning more, I recommend this great [introduction to effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/).
 
 ## Donations
 

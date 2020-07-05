@@ -39,7 +39,7 @@ permalink: /about/
 
 ## 👨‍💻 Projects
 
-Apr. 2020 · *Our World in Data – To understand the global pandemic, we need global testing – the Our World in Data COVID-19 Testing dataset* ([link](https://ourworldindata.org/covid-testing))
+Apr. 2020 · *Our World in Data – Statistics and Research: Coronavirus Pandemic (COVID-19)* ([link](https://ourworldindata.org/coronavirus))
 
 Mar. 2020 · *Articles scientifiques sur le COVID-19, résumés en ~3 minutes de lecture et en français* ([link](https://covid19sci.substack.com/archive?sort=new))
 

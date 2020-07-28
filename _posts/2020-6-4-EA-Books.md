@@ -12,7 +12,7 @@ Effective altruists focus their efforts, for example, on optimal ways to fight e
 
 ## Donations
 
-Since 2015, I have donated regularly to effective causes recommended by [GiveWell](https://www.givewell.org/charities/top-charities). In 2018, I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/), making a solemn commitment to giving at least 10% of my income to the organisations that can do the most good with it.
+Since 2015, I have donated regularly to effective causes recommended by [GiveWell](https://www.givewell.org/charities/top-charities). In 2018, I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/), making a solemn commitment to giving _at least_ 10% of my income to the organisations that can do the most good with it.
 
 > _"I recognise that I can use part of my income to do a significant amount of good. Since I can live well enough on a smaller income, I pledge that for the rest of my life or until the day I retire, I shall give at least ten percent of what I earn to whichever organisations can most effectively use it to improve the lives of others, now and in the years to come. I make this pledge freely, openly, and sincerely."_ —The Giving What We Can Pledge
 

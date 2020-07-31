@@ -13,11 +13,11 @@ permalink: /about/
 
 **Since 2020 · [le Signal et le Bruit](https://signaletbruit.substack.com/subscribe) · Co-Author**
 
-**Since 2018 · [Neoxia](https://neoxia.com/) · Lead Data Scientist**
-
 **Since 2018 · [Five Books](https://fivebooks.com/) · Interviewer**
 
 ---
+
+2018–2020 · [Neoxia](https://neoxia.com/) · Lead Data Scientist
 
 2019–2020 · [OpenClassrooms](https://openclassrooms.com) · Data Science Mentor
 

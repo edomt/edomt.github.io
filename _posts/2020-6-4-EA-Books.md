@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Effective altruism
+title: How can I do the most good?
 excerpt_separator: <!--more-->
 ---
 

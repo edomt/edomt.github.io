@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can I do the most good?
+title: How can we do the most good?
 excerpt_separator: <!--more-->
 ---
 

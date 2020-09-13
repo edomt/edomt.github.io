@@ -13,7 +13,7 @@ permalink: /about/
 
 **Since 2020 · [le Signal et le Bruit](https://signaletbruit.substack.com/subscribe) · Co-Author**
 
-**Since 2018 · [Five Books](https://fivebooks.com/) · Interviewer**
+**Since 2018 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer**
 
 ---
 

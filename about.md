@@ -39,39 +39,39 @@ permalink: /about/
 
 ## 👨‍💻 Projects
 
-Apr. 2020 · *Our World in Data – Statistics and Research: Coronavirus Pandemic (COVID-19)* ([link](https://ourworldindata.org/coronavirus))
+Apr. 2020 · *Our World in Data – Statistics and Research: Coronavirus Pandemic (COVID-19)* [[ourworldindata.org](https://ourworldindata.org/coronavirus)]
 
-Mar. 2020 · *Articles scientifiques sur le COVID-19, résumés en ~3 minutes de lecture et en français* ([link](https://covid19sci.substack.com/archive?sort=new))
+Mar. 2020 · *Articles scientifiques sur le COVID-19, résumés en ~3 minutes de lecture et en français* [[substack.com](https://covid19sci.substack.com/archive?sort=new)]
 
-Mar. 2020 · *Five Books – The best books on Historical Change and Economic Ideology, recommended by Thomas Piketty* ([link](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/))
+Mar. 2020 · *Five Books – The best books on Historical Change and Economic Ideology, recommended by Thomas Piketty* [[fivebooks.com](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/)]
 
-Jul. 2019 · *Five Books – The best books on Learning Python and Data Science, recommended by Vicki Boykis* ([link](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/))
+Jul. 2019 · *Five Books – The best books on Learning Python and Data Science, recommended by Vicki Boykis* [[fivebooks.com](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/)]
 
-Jun. 2019 · *Factors associated with potentially serious incidental findings and with serious final diagnoses on multi-modal imaging in the UK Biobank Imaging Study: A prospective cohort study* ([link](https://doi.org/10.1371/journal.pone.0218267))
+Jun. 2019 · *Factors associated with potentially serious incidental findings and with serious final diagnoses on multi-modal imaging in the UK Biobank Imaging Study: A prospective cohort study* [[plos.org](https://doi.org/10.1371/journal.pone.0218267)]
 
-May 2019 · *10th place in the 2019 Data Science Olympics, a machine learning contest in Berlin and Paris with 2 hours to create the best predictive model* ([website](https://www.datascience-olympics.com/), [leaderboard](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/dso2019_results.png))
+May 2019 · *10th place in the 2019 Data Science Olympics, a machine learning contest in Berlin and Paris with 2 hours to create the best predictive model* [[website](https://www.datascience-olympics.com/), [leaderboard](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/dso2019_results.png)]
 
-Apr. 2019 · *Patient consultation rate and clinical and NHS outcomes: a cross-sectional analysis of English primary care data from 2.7 million patients in 238 practices* ([link](https://doi.org/10.1186/s12913-019-4036-y))
+Apr. 2019 · *Patient consultation rate and clinical and NHS outcomes: a cross-sectional analysis of English primary care data from 2.7 million patients in 238 practices* [[biomedcentral.com](https://doi.org/10.1186/s12913-019-4036-y)]
 
-Mar. 2019 · *JDN – Big data : assiste-t-on à l'émergence d'une expertise data "full-stack" ?* ([link](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml))
+Mar. 2019 · *JDN – Big data : assiste-t-on à l'émergence d'une expertise data "full-stack" ?* [[journaldunet.com](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml)]
 
-Jan. 2019 · *Five Books – The best books on Effective Altruism, recommended by Will MacAskill* ([link](https://fivebooks.com/best-books/effective-altruism-will-macaskill/))
+Jan. 2019 · *Five Books – The best books on Effective Altruism, recommended by Will MacAskill* [[fivebooks.com](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)]
 
-Oct. 2018 · *Five Books – The best books on Data Science, recommended by Roger D. Peng* ([link](https://fivebooks.com/best-books/data-science-roger-peng/))
+Oct. 2018 · *Five Books – The best books on Data Science, recommended by Roger D. Peng* [[fivebooks.com](https://fivebooks.com/best-books/data-science-roger-peng/)]
 
-Sep. 2018 · *Five Books – The best books on Existential Risks, recommended by The Centre for the Study of Existential Risk* ([link](https://fivebooks.com/best-books/existential-risks-cambridge-cser/))
+Sep. 2018 · *Five Books – The best books on Existential Risks, recommended by The Centre for the Study of Existential Risk* [[fivebooks.com](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)]
 
-Aug. 2018 · *Five Books – The best books on Computer Science for Data Scientists, with Hadley Wickham* ([link](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/))
+Aug. 2018 · *Five Books – The best books on Computer Science for Data Scientists, with Hadley Wickham* [[fivebooks.com](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)]
 
-Apr. 2018 · *Five Books – The best books on Computer Science and Programming, with Ana Bell* ([link](https://fivebooks.com/best-books/programming-computer-science-ana-bell/))
+Apr. 2018 · *Five Books – The best books on Computer Science and Programming, with Ana Bell* [[fivebooks.com](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)]
 
-Sep. 2017 · *Archived tweets from French politicians* ([link](https://github.com/edomt/tweets_archive_FRpol))
+Sep. 2017 · *Archived tweets from French politicians* [[github.com](https://github.com/edomt/tweets_archive_FRpol)]
 
-Sep. 2017 · *Dataset of 27,957 video game ratings scraped from PEGI's website* ([link](https://github.com/edomt/pegi))
+Sep. 2017 · *Dataset of 27,957 video game ratings scraped from PEGI's website* [[github.com](https://github.com/edomt/pegi)]
 
-Jan. 2016 · *Qui sont les meilleurs et les pires députés de 2015 ?* ([link](https://www.lesechos.fr/15/01/2016/lesechos.fr/021620041874_qui-sont-les-meilleurs-et-les-pires-deputes-de-2015--.htm), [link](https://github.com/edomt/datapol))
+Jan. 2016 · *Qui sont les meilleurs et les pires députés de 2015 ?* [[lesechos.fr](https://www.lesechos.fr/15/01/2016/lesechos.fr/021620041874_qui-sont-les-meilleurs-et-les-pires-deputes-de-2015--.htm), [github.com](https://github.com/edomt/datapol)]
 
-Dec. 2015 · *Non, Marine Le Pen n’est pas en mesure de devenir présidente en 2017* ([link](https://medium.com/@edmathieu/non-marine-le-pen-n-est-pas-en-mesure-de-devenir-pr%C3%A9sidente-en-2017-859ebe516e5d))
+Dec. 2015 · *Non, Marine Le Pen n’est pas en mesure de devenir présidente en 2017* [[medium.com](https://medium.com/@edmathieu/non-marine-le-pen-n-est-pas-en-mesure-de-devenir-pr%C3%A9sidente-en-2017-859ebe516e5d)]
 
-Oct. 2014 · *À qui les ministres français s’intéressent-ils sur Twitter ?* ([link](https://medium.com/@edmathieu/a-qui-les-ministres-du-gouvernement-francais-sinteressent-ils-sur-twitter-4f21d2c98c2a))
+Oct. 2014 · *À qui les ministres français s’intéressent-ils sur Twitter ?* [[medium.com](https://medium.com/@edmathieu/a-qui-les-ministres-du-gouvernement-francais-sinteressent-ils-sur-twitter-4f21d2c98c2a)]
 

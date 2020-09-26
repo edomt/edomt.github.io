@@ -39,13 +39,13 @@ permalink: /about/
 
 ## 👨‍💻 Projects
 
-Apr. 2020 · *Our World in Data – Statistics and Research: Coronavirus Pandemic (COVID-19)* [[ourworldindata.org](https://ourworldindata.org/coronavirus)]
+Apr. 2020 · *Statistics and Research: Coronavirus Pandemic (COVID-19)* [[ourworldindata.org](https://ourworldindata.org/coronavirus)]
 
 Mar. 2020 · *Articles scientifiques sur le COVID-19, résumés en ~3 minutes de lecture et en français* [[substack.com](https://covid19sci.substack.com/archive?sort=new)]
 
-Mar. 2020 · *Five Books – The best books on Historical Change and Economic Ideology, recommended by Thomas Piketty* [[fivebooks.com](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/)]
+Mar. 2020 · *The best books on Historical Change and Economic Ideology, recommended by Thomas Piketty* [[fivebooks.com](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/)]
 
-Jul. 2019 · *Five Books – The best books on Learning Python and Data Science, recommended by Vicki Boykis* [[fivebooks.com](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/)]
+Jul. 2019 · *The best books on Learning Python and Data Science, recommended by Vicki Boykis* [[fivebooks.com](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/)]
 
 Jun. 2019 · *Factors associated with potentially serious incidental findings and with serious final diagnoses on multi-modal imaging in the UK Biobank Imaging Study: A prospective cohort study* [[plos.org](https://doi.org/10.1371/journal.pone.0218267)]
 
@@ -53,17 +53,17 @@ May 2019 · *10th place in the 2019 Data Science Olympics, a machine learning co
 
 Apr. 2019 · *Patient consultation rate and clinical and NHS outcomes: a cross-sectional analysis of English primary care data from 2.7 million patients in 238 practices* [[biomedcentral.com](https://doi.org/10.1186/s12913-019-4036-y)]
 
-Mar. 2019 · *JDN – Big data : assiste-t-on à l'émergence d'une expertise data "full-stack" ?* [[journaldunet.com](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml)]
+Mar. 2019 · *Big data : assiste-t-on à l'émergence d'une expertise data "full-stack" ?* [[journaldunet.com](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml)]
 
-Jan. 2019 · *Five Books – The best books on Effective Altruism, recommended by Will MacAskill* [[fivebooks.com](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)]
+Jan. 2019 · *The best books on Effective Altruism, recommended by Will MacAskill* [[fivebooks.com](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)]
 
-Oct. 2018 · *Five Books – The best books on Data Science, recommended by Roger D. Peng* [[fivebooks.com](https://fivebooks.com/best-books/data-science-roger-peng/)]
+Oct. 2018 · *The best books on Data Science, recommended by Roger D. Peng* [[fivebooks.com](https://fivebooks.com/best-books/data-science-roger-peng/)]
 
-Sep. 2018 · *Five Books – The best books on Existential Risks, recommended by The Centre for the Study of Existential Risk* [[fivebooks.com](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)]
+Sep. 2018 · *The best books on Existential Risks, recommended by The Centre for the Study of Existential Risk* [[fivebooks.com](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)]
 
-Aug. 2018 · *Five Books – The best books on Computer Science for Data Scientists, with Hadley Wickham* [[fivebooks.com](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)]
+Aug. 2018 · *The best books on Computer Science for Data Scientists, with Hadley Wickham* [[fivebooks.com](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)]
 
-Apr. 2018 · *Five Books – The best books on Computer Science and Programming, with Ana Bell* [[fivebooks.com](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)]
+Apr. 2018 · *The best books on Computer Science and Programming, with Ana Bell* [[fivebooks.com](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)]
 
 Sep. 2017 · *Archived tweets from French politicians* [[github.com](https://github.com/edomt/tweets_archive_FRpol)]
 

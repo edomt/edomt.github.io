@@ -7,7 +7,7 @@ permalink: /about/
 ![email](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/email.png)
 
 
-## 💼 Work
+## 🧑🏻‍💻 Experience
 
 **Since 2020 · [Our World in Data](https://ourworldindata.org/) · Data Manager**
 
@@ -35,7 +35,7 @@ permalink: /about/
 2008–2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/home) · Bachelor's degree
 
 
-## 👨‍💻 Projects
+## 📝 Publications
 
 Oct. 2020 · Hasell, J., Mathieu, E., Beltekian, D. _et al._ A cross-country database of COVID-19 testing. _Sci Data_ **7**, 345 (2020). [[nature.com](https://doi.org/10.1038/s41597-020-00688-8)]
 

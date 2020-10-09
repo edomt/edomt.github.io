@@ -39,6 +39,8 @@ permalink: /about/
 
 ## 👨‍💻 Projects
 
+Oct. 2020 · Hasell, J., Mathieu, E., Beltekian, D. _et al._ A cross-country database of COVID-19 testing. _Sci Data_ **7**, 345 (2020). [[nature.com](https://doi.org/10.1038/s41597-020-00688-8)]
+
 Apr. 2020 · *Statistics and Research: Coronavirus Pandemic (COVID-19)* [[ourworldindata.org](https://ourworldindata.org/coronavirus)]
 
 Mar. 2020 · *Articles scientifiques sur le COVID-19, résumés en ~3 minutes de lecture et en français* [[substack.com](https://covid19sci.substack.com/archive?sort=new)]
@@ -47,11 +49,11 @@ Mar. 2020 · *The best books on Historical Change and Economic Ideology, recomme
 
 Jul. 2019 · *The best books on Learning Python and Data Science, recommended by Vicki Boykis* [[fivebooks.com](https://fivebooks.com/best-books/learning-python-and-data-science-vicki-boykis/)]
 
-Jun. 2019 · *Factors associated with potentially serious incidental findings and with serious final diagnoses on multi-modal imaging in the UK Biobank Imaging Study: A prospective cohort study* [[plos.org](https://doi.org/10.1371/journal.pone.0218267)]
+Jun. 2019 · Gibson LM, Nolan J, Littlejohns TJ, Mathieu E, Garratt S, Doherty N, et al. (2019) Factors associated with potentially serious incidental findings and with serious final diagnoses on multi-modal imaging in the UK Biobank Imaging Study: A prospective cohort study. PLoS ONE 14(6): e0218267. [[plos.org](https://doi.org/10.1371/journal.pone.0218267)]
 
 May 2019 · *10th place in the 2019 Data Science Olympics, a machine learning contest in Berlin and Paris with 2 hours to create the best predictive model* [[website](https://www.datascience-olympics.com/), [leaderboard](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/dso2019_results.png)]
 
-Apr. 2019 · *Patient consultation rate and clinical and NHS outcomes: a cross-sectional analysis of English primary care data from 2.7 million patients in 238 practices* [[biomedcentral.com](https://doi.org/10.1186/s12913-019-4036-y)]
+Apr. 2019 · Lay-Flurrie, S., Mathieu, E., Bankhead, C. _et al._ Patient consultation rate and clinical and NHS outcomes: a cross-sectional analysis of English primary care data from 2.7 million patients in 238 practices. _BMC Health Serv Res_ **19**, 219 (2019). [[biomedcentral.com](https://doi.org/10.1186/s12913-019-4036-y)]
 
 Mar. 2019 · *Big data : assiste-t-on à l'émergence d'une expertise data "full-stack" ?* [[journaldunet.com](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml)]
 
@@ -69,7 +71,7 @@ Sep. 2017 · *Archived tweets from French politicians* [[github.com](https://git
 
 Sep. 2017 · *Dataset of 27,957 video game ratings scraped from PEGI's website* [[github.com](https://github.com/edomt/pegi)]
 
-Jan. 2016 · *Qui sont les meilleurs et les pires députés de 2015 ?* [[lesechos.fr](https://www.lesechos.fr/15/01/2016/lesechos.fr/021620041874_qui-sont-les-meilleurs-et-les-pires-deputes-de-2015--.htm), [github.com](https://github.com/edomt/datapol)]
+Jan. 2016 · *Qui étaient les députés les plus assidus en 2015 ?* [[lesechos.fr](https://www.lesechos.fr/15/01/2016/lesechos.fr/021620041874_qui-sont-les-meilleurs-et-les-pires-deputes-de-2015--.htm), [github.com](https://github.com/edomt/datapol)]
 
 Dec. 2015 · *Non, Marine Le Pen n’est pas en mesure de devenir présidente en 2017* [[medium.com](https://medium.com/@edmathieu/non-marine-le-pen-n-est-pas-en-mesure-de-devenir-pr%C3%A9sidente-en-2017-859ebe516e5d)]
 

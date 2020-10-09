@@ -61,6 +61,8 @@ Oct. 2018 · *The best books on Data Science, recommended by Roger D. Peng* [[fi
 
 Sep. 2018 · *The best books on Existential Risks, recommended by The Centre for the Study of Existential Risk* [[fivebooks.com](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)]
 
+Sep. 2018 · *The best modern Japanese literature, recommended by Linda Flores* [[fivebooks.com](https://fivebooks.com/best-books/modern-japanese-literature-linda-flores/)]
+
 Aug. 2018 · *The best books on Computer Science for Data Scientists, with Hadley Wickham* [[fivebooks.com](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)]
 
 Apr. 2018 · *The best books on Computer Science and Programming, with Ana Bell* [[fivebooks.com](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)]

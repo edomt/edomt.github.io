@@ -11,7 +11,7 @@ permalink: /about/
 
 **Since 2020 · [Our World in Data](https://ourworldindata.org/) · Data Manager**
 
-**Since 2020 · [le Signal et le Bruit](https://signaletbruit.substack.com/subscribe) · Co-Author**
+**Since 2020 · [le Signal et le Bruit](https://signaletbruit.substack.com) · Co-Author**
 
 **Since 2018 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer**
 
@@ -40,6 +40,8 @@ permalink: /about/
 Oct. 2020 · Hasell, J., Mathieu, E., Beltekian, D. _et al._ A cross-country database of COVID-19 testing. _Sci Data_ **7**, 345 (2020). [[nature.com](https://doi.org/10.1038/s41597-020-00688-8)]
 
 Apr. 2020 · *Statistics and Research: Coronavirus Pandemic (COVID-19)* [[ourworldindata.org](https://ourworldindata.org/coronavirus)]
+
+Apr. 2020 · _le Signal et le Bruit_, a bimonthly newsletter dedicated to questions relating to data and artificial intelligence, and which aims to shed light on major technical topics and their impacts [[substack.com](https://signaletbruit.substack.com)]
 
 Mar. 2020 · Articles scientifiques sur le COVID-19, résumés en ~3 minutes de lecture et en français [[substack.com](https://covid19sci.substack.com/archive?sort=new)]
 

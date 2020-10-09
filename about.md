@@ -41,9 +41,9 @@ Oct. 2020 · Hasell, J., Mathieu, E., Beltekian, D. _et al._ A cross-country dat
 
 Apr. 2020 · *Statistics and Research: Coronavirus Pandemic (COVID-19)* [[ourworldindata.org](https://ourworldindata.org/coronavirus)]
 
-Apr. 2020 · _le Signal et le Bruit_, a bimonthly newsletter dedicated to questions relating to data and artificial intelligence, and which aims to shed light on major technical topics and their impacts [[substack.com](https://signaletbruit.substack.com)]
+Apr. 2020 · _le Signal et le Bruit_, a bimonthly newsletter dedicated to questions relating to data and artificial intelligence, and which aims to shed light on major technical topics and their impacts [[substack.com](https://signaletbruit.substack.com), in French]
 
-Mar. 2020 · Articles scientifiques sur le COVID-19, résumés en ~3 minutes de lecture et en français [[substack.com](https://covid19sci.substack.com/archive?sort=new)]
+Mar. 2020 · Scientific articles on COVID-19, summarized in 3 minutes of reading [[substack.com](https://covid19sci.substack.com/archive?sort=new), in French]
 
 Mar. 2020 · *The best books on Historical Change and Economic Ideology, recommended by Thomas Piketty* [[fivebooks.com](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/)]
 
@@ -53,7 +53,7 @@ Jun. 2019 · Gibson LM, Nolan J, Littlejohns TJ, Mathieu E, Garratt S, Doherty N
 
 Apr. 2019 · Lay-Flurrie, S., Mathieu, E., Bankhead, C. _et al._ Patient consultation rate and clinical and NHS outcomes: a cross-sectional analysis of English primary care data from 2.7 million patients in 238 practices. _BMC Health Serv Res_ **19**, 219 (2019). [[biomedcentral.com](https://doi.org/10.1186/s12913-019-4036-y)]
 
-Mar. 2019 · *Big data : assiste-t-on à l'émergence d'une expertise data "full-stack" ?* [[journaldunet.com](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml)]
+Mar. 2019 · *Big data: are we witnessing the emergence of "full-stack" data expertise?* [[journaldunet.com](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml), in French]
 
 Jan. 2019 · *The best books on Effective Altruism, recommended by Will MacAskill* [[fivebooks.com](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)]
 

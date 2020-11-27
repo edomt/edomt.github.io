@@ -9,7 +9,7 @@ permalink: /about/
 
 ## 👨🏻‍💻 Experience
 
-**Since 2020 · [Our World in Data](https://ourworldindata.org/) · Data Manager**
+**Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data**
 
 **Since 2020 · [le Signal et le Bruit](https://signaletbruit.substack.com) · Co-Author**
 

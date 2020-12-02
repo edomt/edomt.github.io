@@ -22,10 +22,12 @@ In late 2018, I published an interview with one of effective altruism's key figu
 
 <!--more-->
 
-1. _Superintelligence: Paths, Dangers, Strategies_, by Nick Bostrom (published in 2014, read in 2018)
+1. _Thinking, Fast and Slow_, by Daniel Kahneman (published in 2011, read in 2017)
+1. _Superintelligence: Paths, Dangers, Strategies_, by Nick Bostrom (2014, 2018)
 1. _80,000 Hours: Find a fulfilling career that does good_, by Benjamin Todd (2016, 2018)
-1. _Superforecasting: The Art and Science of Prediction_, by Philip E. Tetlock (2015, 2019)
+1. _Superforecasting: The Art and Science of Prediction_, by Philip E. Tetlock, Dan Gardner (2015, 2019)
 1. _The Precipice: Existential Risk and the Future of Humanity_, by Toby Ord (2020, 2020)
-1. _Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think_, by Hans Rosling (2018, 2020)
+1. _Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think_, by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund (2018, 2020)
 1. _Doing Good Better: How Effective Altruism Can Help You Make a Difference_, by William MacAskill (2015, 2020)
 1. _The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically_, by Peter Singer (2015, 2020)
+1. _Nudge: Improving Decisions About Health, Wealth, and Happiness_, by Richard H. Thaler, Cass R. Sunstein (2008, 2020)

@@ -18,11 +18,11 @@ Since 2015, I have donated regularly to effective causes recommended by [GiveWel
 
 ## Books
 
-In late 2018, I published an interview with one of effective altruism's key figures, Will MacAskill, [on the website Five Books](https://fivebooks.com/best-books/effective-altruism-will-macaskill/). Since then, I have kept reading up on this subject, with the aim of reading at least 50 of the most important books on effective altruism and its related areas over the next few years (listed below). [Goodreads](https://www.goodreads.com/shelf/show/effective-altruism) is currently my main source to identify books, but suggestions are always welcome!
+In 2018, I published an interview with one of effective altruism's key figures, Will MacAskill, [on the website Five Books](https://fivebooks.com/best-books/effective-altruism-will-macaskill/). Since then, I have kept reading up on this subject, with the aim of reading at least 50 of the most important books on effective altruism and its related areas over the next few years (listed below). [Goodreads](https://www.goodreads.com/shelf/show/effective-altruism) is currently my main source to identify books, but suggestions are always welcome!
 
 <!--more-->
 
-1. _Thinking, Fast and Slow_, by Daniel Kahneman (published in 2011, read in 2017)
+1. _Thinking, Fast and Slow_, by Daniel Kahneman (published in 2011, read in 2018)
 1. _Superintelligence: Paths, Dangers, Strategies_, by Nick Bostrom (2014, 2018)
 1. _80,000 Hours: Find a fulfilling career that does good_, by Benjamin Todd (2016, 2018)
 1. _Superforecasting: The Art and Science of Prediction_, by Philip E. Tetlock, Dan Gardner (2015, 2019)

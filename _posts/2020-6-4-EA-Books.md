@@ -31,3 +31,4 @@ In 2018, I published an interview with one of effective altruism's key figures, 
 1. _Doing Good Better: How Effective Altruism Can Help You Make a Difference_, by William MacAskill (2015, 2020)
 1. _The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically_, by Peter Singer (2015, 2020)
 1. _Nudge: Improving Decisions About Health, Wealth, and Happiness_, by Richard H. Thaler, Cass R. Sunstein (2008, 2020)
+1. _Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty_, by Abhijit V. Banerjee, Esther Duflo (2011, 2020)

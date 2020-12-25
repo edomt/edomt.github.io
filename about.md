@@ -7,7 +7,7 @@ permalink: /about/
 ![email](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/email.png)
 
 
-## 👨🏻‍💻 Experience
+## 👨🏻‍💻 Work
 
 **Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data**
 

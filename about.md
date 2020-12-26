@@ -37,6 +37,8 @@ permalink: /about/
 
 ## 📝 Publications
 
+Dec. 2020 · *Statistics and Research: Coronavirus (COVID-19) Vaccinations* [[ourworldindata.org](https://ourworldindata.org/covid-vaccinations)]
+
 Oct. 2020 · Hasell, J., Mathieu, E., Beltekian, D. _et al._ A cross-country database of COVID-19 testing. _Sci Data_ **7**, 345 (2020). [[nature.com](https://doi.org/10.1038/s41597-020-00688-8)]
 
 Apr. 2020 · *Statistics and Research: Coronavirus Pandemic (COVID-19)* [[ourworldindata.org](https://ourworldindata.org/coronavirus)]

@@ -4,7 +4,7 @@ title: "Digging deeper: online resources for intermediate to advanced R users"
 excerpt_separator: <!--more-->
 ---
 
-Anybody wanting to learn R from scratch in 2018 will find an incredible wealth of tutorials, interactive learning websites, and high-quality videos at their disposal—almost to a point where it's difficult to know where to start! This is of course a good thing, and is mainly due to R's quickly growing popularity, with a constant stream of new users from both industry and academia wanting to learn the fundamentals.
+Anybody wanting to learn R from scratch will find an incredible wealth of tutorials, interactive learning websites, and high-quality videos at their disposal—almost to a point where it's difficult to know where to start! This is of course a good thing, and is mainly due to R's quickly growing popularity, with a constant stream of new users from both industry and academia wanting to learn the fundamentals.
 
 But I've found that once you reach a certain level of confidence with the language, it becomes more difficult to find material for intermediate/advanced users who wish to become really good at R programming. But these materials do exist—they just tend to be mentioned and highlighted less frequently by the community.
 
@@ -18,7 +18,7 @@ Note that I've only listed here material that I've actually tested and used (may
 
 ## Books
 
-There are actually quite a few books available on intermediate/advanced R programming ([O'Reilly](https://ssearch.oreilly.com/?i=1;q=R;q1=Books;x1=t1&act=fc_contenttype_Books) is usually a good source for this), but I've chosen the four books below in particular because:
+There are actually quite a few books available on intermediate/advanced R programming ([O'Reilly](https://www.oreilly.com/search/?query=R&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=user&formats=book&sort=relevance&facet_json=true&page=0&include_facets=false&include_scenarios=true&include_sandboxes=true&json_facets=true) is usually a good source for this), but I've chosen the four books below in particular because:
 
 * They cover broad areas of R programming, rather than very narrow issues that will only be interesting to specific users (such as advanced statistical models, large-scale Shiny apps, etc.);
 * All can be read for free on a dedicated website—but of course, buying a physical copy is the best way to thank their authors if you found the contents useful (which you'll most likely do!).

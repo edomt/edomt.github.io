@@ -13,9 +13,9 @@ permalink: /about/
 
 **Since 2020 · [le Signal et le Bruit](https://signaletbruit.substack.com) · Co-Author**
 
-**Since 2018 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer**
-
 ---
+
+2018-2021 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer & Newsletter Editor
 
 2018–2020 · [Neoxia](https://neoxia.com/) · Lead Data Scientist
 

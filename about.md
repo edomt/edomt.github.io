@@ -7,7 +7,7 @@ permalink: /about/
 
 ## 📩 Contact
 
-![contact](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/email.png).
+![contact](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/email.png)
 
 
 ## 👨🏻‍💻 Work

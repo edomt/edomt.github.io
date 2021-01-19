@@ -4,6 +4,9 @@ title: About me
 permalink: /about/
 ---
 
+
+## 📩 Contact
+
 ![email](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/email.png)
 
 

@@ -3,7 +3,7 @@ layout: post
 title: My interviews for Five Books
 ---
 
-Between 2018 and 2020, I had the pleasure of being part of the editorial team at [Five Books](https://www.fivebooks.com). I published several interviews on artificial intelligence, data, and programming, as well as a variety of other subjects:
+Between 2018 and 2021, I had the pleasure of being part of the editorial team at [Five Books](https://www.fivebooks.com). I published several interviews on artificial intelligence, data, and programming, as well as a variety of other subjects:
 
 * [Historical Change and Economic Ideology, with **Thomas Piketty**](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/)
 * [Computer Science for Data Scientists, with **Hadley Wickham**](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)

@@ -10,6 +10,12 @@ permalink: /about/
 ![contact](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/email.png)
 
 
+## ❓ Learn more about my work
+
+* [Find out about _Our World in Data_](https://ourworldindata.org/about) and [why we are working on this project](https://ourworldindata.org/motivation).
+* For a more factual overview, you can read [_Our World in Data_'s page on Wikipedia](https://en.wikipedia.org/wiki/Our_World_in_Data).
+
+
 ## 👨🏻‍💻 Work
 
 **Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data**

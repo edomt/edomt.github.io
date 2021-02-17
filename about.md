@@ -13,8 +13,9 @@ permalink: /about/
 
 ## ❓ Learn more about my work
 
-* [Find out about _Our World in Data_](https://ourworldindata.org/about) and [why we are working on this project](https://ourworldindata.org/motivation).
-* For a more factual overview, you can read [_Our World in Data_'s page on Wikipedia](https://en.wikipedia.org/wiki/Our_World_in_Data).
+* [Find out about _Our World in Data_](https://ourworldindata.org/about) and [our motivation](https://ourworldindata.org/motivation) to publish data to make progress against the world’s largest problems.
+* For a more factual overview, you can also read [_Our World in Data_'s page on Wikipedia](https://en.wikipedia.org/wiki/Our_World_in_Data).
+* [This 45-minute conversation between Ivan Stegic and me on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) is a very good overview of my background, the work of our team at _Our World in Data_, and the principles we follow to make research and data more understandable and accessible.
 
 ---
 

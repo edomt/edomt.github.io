@@ -25,8 +25,6 @@ For a more factual overview, you can also read [_Our World in Data_'s page on Wi
 
 **Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data**
 
-**Since 2020 · [le Signal et le Bruit](https://signaletbruit.substack.com) · Co-Author**
-
 2018–2021 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer
 
 2018–2020 · [Neoxia](https://neoxia.com/) · Lead Data Scientist
@@ -50,8 +48,6 @@ For a more factual overview, you can also read [_Our World in Data_'s page on Wi
 ---
 
 ## 📝 Publications
-
-Dec. 2020 · *Statistics and Research: Coronavirus (COVID-19) Vaccinations* [[ourworldindata.org](https://ourworldindata.org/covid-vaccinations)]
 
 Oct. 2020 · Hasell, J., Mathieu, E., Beltekian, D. _et al._ A cross-country database of COVID-19 testing. _Sci Data_ **7**, 345 (2020). [[nature.com](https://doi.org/10.1038/s41597-020-00688-8)]
 

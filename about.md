@@ -13,7 +13,7 @@ permalink: /about/
 
 ## ❓ Learn more about my work
 
-[Find out about _Our World in Data_](https://ourworldindata.org/about) and [our motivation](https://ourworldindata.org/motivation) to publish data to make progress against the world’s largest problems.
+[Find out about _Our World in Data_](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress) to publish data to make progress against the world’s largest problems.
 
 For a more factual overview, you can also read [_Our World in Data_'s page on Wikipedia](https://en.wikipedia.org/wiki/Our_World_in_Data).
 

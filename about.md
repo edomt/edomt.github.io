@@ -25,7 +25,7 @@ For a more factual overview, you can also read [_Our World in Data_'s page on Wi
 
 **Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data**
 
-**Since 2021 · [EDHEC Business School](https://online.edhec.edu/en/online-programmes/msc-in-data-management-business-analytics/) · Course Instructor & Academic Mentor**
+**Since 2021 · [EDHEC Business School](https://www.edhec.edu/en) · Course Instructor & Academic Mentor**
 
 2018–2021 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer
 

@@ -53,9 +53,15 @@ For a more factual overview, you can also read [_Our World in Data_'s page on Wi
 
 May 2021 · Mathieu, E., Ritchie, H., Ortiz-Ospina, E. _et al._ A global database of COVID-19 vaccinations. _Nat Hum Behav_ (2021). [[nature.com](https://doi.org/10.1038/s41562-021-01122-8)]
 
+Jan. 2021 · *State-by-state data on COVID-19 vaccinations in the United States* [[ourworldindata.org](https://ourworldindata.org/us-states-vaccinations)]
+
+Dec. 2020 · *Statistics and Research: Coronavirus (COVID-19) Vaccinations* [[ourworldindata.org](https://ourworldindata.org/covid-vaccinations)]
+
+Nov. 2020 · *Why do COVID-19 deaths in Sweden’s official data always appear to decrease?* [[ourworldindata.org](https://ourworldindata.org/covid-sweden-death-reporting)]
+
 Oct. 2020 · Hasell, J., Mathieu, E., Beltekian, D. _et al._ A cross-country database of COVID-19 testing. _Sci Data_ **7**, 345 (2020). [[nature.com](https://doi.org/10.1038/s41597-020-00688-8)]
 
-Apr. 2020 · *Statistics and Research: Coronavirus Pandemic (COVID-19)* [[ourworldindata.org](https://ourworldindata.org/coronavirus)]
+Apr. 2020 · *Statistics and Research: Coronavirus (COVID-19) Testing* [[ourworldindata.org](https://ourworldindata.org/coronavirus-testing)]
 
 Apr. 2020 · _le Signal et le Bruit_, a bimonthly newsletter dedicated to questions relating to data and artificial intelligence, and which aims to shed light on major technical topics and their impacts [[substack.com](https://signaletbruit.substack.com), in French]
 

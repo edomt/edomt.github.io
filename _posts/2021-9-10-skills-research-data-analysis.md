@@ -62,6 +62,16 @@ There are a few things that aren't on our list of criteria, although some people
 
 This doesn't mean that you won't find people on our team who have these characteristics. Half of our current analysts have a PhD. Half used to develop machine learning models in previous jobs. But none of us joined OWID because of these things. Instead, these characteristics are merely correlated with the skills we are looking for. People with a PhD often understand academic research very well. People who have worked on ML models tend to have strong knowledge of statistics. And people who know many programming languages tend to also be experienced programmers.
 
+## Recommended books
+
+Even though projects and work experience are the best way to get these skills, I remain a big fan of book learning. The five following books are a great way to sharpen many of these skills at once:
+
+- [Hans Rosling, _Factfulness_](https://www.goodreads.com/book/show/34890015-factfulness?ref=nav_sb_ss_1_11)
+- [Nate Silver, _The Signal and the Noise_](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise?ref=nav_sb_ss_1_11)
+- [Philip E. Tetlock, _Superforecasting_](https://www.goodreads.com/book/show/23995360-superforecasting?ref=nav_sb_ss_1_16)
+- [Edward R. Tufte, _The Visual Display of Quantitative Information_](https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information?ref=nav_sb_ss_1_14)
+- [Toby Ord, _The Precipice_](https://www.goodreads.com/book/show/50485582-the-precipice?ref=nav_sb_ss_1_8)
+
 ## Where to work
 
 ### Opportunities at OWID

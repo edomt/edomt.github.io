@@ -57,7 +57,7 @@ There are a few things that aren't on our list of criteria, although some people
 - strong experience with machine learning, big data, cloud services, etc.;
 - knowledge of many programming languages. In fact, "Python and nothing else" is a much better profile for us than "everything but Python".
 
-That doesn't mean that you won't find people on our team who have these characteristics. Half of our current analysts have a PhD. Half used to develop machine learning models in previous jobs. But none of us joined OWID because of these things. Instead, these characteristics are often correlated with the skills we are looking for. People with PhDs often understand academic research very well. People who have worked on ML models tend to have strong knowledge of statistics. And people who know many programming languages tend to also be good programmers.
+That doesn't mean that you won't find people on our team who have these characteristics. Half of our current analysts have a PhD. Half used to develop machine learning models in previous jobs. But none of us joined OWID because of these things. Instead, these characteristics are often correlated with the skills we are looking for. People with a PhD often understand academic research very well. People who have worked on ML models tend to have strong knowledge of statistics. And people who know many programming languages tend to also be good programmers.
 
 ## Opportunities at OWID
 

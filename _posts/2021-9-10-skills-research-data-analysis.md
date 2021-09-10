@@ -20,6 +20,7 @@ The fact that this is our core skill should not only make it clear what we do, b
 
 It’s not only the technical skills for data wrangling that are essential. Research-oriented data analysis implies an ability to use data to understand the world, and to help others do the same. The "expert data wrangler" presented above would thus also need:
 
+- Good "data judgement" (attention to detail, thoughtful tradeoffs between data quantity and quality, careful and systematic thinking in situations where there is no perfect solution);
 - Very good knowledge of [data visualization principles and good practices](https://www.goodreads.com/shelf/show/data-visualization);
 - A good understanding of [our work at Our World in Data](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) and [our mission](https://ourworldindata.org/problems-and-progress);
 - Fluency in English;

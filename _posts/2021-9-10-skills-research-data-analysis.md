@@ -54,3 +54,7 @@ Even though our team has grown a lot, we still rarely open new positions. When w
 ## Other opportunities outside OWID
 
 If you're looking to work at an organization similar to OWID, I recommend following the [80,000 Hours job board](https://80000hours.org/job-board/). 80,000 Hours is a nonprofit that provides [free advice](https://80000hours.org/make-a-difference-with-your-career/) and support to have a greater impact with your career. Opportunities listed on the job board are always interesting, and many of them are related to data and research.
+
+---
+
+![Pandas](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/pandas.jpg)

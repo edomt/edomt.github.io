@@ -4,7 +4,7 @@ title: What are the necessary skills for research-oriented data analysis?
 excerpt_separator: <!--more-->
 ---
 
-The work that our team does at [Our World in Data](https://ourworldindata.org/about) (OWID) has become a lot more visible recently. It has led me to receive more frequent emails asking for advice on how to work with us, or grow their skills towards similar positions. In this post, I summarize the necessary skills to join our data team at OWID, or an "OWID-like" organization.
+The work that our team does at [Our World in Data](https://ourworldindata.org/about) (OWID) has become a lot more visible recently. It has led me to receive more frequent emails asking for advice on how to work with us, or grow one's skills towards similar positions. In this post, I summarize the necessary skills to join our data team at OWID, or an "OWID-like" organization.
 
 <!--more-->
 

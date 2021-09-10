@@ -23,7 +23,7 @@ It’s not only the technical skills for data wrangling that are essential. Rese
 - Fluency in English;
 - Strong experience with importing, transforming, and maintaining datasets for other users.
 
-This last skill can seem difficult to prove if you're a recent graduate. But its presence here doesn't mean that you need to have worked for a large company before. For example, we love to hear from candidates who maintain ambitious data projects on GitHub on important subjects.
+This last skill can seem difficult to showcase if you've recently graduated. But its presence here doesn't mean that you need to have worked for a large company before. For example, we love to hear from candidates who maintain ambitious open-source data projects on important subjects.
 
 ## Secondary skills
 
@@ -49,8 +49,8 @@ Beyond [the skills that are useful to perform well in any job](https://80000hour
 
 ## Opportunities at OWID
 
-Even though our team is growing, we still rarely open new positions. When we do so, you'll be able to find them on [our _Jobs_ page](https://ourworldindata.org/jobs). You can also follow us on Twitter ([OWID](https://twitter.com/OurWorldInData/), [myself](https://twitter.com/redouad)) or [LinkedIn](https://www.linkedin.com/in/edouardmathieu/), where we will always advertise new positions.
+Even though our team has grown a lot, we still rarely open new positions. When we do so, you'll be able to find them on [our _Jobs_ page](https://ourworldindata.org/jobs). You can also follow us on Twitter ([OWID](https://twitter.com/OurWorldInData/), [myself](https://twitter.com/redouad)) or [LinkedIn](https://www.linkedin.com/in/edouardmathieu/), where we will always advertise new positions.
 
 ## Other opportunities outside OWID
 
-If you're looking to work at an organization like OWID, I recommend following the [80,000 Hours job board](https://80000hours.org/job-board/). 80,000 Hours is a nonprofit that provides [free advice](https://80000hours.org/make-a-difference-with-your-career/) and support to have a greater impact with your career. Opportunities listed on the job board are always interesting, and sometimes data-related.
+If you're looking to work at an organization similar to OWID, I recommend following the [80,000 Hours job board](https://80000hours.org/job-board/). 80,000 Hours is a nonprofit that provides [free advice](https://80000hours.org/make-a-difference-with-your-career/) and support to have a greater impact with your career. Opportunities listed on the job board are always interesting, and many of them are related to data and research.

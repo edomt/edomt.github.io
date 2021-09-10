@@ -20,11 +20,11 @@ The fact that this is our core skill should not only make it clear what we do, b
 
 It’s not only the technical skills for data wrangling that are essential. Research-oriented data analysis implies an ability to use data to understand the world, and to help others do the same. The "expert data wrangler" presented above would thus also need:
 
-- Good "data judgement" (attention to detail, thoughtful tradeoffs between data quantity and quality, careful and systematic thinking in situations where there is no perfect solution);
-- Very good knowledge of [data visualization principles and good practices](https://www.goodreads.com/shelf/show/data-visualization);
-- A good understanding of [our work at Our World in Data](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) and [our mission](https://ourworldindata.org/problems-and-progress);
-- Fluency in English;
-- Strong experience with importing, transforming, and maintaining datasets for other users.
+- good "data judgement" (attention to detail, thoughtful tradeoffs between data quantity and quality, careful and systematic thinking in situations where there is no perfect solution);
+- very good knowledge of [data visualization principles and good practices](https://www.goodreads.com/shelf/show/data-visualization);
+- a good understanding of [our work at Our World in Data](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) and [our mission](https://ourworldindata.org/problems-and-progress);
+- fluency in English;
+- strong experience with importing, transforming, and maintaining datasets for other users.
 
 This last skill can seem difficult to showcase if you've recently graduated. But its presence here doesn't mean that you need to have worked for a large company before. We love to hear from people who maintain open-source datasets on important subjects. Highly-valued applications also include candidates who have worked with some of our key sources ([WDI](https://datatopics.worldbank.org/world-development-indicators/), [SDG](https://unstats.un.org/sdgs), [UNWPP](https://population.un.org/wpp/), [GBD](http://www.healthdata.org/gbd/data)…).
 
@@ -32,23 +32,23 @@ This last skill can seem difficult to showcase if you've recently graduated. But
 
 If the skills listed above make up the trunk of a tree, secondary skills are the branches. You don't need to grow all these branches to work well at OWID, but our data analysts tend to be proficient in at least one.
 
-- Strong knowledge of [statistics](https://www.openintro.org/book/ims/);
-- Strong knowledge of [programming](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/);
-- Strong knowledge of academic research, ability to understand publications, experience with science communication;
-- Experience with the development, maintenance, and documentation of large public datasets.
+- strong knowledge of [statistics](https://www.openintro.org/book/ims/);
+- strong knowledge of [programming](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/);
+- strong knowledge of academic research, ability to understand publications, experience with science communication;
+- experience with the development, maintenance, and documentation of large public datasets.
 
 ### Metaskills
 
 Beyond [the skills that are useful to perform well in any job](https://80000hours.org/career-guide/how-to-be-successful/), here are the ones that are the most important for what we do:
 
-- Extreme attention to detail;
-- Being able to assess what data is accurate and insightful and which is not;
-- Recognizing shared behaviors and patterns that provide solutions to data problems;
-- Intellectual curiosity, openness to new ideas;
-- Interest in learning about novel research topics;
-- Flexibility to receive feedback, learn from new evidence, and change one's mind;
-- Ability and drive to work without supervision;
-- Proactivity, assertiveness.
+- extreme attention to detail;
+- being able to assess what data is accurate and insightful and which is not;
+- recognizing shared behaviors and patterns that provide solutions to data problems;
+- intellectual curiosity, openness to new ideas;
+- interest in learning about novel research topics;
+- flexibility to receive feedback, learn from new evidence, and change one's mind;
+- ability and drive to work without supervision;
+- proactivity, assertiveness.
 
 ## What we don't particularly pay attention to
 

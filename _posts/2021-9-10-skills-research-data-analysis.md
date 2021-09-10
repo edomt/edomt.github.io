@@ -47,6 +47,20 @@ Beyond [the skills that are useful to perform well in any job](https://80000hour
 - Ability and drive to work without supervision;
 - Proactivity, assertiveness.
 
+## What we don't particularly pay attention to
+
+_This section is only relevant to our work at OWID. Other organizations, including very similar ones, may need staff who fit these definitions._
+
+There are a few things that aren't on our list of criteria, although some people think that they are:
+
+- having a PhD (this isn't necessary to join our data team);
+- strong experience with machine learning, big data, cloud services, etc.;
+- knowledge of many programming languages. In fact, "Python and nothing else" is a much better profile for us than "everything but Python".
+
+That doesn't mean that you won't find people in our team who have these characteristics. Half of our current analysts have a PhD. Half have developed machine learning models in previous jobs. But none of us joined OWID because of these things.
+
+These characteristics are often correlated with skills we are looking for. People with PhDs often understand academic research very well. People who have worked on ML models tend to have strong knowledge of statistics. And people who know many programming languages tend to also be good programmers.
+
 ## Opportunities at OWID
 
 Even though our team has grown a lot, we still rarely open new positions. When we do so, you'll be able to find them on [our _Jobs_ page](https://ourworldindata.org/jobs). You can also follow us on Twitter ([OWID](https://twitter.com/OurWorldInData/), [myself](https://twitter.com/redouad)) or [LinkedIn](https://www.linkedin.com/in/edouardmathieu/), where we will always advertise new positions.

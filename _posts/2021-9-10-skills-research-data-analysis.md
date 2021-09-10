@@ -29,7 +29,7 @@ This last skill can seem difficult to showcase if you've recently graduated. But
 
 If the skills listed above make up the trunk of a tree, secondary skills are the branches. You don't need to grow all these branches to work well at OWID, but our data analysts tend to be proficient in at least one.
 
-- Strong knowledge of [statistics](https://www.openintro.org/book/stat/);
+- Strong knowledge of [statistics](https://www.openintro.org/book/ims/);
 - Strong knowledge of [programming](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/);
 - Strong knowledge of academic research, ability to understand publications, experience with science communication;
 - Experience with the development, maintenance, and documentation of large public datasets.

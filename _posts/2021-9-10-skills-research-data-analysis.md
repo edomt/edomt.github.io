@@ -12,7 +12,7 @@ The work that our team does at [Our World in Data](https://ourworldindata.org/ab
 
 ### Core skill
 
-[Data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) is the fundamental thing that our data team does at OWID. It is thus the most essential skill to master if you're considering joining us. You will need to be fluent in the use of pandas, or a similar package in R (dplyr, data.table). But our entire data pipeline relies on Python, so we have a strong preference for analysts who use this language.
+[Data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) is the fundamental thing that our data team does at OWID. It is thus the most essential skill to master if you're considering joining us. You will need to be fluent in the use of [pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas), or a similar package in R (dplyr, data.table). But our entire data pipeline relies on Python, so we have a strong preference for analysts who use this language.
 
 The fact that this is our core skill should not only make it clear what we do, but also what we _don't_ do. To solve most of the world’s largest problems, our team believes that machine learning isn't the most urgent next step. We work with datasets that are small by industry standards. And our tech stack is not at the cutting edge of data science and cloud services. Instead, we want to provide the world with the cleanest, most-reliable, best-documented datasets on crucial problems.
 

@@ -26,7 +26,7 @@ It’s not only the technical skills for data wrangling that are essential. Rese
 - Fluency in English;
 - Strong experience with importing, transforming, and maintaining datasets for other users.
 
-This last skill can seem difficult to showcase if you've recently graduated. But its presence here doesn't mean that you need to have worked for a large company before. For example, we love to hear from candidates who maintain ambitious open-source data projects on important subjects.
+This last skill can seem difficult to showcase if you've recently graduated. But its presence here doesn't mean that you need to have worked for a large company before. We love to hear from people who maintain open-source datasets on important subjects. Highly-valued applications also include candidates who work with some of our important datasets ([WDI](https://datatopics.worldbank.org/world-development-indicators/), [SDG](https://unstats.un.org/sdgs), [UNWPP](https://population.un.org/wpp/), [GBD](http://www.healthdata.org/gbd/data)…).
 
 ### Secondary skills
 

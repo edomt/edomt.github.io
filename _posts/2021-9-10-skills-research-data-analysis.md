@@ -64,7 +64,7 @@ This doesn't mean that you won't find people on our team who have these characte
 
 ## Recommended books
 
-Even though projects and work experience are the best way to build your CV, I remain a big fan of book learning. The five following books are a great way to sharpen many of these skills at once:
+Even though projects and work experience are the best way to build your CV, I remain a big fan of book learning. Reading these five books is a great way to sharpen many of these skills at once:
 
 - [Hans Rosling, _Factfulness_](https://www.goodreads.com/book/show/34890015-factfulness?ref=nav_sb_ss_1_11)
 - [Nate Silver, _The Signal and the Noise_](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise?ref=nav_sb_ss_1_11)

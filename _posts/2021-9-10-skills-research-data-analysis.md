@@ -21,7 +21,7 @@ The fact that this is our core skill should not only make it clear what we do, b
 It’s not only the technical skills for data wrangling that are essential. Research-oriented data analysis implies an ability to use data to understand the world, and to help others do the same. The "expert data wrangler" presented above would thus also need:
 
 - good "data judgement" (attention to detail, thoughtful tradeoffs between data quantity and quality, careful and systematic thinking in situations where there is no perfect solution);
-- very good knowledge of [data visualization principles and good practices](https://www.goodreads.com/shelf/show/data-visualization);
+- very good knowledge of [data visualization principles and good practices](https://journalismcourses.org/course/datavizforstorytelling/);
 - a good understanding of [our work at Our World in Data](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) and [our mission](https://ourworldindata.org/problems-and-progress);
 - fluency in English;
 - strong experience with importing, transforming, and maintaining datasets for other users.
@@ -32,9 +32,9 @@ This last skill can seem difficult to showcase if you've recently graduated. But
 
 If the skills listed above make up the trunk of a tree, secondary skills are the branches. You don't need to grow all these branches to work well at OWID, but our data analysts tend to be proficient in at least one.
 
-- strong knowledge of [statistics](https://www.openintro.org/book/ims/);
-- strong knowledge of [programming](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/);
-- strong knowledge of academic research, ability to understand publications, experience with science communication;
+- strong knowledge of [statistics](https://www.coursera.org/specializations/advanced-statistics-data-science);
+- strong knowledge of [programming](https://fivebooks.com/best-books/programming-computer-science-ana-bell/);
+- strong knowledge of [academic research](https://www.coursera.org/specializations/english-for-research-publication-purposes), ability to understand publications, experience with science communication;
 - experience with the development, maintenance, and documentation of large public datasets.
 
 ### Metaskills
@@ -60,7 +60,7 @@ There are a few things that aren't on our list of criteria, although some people
 - strong experience with machine learning, big data, cloud services, etc.;
 - knowledge of many programming languages. In fact, "Python and nothing else" is a much better profile for us than "everything but Python".
 
-This doesn't mean that you won't find people on our team who have these characteristics. Half of our current analysts have a PhD. Half used to develop machine learning models in previous jobs. But none of us joined OWID because of these things. Instead, these characteristics are merely correlated with the skills we are looking for. People with a PhD often understand academic research very well. People who have worked on ML models tend to have strong knowledge of statistics. And people who know many programming languages tend to also be experienced programmers.
+This doesn't mean that you won't find people on our team who have these characteristics. Half of our current analysts have a PhD. Half used to develop machine learning models in previous jobs. All of us know other languages besides Python. But none of us joined OWID because of these things. Instead, these characteristics are merely correlated with the skills we are looking for. People with a PhD often understand academic research very well. People who have worked on ML models tend to have strong knowledge of statistics. And people who know many programming languages tend to also be experienced programmers.
 
 ## Recommended books
 
@@ -76,12 +76,12 @@ Even though projects and work experience are the best way to build your CV, I re
 
 ### Opportunities at OWID
 
-Even though our team has grown a lot, we still rarely open new positions. When we do so, you'll be able to find them on [our _Jobs_ page](https://ourworldindata.org/jobs). You can also follow us on Twitter ([OWID](https://twitter.com/OurWorldInData/), [myself](https://twitter.com/redouad)) or [LinkedIn](https://www.linkedin.com/in/edouardmathieu/), where we will always advertise new positions.
+Even though our team has grown a lot, we still rarely open new positions. When we do so, you'll be able to find them on [our _Jobs_ page](https://ourworldindata.org/jobs). You can also follow us on Twitter ([OWID](https://twitter.com/OurWorldInData/), [myself](https://twitter.com/redouad)) or [LinkedIn](https://www.linkedin.com/in/edouardmathieu/), where we will usually advertise new positions multiple times.
 
-### Other opportunities outside OWID
+### Opportunities outside OWID
 
 If you're looking to work at an organization similar to OWID, I recommend following the [80,000 Hours job board](https://80000hours.org/job-board/). 80,000 Hours is a nonprofit that provides [free advice](https://80000hours.org/make-a-difference-with-your-career/) and support to have a greater impact with your career. Opportunities listed on the job board are always interesting, and many of them are related to data and research.
 
 ---
 
-![Pandas](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/pandas.jpg)
+![Be the pandas we need](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/pandas.jpg)

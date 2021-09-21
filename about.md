@@ -43,7 +43,9 @@ For a more factual overview, you can also read [_Our World in Data_'s page on Wi
 
 ## 🎓 Education
 
-2008–2013 · [Sciences Po Paris](https://www.sciencespo.fr/en/home) · Bachelor's and Master's degree
+2011–2013 · [Sciences Po Paris](https://www.sciencespo.fr/en/home) · Master's degree in Market Research
+
+2008–2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/home) · Bachelor's degree in Philosophy, Politics and Economics
 
 ---
 

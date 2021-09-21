@@ -45,7 +45,7 @@ For a more factual overview, you can also read [_Our World in Data_'s page on Wi
 
 2011–2013 · [Sciences Po Paris](https://www.sciencespo.fr/ecole-management-innovation/en) · Master's degree in Market Research
 
-2008–2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/education/undergraduate-studies) · Bachelor's degree in the Humanities and Social Sciences
+2008–2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/education/undergraduate-studies) · Bachelor's degree in the Humanities & Social Sciences
 
 ---
 

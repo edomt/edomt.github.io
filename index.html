@@ -21,7 +21,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <h3><span class="post-date">{{ post.date | date_to_long_string }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h3><span class="post-date">{{ post.date | date: "%b %Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <!-- <div class="entry">
         {{ post.excerpt }}

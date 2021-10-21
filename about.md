@@ -11,9 +11,11 @@ permalink: /about/
 
 ---
 
-## ❓ Learn more about my work
+## 💁🏻‍♂️ What I do
 
-[Find out about _Our World in Data_](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress) to publish data to make progress against the world’s largest problems.
+I'm the head of data at [_Our World in Data_](https://ourworldindata.org), a scientific online publication that focuses on large global problems such as poverty, disease, hunger, climate change, war, existential risks, and inequality. Our goal is to make the knowledge on these big problems accessible and understandable. I teach statistics, programming, and machine learning at [EDHEC](https://online.edhec.edu/en/online-programmes/msc-in-data-management-business-analytics/). I'm also a member of the [effective altruism](https://80000hours.org/2021/10/effective-altruism-in-a-nutshell) community.
+
+[Find out more about _Our World in Data_](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress) to publish data to make progress against the world’s largest problems.
 
 For a more factual overview, you can also read [_Our World in Data_'s page on Wikipedia](https://en.wikipedia.org/wiki/Our_World_in_Data).
 

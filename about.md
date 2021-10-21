@@ -13,9 +13,9 @@ permalink: /about/
 
 ## 💁🏻‍♂️ What I do
 
-I'm the head of data at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication that focuses on large global problems such as poverty, disease, hunger, climate change, war, existential risks, and inequality. Our goal is to make the knowledge on these big problems accessible and understandable. I also teach statistics, programming, and machine learning at [EDHEC](https://online.edhec.edu/en/online-programmes/msc-in-data-management-business-analytics/), and I'm a member of the [effective altruism](https://80000hours.org/2021/10/effective-altruism-in-a-nutshell) community.
+I'm the head of data at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication that focuses on large global problems such as poverty, disease, hunger, climate change, war, existential risks, and inequality. Our goal is to make the research and data on these big problems accessible and understandable. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
 
-[Find out more about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress) to publish data to make progress against the world’s largest problems. For a more factual overview, you can also read [OWID's page on Wikipedia](https://en.wikipedia.org/wiki/Our_World_in_Data).
+I also teach statistics, programming, and machine learning at [EDHEC](https://online.edhec.edu/en/online-programmes/msc-in-data-management-business-analytics/), and I'm a member of the [effective altruism](https://80000hours.org/2021/10/effective-altruism-in-a-nutshell) community.
 
 [This 45-minute conversation between Ivan Stegic and me on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) is a very good overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible.
 

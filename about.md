@@ -51,6 +51,8 @@ I also teach statistics, programming, and machine learning at [EDHEC](https://on
 
 ## 📝 Publications
 
+Sep. 2021 · *Which countries are on track to reach global COVID-19 vaccination targets?* [[ourworldindata.org](https://ourworldindata.org/covid-vaccination-global-projections)]
+
 May 2021 · Mathieu, E., Ritchie, H., Ortiz-Ospina, E. _et al._ A global database of COVID-19 vaccinations. _Nat Hum Behav_ (2021). [[nature.com](https://doi.org/10.1038/s41562-021-01122-8)]
 
 Jan. 2021 · *State-by-state data on COVID-19 vaccinations in the United States* [[ourworldindata.org](https://ourworldindata.org/us-states-vaccinations)]

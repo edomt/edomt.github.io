@@ -15,17 +15,15 @@ permalink: /about/
 
 I'm the head of data at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication that focuses on large global problems such as poverty, disease, hunger, climate change, war, existential risks, and inequality. Our goal is to make the research and data on these big problems accessible and understandable. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
 
-I also teach statistics, programming, and machine learning at [EDHEC](https://online.edhec.edu/en/online-programmes/msc-in-data-management-business-analytics/), and I'm a member of the [effective altruism](https://80000hours.org/2021/10/effective-altruism-in-a-nutshell) community.
-
 [This 45-minute conversation between Ivan Stegic and me on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) is a very good overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible.
+
+I'm also a member of the [effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/) community.
 
 ---
 
 ## 👨🏻‍💻 Work
 
 **Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data**
-
-**Since 2021 · [EDHEC Business School](https://www.edhec.edu/en) · Course Instructor & Academic Mentor**
 
 2018–2021 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer
 

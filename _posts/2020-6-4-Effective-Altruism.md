@@ -10,7 +10,7 @@ Around 2015, I discovered the very inspiring ideas promoted by the effective alt
 
 <!--more-->
 
-Effective altruists focus their efforts, for example, on optimal ways to fight extreme poverty, improve the long-term future, and reduce animal suffering. If you're interested in learning more, I recommend [this great introduction](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/). I also published an interview with Will MacAskill, one of effective altruism's key figures, [on Five Books](https://fivebooks.com/best-books/effective-altruism-will-macaskill/).
+Effective altruists focus their efforts, for example, on optimal ways to fight extreme poverty, improve the long-term future, and reduce animal suffering. If you're interested in learning more, I recommend [this great introduction](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/). I also published an interview with Will MacAskill, one of effective altruism's key figures, [on Five Books](https://fivebooks.com/best-books/effective-altruism-will-macaskill/). I also recommend watching [Will's 2018 TED talk](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time).
 
 Since 2015, I have donated regularly to effective causes recommended by [GiveWell](https://www.givewell.org/charities/top-charities) and the [Effective Altruism Funds](https://app.effectivealtruism.org/funds). In 2018, I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/), making a commitment to give at least 10% of my income to the organisations that can do the most good with it.
 

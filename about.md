@@ -49,6 +49,8 @@ I'm also a member of the [effective altruism](https://www.ted.com/talks/will_mac
 
 ## 📝 Publications
 
+Nov. 2021 · *How do death rates from COVID-19 differ between people who are vaccinated and those who are not?* [[ourworldindata.org](https://ourworldindata.org/covid-deaths-by-vaccination)]
+
 Sep. 2021 · *Which countries are on track to reach global COVID-19 vaccination targets?* [[ourworldindata.org](https://ourworldindata.org/covid-vaccination-global-projections)]
 
 May 2021 · Mathieu, E., Ritchie, H., Ortiz-Ospina, E. _et al._ A global database of COVID-19 vaccinations. _Nat Hum Behav_ (2021). [[nature.com](https://doi.org/10.1038/s41562-021-01122-8)]

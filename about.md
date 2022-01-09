@@ -17,7 +17,7 @@ I'm the head of data at [Our World in Data](https://ourworldindata.org) (OWID), 
 
 [This 45-minute conversation between Ivan Stegic and me on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) is a very good overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible.
 
-I'm also a member of the [effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/) community.
+I'm also a member of the [effective altruism](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time) community.
 
 ---
 

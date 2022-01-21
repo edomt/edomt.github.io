@@ -49,6 +49,8 @@ I'm also a member of the [effective altruism](https://www.ted.com/talks/will_mac
 
 ## 📝 Publications
 
+Jan. 2022 · *How do key COVID-19 metrics compare to previous waves?* [[ourworldindata.org](https://ourworldindata.org/covid-metrics-previous-waves)]
+
 Nov. 2021 · *How do death rates from COVID-19 differ between people who are vaccinated and those who are not?* [[ourworldindata.org](https://ourworldindata.org/covid-deaths-by-vaccination)]
 
 Sep. 2021 · *Which countries are on track to reach global COVID-19 vaccination targets?* [[ourworldindata.org](https://ourworldindata.org/covid-vaccination-global-projections)]

@@ -26,7 +26,7 @@ It’s not only the technical skills for data wrangling that are essential. Rese
 - fluency in English;
 - strong experience with importing, transforming, and maintaining datasets for other users.
 
-This last skill can seem difficult to showcase if you've recently graduated. But its presence here doesn't mean that you need to have worked for a large company before. We love to hear from people who maintain open-source datasets on important subjects. Highly-valued applications also include candidates who have worked with some of our key sources ([WDI](https://datatopics.worldbank.org/world-development-indicators/), [SDG](https://unstats.un.org/sdgs), [UNWPP](https://population.un.org/wpp/), [GBD](http://www.healthdata.org/gbd/data), etc.).
+This last skill can seem difficult to showcase if you've recently graduated. But its presence here doesn't mean that you need to have worked for a large company before. We love to hear from people who maintain open-source datasets on important subjects. Highly-valued applications also include candidates who have worked with some of our key sources ([WDI](https://datatopics.worldbank.org/world-development-indicators/), [SDG](https://unstats.un.org/sdgs), [UNWPP](https://population.un.org/wpp/), [GBD](http://www.healthdata.org/gbd/), etc.).
 
 ### Secondary skills
 
@@ -34,7 +34,7 @@ If the skills listed above make up the trunk of a tree, secondary skills are the
 
 - strong knowledge of [statistics](https://www.coursera.org/specializations/advanced-statistics-data-science);
 - strong knowledge of [programming](https://fivebooks.com/best-books/programming-computer-science-ana-bell/);
-- strong knowledge of [academic research](https://www.coursera.org/specializations/english-for-research-publication-purposes), ability to understand publications, experience with science communication;
+- strong knowledge of academic research, ability to understand publications, experience with science communication;
 - experience with the development, maintenance, and documentation of large public datasets.
 
 ### Metaskills

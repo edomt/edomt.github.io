@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are the necessary skills for research-oriented data analysis?
+title: How to become a research-oriented data analyst
 excerpt_separator: <!--more-->
 ---
 

@@ -57,7 +57,7 @@ Nov. 2021 · How do death rates from COVID-19 differ between people who are vacc
 
 Sep. 2021 · Which countries are on track to reach global COVID-19 vaccination targets? [[ourworldindata.org](https://ourworldindata.org/covid-vaccination-global-projections)]
 
-May 2021 · Mathieu, E., Ritchie, H., Ortiz-Ospina, E. _et al._ A global database of COVID-19 vaccinations. _Nature Human Behaviour_ (2021). [[nature.com](https://doi.org/10.1038/s41562-021-01122-8)]
+May 2021 · Mathieu, E., Ritchie, H., Ortiz-Ospina, E. _et al._ A global database of COVID-19 vaccinations. _Nature Human Behaviour_ 5, 947–953 (2021). [[nature.com](https://doi.org/10.1038/s41562-021-01122-8)]
 
 Jan. 2021 · State-by-state data on COVID-19 vaccinations in the United States [[ourworldindata.org](https://ourworldindata.org/us-states-vaccinations)]
 

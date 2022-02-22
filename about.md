@@ -49,7 +49,7 @@ I'm also a member of the effective altruism community. I took the [Giving What W
 
 ## 📝 Publications
 
-Mar. 2022 · *Nature World view: Commit to transparent COVID data until the WHO declares the pandemic is over* [[nature.com](https://doi.org/10.1038/d41586-022-00424-9)]
+Mar. 2022 · *Commit to transparent COVID data until the WHO declares the pandemic is over* [[nature.com](https://doi.org/10.1038/d41586-022-00424-9)]
 
 Jan. 2022 · *How do key COVID-19 metrics compare to previous waves?* [[ourworldindata.org](https://ourworldindata.org/covid-metrics-previous-waves)]
 

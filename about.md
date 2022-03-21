@@ -15,7 +15,7 @@ permalink: /about/
 
 I'm the head of data at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication that focuses on large global problems such as poverty, disease, hunger, climate change, war, existential risks, and inequality. Our goal is to make the research and data on these big problems accessible and understandable. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
 
-[This 45-minute conversation between Ivan Stegic and me on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) is a very good overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible.
+[My 45-minute conversation with Ivan Stegic on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) is a very good overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible.
 
 I'm also a member of the effective altruism community. Effective altruism is a research field which uses high-quality evidence and careful reasoning to work out how to help others as much as possible. If you want to learn more, I recommend [this article](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism) and [this presentation](https://www.youtube.com/watch?v=48VAQtGmfWY).
 

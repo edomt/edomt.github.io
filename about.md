@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 
-## 📩 Contact
+## Contact
 
 ![contact](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/email.png)
 
 ---
 
-## 💁🏻‍♂️ What I do
+## What I do
 
 I'm the head of data at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication that focuses on large global problems such as poverty, disease, hunger, climate change, war, existential risks, and inequality. Our goal is to make the research and data on these big problems accessible and understandable. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
 
@@ -23,7 +23,7 @@ I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) 
 
 ---
 
-## 👨🏻‍💻 Work
+## Work
 
 **Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data**
 
@@ -41,7 +41,7 @@ I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) 
 
 ---
 
-## 🎓 Education
+## Education
 
 2011–2013 · [Sciences Po Paris](https://www.sciencespo.fr/ecole-management-innovation/en) · Master's degree in market research
 
@@ -49,7 +49,7 @@ I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) 
 
 ---
 
-## 📝 Publications
+## Publications
 
 Mar. 2022 · Commit to transparent COVID data until the WHO declares the pandemic is over. _Nature_ 602, 549 (2022). [[nature.com](https://doi.org/10.1038/d41586-022-00424-9)]
 

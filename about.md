@@ -9,7 +9,6 @@ permalink: /about/
 
 ![contact](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/email.png)
 
----
 
 ## What I do
 
@@ -21,7 +20,6 @@ I'm also a member of the effective altruism community. Effective altruism is a r
 
 I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) in 2018. Since then, I've donated 10% of my yearly income to organizations that can [most effectively](https://www.givewell.org/charities/top-charities) use it to improve the lives of others.
 
----
 
 ## Work
 
@@ -39,7 +37,6 @@ I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) 
 
 2011–2012 · [Europe Ecology–The Greens](http://eelv.fr/) · Social Media Manager
 
----
 
 ## Education
 
@@ -47,7 +44,6 @@ I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) 
 
 2008–2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/education/undergraduate-studies) · Bachelor's degree in the humanities and social sciences
 
----
 
 ## Publications
 

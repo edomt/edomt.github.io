@@ -16,7 +16,7 @@ I'm the head of data at [Our World in Data](https://ourworldindata.org) (OWID), 
 
 [My 45-minute conversation with Ivan Stegic on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) is a very good overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible.
 
-I'm also a member of the effective altruism community. Effective altruism is a research field which uses high-quality evidence and careful reasoning to work out how to help others as much as possible. If you want to learn more, I recommend [this article](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism) and [this presentation](https://www.youtube.com/watch?v=48VAQtGmfWY).
+I'm also a member of the effective altruism community. Effective altruism is a research field which uses high-quality evidence and careful reasoning to work out how to help others as much as possible. If you want to learn more, I recommend [this article](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism) and [this presentation](https://www.youtube.com/watch?v=48VAQtGmfWY). I also gave [a talk at Effective Altruism Global London 2022](https://www.youtube.com/watch?v=if0gyWXrDvk), on the lessons I learned from the pandemic on how to present big ideas and complex data to the public.
 
 I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) in 2018. Since then, I've donated 10% of my yearly income to organizations that can [most effectively](https://www.givewell.org/charities/top-charities) use it to improve the lives of others.
 

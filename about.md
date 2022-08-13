@@ -18,7 +18,7 @@ I'm the head of data at [Our World in Data](https://ourworldindata.org) (OWID), 
 
 I'm also a member of the effective altruism community. Effective altruism is a research field which uses high-quality evidence and careful reasoning to work out how to help others as much as possible. If you want to learn more, I recommend [this article](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism) and [this presentation](https://www.youtube.com/watch?v=48VAQtGmfWY). I also gave [a talk at Effective Altruism Global London 2022](https://www.youtube.com/watch?v=if0gyWXrDvk), on the lessons I learned from the pandemic on how to present big ideas and complex data to the public.
 
-I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) in 2018. Since then, I've donated 10% of my yearly income to organizations that can [most effectively](https://www.givewell.org/charities/top-charities) use it to improve the lives of others.
+I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) in 2018. Since then, I've donated at least 10% of my yearly income to organizations that can [most effectively](https://www.givewell.org/charities/top-charities) use it to improve the lives of others.
 
 
 ## Work

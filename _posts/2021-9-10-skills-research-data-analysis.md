@@ -12,7 +12,7 @@ The work that our team does at [Our World in Data](https://ourworldindata.org/ab
 
 ### Core skill
 
-[Data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) is the fundamental thing that our data team does at OWID. It is thus the most essential skill to master if you're considering joining us. You will need to be fluent in the use of [pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas), or a similar package in R ([dplyr](https://www.datacamp.com/courses/data-manipulation-with-dplyr), [data.table](https://www.datacamp.com/courses/data-manipulation-with-datatable-in-r)). But our entire data pipeline relies on Python, so we have a strong preference for analysts who use this language.
+[Data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) is the fundamental thing that our data team does at OWID. It is thus the most essential skill to master if you're considering joining us. You will need to be fluent in the use of [pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas), or a similar package in R ([dplyr](https://www.datacamp.com/courses/data-manipulation-with-dplyr), [data.table](https://www.datacamp.com/courses/data-manipulation-with-datatable-in-r)). But our entire data pipeline relies on Python, so we have a very strong preference for analysts who use this language.
 
 The fact that this is our core skill should not only make it clear what we do, but also what we _don't_ do. To solve most of the world’s largest problems, our team believes that machine learning isn't the most urgent next step. We work with datasets that are small by industry standards. And our tech stack is not at the cutting edge of data science and cloud services. Instead, we want to provide the world with the cleanest, most-reliable, best-documented datasets on crucial problems.
 
@@ -23,6 +23,8 @@ It’s not only the technical skills for data wrangling that are essential. Rese
 - good "data judgement" (attention to detail, thoughtful tradeoffs between data quantity and quality, careful and systematic thinking in situations where there is no perfect solution);
 - very good knowledge of [data visualization principles and good practices](https://journalismcourses.org/course/datavizforstorytelling/);
 - a good understanding of [our work at Our World in Data](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) and [our mission](https://ourworldindata.org/problems-and-progress);
+- experience with version control systems (we rely heavily on [GitHub](https://github.com/owid));
+- a basic ability to use a terminal and bash commands;
 - fluency in English;
 - strong experience with importing, transforming, and maintaining datasets for other users.
 
@@ -82,4 +84,4 @@ Even though our team has grown a lot, we still rarely open new positions. When w
 
 If you're looking to work at an organization similar to OWID, I recommend following the [80,000 Hours job board](https://80000hours.org/job-board/). 80,000 Hours is a nonprofit that provides [free advice](https://80000hours.org/make-a-difference-with-your-career/) and support to have a greater impact with your career. Opportunities listed on the job board are always interesting, and many of them are related to data and research. If you're on Twitter you should also follow [@effective_jobs](https://twitter.com/effective_jobs).
 
-While you're honing your skills or looking for a job, I'd strongly recommend checking whether your city has an existing "Data for Good" or "Tech for Good" community. [MeetUp](https://www.meetup.com/find/?keywords=data%20for%20good&source=GROUPS) is the most frequent platform they use. These groups are typically composed of many members who volunteer to use their skills to work on interesting projects for a few weeks or months, alongside their day job. While the range of projects may include more or less important problems, it's generally a great way to meet like-minded people, get more experience, and enrich your portfolio.
+While you're honing your skills or looking for a job, I'd strongly recommend checking whether your city has an existing "Data for Good" or "Tech for Good" community. [MeetUp](https://www.meetup.com/find/?keywords=data%20for%20good&source=GROUPS) is the most frequent platform they use. These groups are typically composed of many members who volunteer to use their skills to work on interesting projects for a few weeks or months, alongside their day job. While the range of projects may include more or less important problems, it's generally a good way to meet like-minded people, get more experience, and enrich your portfolio.

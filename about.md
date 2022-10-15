@@ -12,13 +12,25 @@ permalink: /about/
 
 ## What I do
 
-I'm the head of data at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication that focuses on large global problems such as poverty, disease, hunger, climate change, war, existential risks, and inequality. Our goal is to make the research and data on these big problems accessible and understandable. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
+### Our World in Data
 
-[My 45-minute conversation with Ivan Stegic on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) is a very good overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible.
+I manage a team of data scientists at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication based out of the University of Oxford that focuses on large global problems such as poverty, disease, hunger, climate change, war, and existential risks. Our goal is to make the research and data on these big problems accessible and understandable. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
 
-I'm also a member of the effective altruism community. Effective altruism is a research field which uses high-quality evidence and careful reasoning to work out how to help others as much as possible. If you want to learn more, I recommend [this article](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism) and [this presentation](https://www.youtube.com/watch?v=48VAQtGmfWY). I also gave [a talk at Effective Altruism Global London 2022](https://www.youtube.com/watch?v=if0gyWXrDvk), on the lessons I learned from the pandemic on how to present big ideas and complex data to the public.
+I previously worked as a data scientist at the University of Oxford, in the departments of Population Health, and Primary Care Health Sciences; and as a data science consultant in the private sector.
 
-I took the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) in 2018, and every month I donate at least 10% of my income to [GiveWell's Top Charities Fund](https://www.givewell.org/charities/top-charities).
+For an overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible, you can listen to:
+
+- [My 45-minute conversation with Ivan Stegic on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) (February 2021)
+
+### Effective altruism
+
+I'm also a member of the effective altruism community. Effective altruism is a project that aims to find the best ways to help others, and put them into practice. It’s both a research field, which aims to identify the world’s most pressing problems and the best solutions to them, and a practical community that aims to use those findings to do good.
+
+If you want to learn more, I recommend [this introduction by the Center for Effective Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism) and [this presentation by Ajeya Cotra](https://www.youtube.com/watch?v=48VAQtGmfWY).
+
+I also gave [a talk at Effective Altruism Global London 2022](https://www.youtube.com/watch?v=if0gyWXrDvk), on the lessons I learned from the pandemic on how to present big ideas and complex data to the public.
+
+As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) that I signed in 2018, I donate 10% of my income to high-impact, cost-effective charities via [GiveWell's Top Charities Fund](https://www.givewell.org/charities/top-charities).
 
 
 ## Work

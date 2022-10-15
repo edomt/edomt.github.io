@@ -59,6 +59,8 @@ As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledg
 
 ## Publications
 
+*[Google Scholar profile](https://scholar.google.com/citations?user=DLZjGZ0AAAAJ)*
+
 Jul. 2022 · Five key findings from the 2022 UN Population Prospects [[ourworldindata.org](https://ourworldindata.org/world-population-update-2022)]
 
 Jun. 2022 · Monkeypox Data Explorer [[ourworldindata.org](https://ourworldindata.org/explorers/monkeypox)]

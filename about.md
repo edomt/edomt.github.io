@@ -16,6 +16,8 @@ permalink: /about/
 
 I manage a team of data scientists at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication based out of the University of Oxford that focuses on large global problems such as poverty, disease, hunger, climate change, war, and existential risks. Our goal is to make the research and data on these big problems accessible and understandable. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
 
+Since 2020, I've led our work on the COVID-19 pandemic – most notably our [Data Explorer](https://ourworldindata.org/explorers/coronavirus-data-explorer), our [global data on vaccinations](https://ourworldindata.org/covid-vaccinations) used by most media organizations and international institutions, and our [open source dataset](https://github.com/owid/covid-19-data/tree/master/public/data) with 60+ metrics on the country-by-country evolution of the pandemic.
+
 I previously worked as a data scientist at the University of Oxford, in the departments of Population Health, and Primary Care Health Sciences; and as a data science consultant in the private sector.
 
 For an overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible, you can listen to:
@@ -59,7 +61,7 @@ As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledg
 
 ## Publications
 
-*[Google Scholar profile](https://scholar.google.com/citations?user=DLZjGZ0AAAAJ)*
+🔗 [Google Scholar profile](https://scholar.google.com/citations?user=DLZjGZ0AAAAJ)
 
 Jul. 2022 · Five key findings from the 2022 UN Population Prospects [[ourworldindata.org](https://ourworldindata.org/world-population-update-2022)]
 

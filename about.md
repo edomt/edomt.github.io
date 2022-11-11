@@ -25,14 +25,6 @@ For an overview of my background, the work of our team at OWID, and the principl
 - [My interview with Ivan Stegic on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) (45 minutes, February 2021)
 - [My interview with Fin Moorhouse & Luca Righetti on Hear This Idea](https://hearthisidea.com/episodes/mathieu) (3.5 hours, October 2022)
 
-### *Effective altruism*
-
-I'm also a member of the effective altruism community. Effective altruism is a project that aims to find the best ways to help others, and put them into practice. It’s both a research field, which aims to identify the world’s most pressing problems and the best solutions to them, and a practical community that aims to use those findings to do good.
-
-If you want to learn more, I recommend [this introduction by the Center for Effective Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism) and [this presentation by Ajeya Cotra](https://www.youtube.com/watch?v=48VAQtGmfWY).
-
-I also gave [a talk at Effective Altruism Global London 2022](https://www.youtube.com/watch?v=if0gyWXrDvk), on the lessons I learned from the pandemic on how to present big ideas and complex data to the public.
-
 As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) that I signed in 2018, I donate 10% of my income to high-impact, cost-effective charities via [GiveWell's Top Charities Fund](https://www.givewell.org/charities/top-charities).
 
 

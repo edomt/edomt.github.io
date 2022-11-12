@@ -25,7 +25,7 @@ For an overview of my background, the work of our team at OWID, and the principl
 - [My interview with Ivan Stegic on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) (45 minutes, February 2021)
 - [My interview with Fin Moorhouse & Luca Righetti on Hear This Idea](https://hearthisidea.com/episodes/mathieu) (3.5 hours, October 2022)
 
-As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) that I signed in 2018, I donate 10% of my income to high-impact, cost-effective charities via [GiveWell's Top Charities Fund](https://www.givewell.org/charities/top-charities). As of November 2022, these include medicine and nets to prevent malaria, supplements to prevent vitamin A deficiency, and cash incentives for routine childhood vaccines.
+As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) that I signed in 2018, I donate 10% of my income to high-impact, cost-effective charities via [GiveWell's Top Charities Fund](https://www.givewell.org/charities/top-charities). These include medicine and nets to prevent malaria, supplements to prevent vitamin A deficiency, and cash incentives for routine childhood vaccines.
 
 
 ## Work

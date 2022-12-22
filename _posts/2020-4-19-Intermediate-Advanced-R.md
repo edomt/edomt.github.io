@@ -71,7 +71,7 @@ Another well-known resource in the R community, Datacamp provides one of the bes
 
 This course is very different from everything else mentioned on this list. The idea of "code clinics" on Lynda.com is to solve a series of general computer science problems by using a specific programming language. This means that those problems are very different from those in typical data-related R tutorials: you'll learn about image processing, chess simulations, and even how to interact with your computer peripherals to produce sound when you move your mouse.
 
-### [Posit webinars](https://www.youtube.com/playlist?list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q)
+### [Posit webinars](https://posit.co/resources/videos/)
 
 **Cost:** Free
 

@@ -45,23 +45,14 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 32px;
-  a {
-    color: inherit;
-  }
 }
 
 h2 {
   font-size: 28px;
-  a {
-    color: inherit;
-  }
 }
 
 h3 {
   font-size: 20px;
-  a {
-    color: inherit;
-  }
   margin: 1em 0 15px;
 }
 
@@ -279,6 +270,8 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+	
+  
 }
 
 .wrapper-footer {

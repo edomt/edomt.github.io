@@ -57,6 +57,8 @@ Helen Keller International's vitamin A supplementation program](https://helenkel
 
 🔗 [Google Scholar profile](https://scholar.google.com/citations?user=DLZjGZ0AAAAJ)
 
+Dec. 2022 · Charlie Giattino, Edouard Mathieu, Julia Broden and Max Roser (2022) - "Artificial Intelligence" [[ourworldindata.org](https://ourworldindata.org/artificial-intelligence)] 
+
 Jul. 2022 · Five key findings from the 2022 UN Population Prospects [[ourworldindata.org](https://ourworldindata.org/world-population-update-2022)]
 
 Jun. 2022 · Monkeypox Data Explorer [[ourworldindata.org](https://ourworldindata.org/explorers/monkeypox)]

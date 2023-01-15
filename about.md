@@ -29,7 +29,7 @@ Helen Keller International's vitamin A supplementation program](https://helenkel
 
 ## Work
 
-**Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of data and research**
+**Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data & Research**
 
 2018–2021 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer
 

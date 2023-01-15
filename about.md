@@ -33,15 +33,15 @@ Helen Keller International's vitamin A supplementation program](https://helenkel
 
 2018–2021 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer
 
-2018–2020 · [Neoxia](https://neoxia.com/) · Lead data scientist
+2018–2020 · [Neoxia](https://neoxia.com/) · Lead Data Scientist
 
-2019–2020 · [OpenClassrooms](https://openclassrooms.com) · Data science mentor
+2019–2020 · [OpenClassrooms](https://openclassrooms.com) · Data Science Mentor
 
-2015–2018 · [University of Oxford](https://www.medsci.ox.ac.uk/) · Data analyst/scientist
+2015–2018 · [University of Oxford](https://www.medsci.ox.ac.uk/) · Data Analyst/Scientist
 
-2012–2015 · [La Netscouade](http://www.lanetscouade.com/) · Social media analyst
+2012–2015 · [La Netscouade](http://www.lanetscouade.com/) · Social Media Analyst
 
-2011–2012 · [Europe Ecology–The Greens](http://eelv.fr/) · Social media manager
+2011–2012 · [Europe Ecology–The Greens](http://eelv.fr/) · Social Media Manager
 
 
 ## Education

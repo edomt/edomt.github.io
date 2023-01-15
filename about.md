@@ -12,7 +12,7 @@ permalink: /about/
 
 ## What I do
 
-I manage a team of data scientists at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication based out of the University of Oxford that focuses on large problems such as global health, poverty, climate change, human rights, war, existential risks, and innovation. Our goal is to make the research and data on these big problems accessible and understandable. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
+I manage a team of data scientists and researchers at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication based out of the University of Oxford that focuses on large problems such as global health, poverty, climate change, human rights, war, existential risks, and innovation. Our goal is to make the data and research on these big problems accessible and understandable. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
 
 Since 2020, I've also led our work on the COVID-19 pandemic – most notably our [Data Explorer](https://ourworldindata.org/explorers/coronavirus-data-explorer), our [global data on vaccinations](https://ourworldindata.org/covid-vaccinations) used by most media organizations and international institutions, and our [open source dataset](https://github.com/owid/covid-19-data/tree/master/public/data) with 60+ metrics on the country-by-country evolution of the pandemic.
 
@@ -29,19 +29,19 @@ Helen Keller International's vitamin A supplementation program](https://helenkel
 
 ## Work
 
-**Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data**
+**Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of data and research**
 
 2018–2021 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer
 
-2018–2020 · [Neoxia](https://neoxia.com/) · Lead Data Scientist
+2018–2020 · [Neoxia](https://neoxia.com/) · Lead data scientist
 
-2019–2020 · [OpenClassrooms](https://openclassrooms.com) · Data Science Mentor
+2019–2020 · [OpenClassrooms](https://openclassrooms.com) · Data science mentor
 
-2015–2018 · [University of Oxford](https://www.medsci.ox.ac.uk/) · Data Analyst/Scientist
+2015–2018 · [University of Oxford](https://www.medsci.ox.ac.uk/) · Data analyst/scientist
 
-2012–2015 · [La Netscouade](http://www.lanetscouade.com/) · Social Media Analyst
+2012–2015 · [La Netscouade](http://www.lanetscouade.com/) · Social media analyst
 
-2011–2012 · [Europe Ecology–The Greens](http://eelv.fr/) · Social Media Manager
+2011–2012 · [Europe Ecology–The Greens](http://eelv.fr/) · Social media manager
 
 
 ## Education

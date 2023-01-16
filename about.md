@@ -93,8 +93,6 @@ Apr. 2019 · Lay-Flurrie, S., Mathieu, E., Bankhead, C. _et al._ Patient consult
 
 Mar. 2019 · Big data: are we witnessing the emergence of "full-stack" data expertise? [[journaldunet.com](https://www.journaldunet.com/solutions/expert/70788/big-data---assiste-t-on-a-l-emergence-d-une-expertise-data--full-stack.shtml), in French]
 
-Jan. 2019 · The best books on Effective Altruism, recommended by Will MacAskill [[fivebooks.com](https://fivebooks.com/best-books/effective-altruism-will-macaskill/)]
-
 Oct. 2018 · The best books on Data Science, recommended by Roger D. Peng [[fivebooks.com](https://fivebooks.com/best-books/data-science-roger-peng/)]
 
 Sep. 2018 · The best books on Existential Risks, recommended by The Centre for the Study of Existential Risk [[fivebooks.com](https://fivebooks.com/best-books/existential-risks-cambridge-cser/)]

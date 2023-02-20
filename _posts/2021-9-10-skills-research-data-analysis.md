@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to become a research-oriented data analyst
+title: How to become a research-oriented data scientist
 excerpt_separator: <!--more-->
 ---
 
-The work that our team does at [Our World in Data](https://ourworldindata.org/about) (OWID) has become a lot more visible recently. It has led me to receive more frequent emails asking for advice on how to work with us, or grow one's skills towards similar positions. In this post, I summarize the necessary skills to join our data team at OWID, or an "OWID-like" organization.
+The work that our team does at [Our World in Data](https://ourworldindata.org/about) (OWID) has become a lot more visible recently. It has led me to receive more frequent emails asking for advice on working with us or growing one's skills toward similar positions. This post summarizes the necessary skills to join our data team at OWID or an "OWID-like" organization.
 
 <!--more-->
 
@@ -12,13 +12,13 @@ The work that our team does at [Our World in Data](https://ourworldindata.org/ab
 
 ### Core skill
 
-[Data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) is the fundamental thing that our data team does at OWID. It is thus the most essential skill to master if you're considering joining us. You will need to be fluent in the use of [pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas), or a similar package in R ([dplyr](https://www.datacamp.com/courses/data-manipulation-with-dplyr), [data.table](https://www.datacamp.com/courses/data-manipulation-with-datatable-in-r)). But our entire data pipeline relies on Python, so we have a very strong preference for analysts who use this language.
+[Data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) is our data team's fundamental work at OWID. It is thus an essential skill to master if you're considering joining us. You will need to be fluent in the use of [pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas) or a similar package in R ([dplyr](https://www.datacamp.com/courses/data-manipulation-with-dplyr), [data.table](https://www.datacamp.com/courses/data-manipulation-with-datatable-in-r)). But our entire data pipeline relies on Python, so we strongly prefer data scientists who use this language.
 
-The fact that this is our core skill should not only make it clear what we do, but also what we _don't_ do. To solve most of the world’s largest problems, our team believes that machine learning isn't the most urgent next step. We work with datasets that are small by industry standards. And our tech stack is not at the cutting edge of data science and cloud services. Instead, we want to provide the world with the cleanest, most-reliable, best-documented datasets on crucial problems.
+The fact that this is our core skill should make it clear what we do, but also what we _don't_ do. To solve most of the world's largest problems, our team believes that machine learning isn't the most urgent next step. We work with datasets that are small by industry standards. And our tech stack is not at the cutting edge of data science and cloud services. Instead, we want to provide the world with the cleanest, most-reliable, best-documented datasets on crucial problems.
 
 ### Other necessary skills
 
-It’s not only the technical skills for data wrangling that are essential. Research-oriented data analysis implies an ability to use data to understand the world, and to help others do the same. The "expert data wrangler" presented above would thus also need:
+It's not only the technical skills for data wrangling that are essential. Research-oriented data analysis implies using data to understand the world and help others do the same. The "expert data wrangler" presented above would thus also need the following:
 
 - good "data judgement" (attention to detail, thoughtful tradeoffs between data quantity and quality, careful and systematic thinking in situations where there is no perfect solution);
 - very good knowledge of [data visualization principles and good practices](https://journalismcourses.org/course/datavizforstorytelling/);
@@ -28,16 +28,16 @@ It’s not only the technical skills for data wrangling that are essential. Rese
 - fluency in English;
 - strong experience with importing, transforming, and maintaining datasets for other users.
 
-This last skill can seem difficult to showcase if you've recently graduated. But its presence here doesn't mean that you need to have worked for a large company before. We love to hear from people who maintain open-source datasets on important subjects. Highly-valued applications also include candidates who have worked with some of our key sources ([WDI](https://datatopics.worldbank.org/world-development-indicators/), [SDG](https://unstats.un.org/sdgs), [UNWPP](https://population.un.org/wpp/), [GBD](http://www.healthdata.org/gbd/), etc.).
+This last skill can seem difficult to showcase if you've recently graduated. But its presence here doesn't mean you need to have worked for a large company. We love to hear from people who maintain open-source datasets on important subjects. Highly-valued applications also include candidates who have worked with some of our key sources ([WDI](https://datatopics.worldbank.org/world-development-indicators/), [SDG](https://unstats.un.org/sdgs), [UNWPP](https://population.un.org/wpp/), [GBD](http://www.healthdata.org/gbd/), etc.).
 
 ### Secondary skills
 
-If the skills listed above make up the trunk of a tree, secondary skills are the branches. You don't need to grow all these branches to work well at OWID, but our data analysts tend to be proficient in at least one.
+If the skills listed above make up the trunk of a tree, secondary skills are the branches. You don't need to grow all these branches to work well at OWID, but our data scientists tend to be proficient in at least one.
 
 - strong knowledge of [statistics](https://www.coursera.org/specializations/advanced-statistics-data-science);
 - strong knowledge of [programming](https://fivebooks.com/best-books/programming-computer-science-ana-bell/);
 - strong knowledge of academic research, ability to understand publications, experience with science communication;
-- experience with the development, maintenance, and documentation of large public datasets.
+- experience with developing, maintaining, and documenting large public datasets.
 
 ### Metaskills
 
@@ -58,11 +58,11 @@ _This section is only relevant to our work at OWID. Other organizations, includi
 
 There are a few things that aren't on our list of criteria, although some people think that they are:
 
-- having a PhD (this isn't necessary to join our data team);
+- having a Ph.D. (this isn't necessary to join our data team);
 - strong experience with machine learning, big data, cloud services, etc.;
-- knowledge of many programming languages. In fact, "Python and nothing else" is a much better profile for us than "everything but Python".
+- knowledge of many programming languages. In fact, "Python and nothing else" is a much better profile for us than "everything but Python."
 
-This doesn't mean that you won't find people on our team who have these characteristics. Half of our current analysts have a PhD. Half used to develop machine learning models in previous jobs. All of us know other languages besides Python. But none of us joined OWID because of these things. Instead, these characteristics are merely correlated with the skills we are looking for. People with a PhD often understand academic research very well. People who have worked on ML models tend to have strong knowledge of statistics. And people who know many programming languages tend to also be experienced programmers.
+This doesn't mean you won't find people on our team with these characteristics. Half of our current data scientists have a Ph.D. Half used to develop machine learning models in previous jobs. All of us know other languages besides Python. But none of us joined OWID because of these things. Instead, these characteristics are merely correlated with the skills we are looking for. People with a Ph.D. often understand academic research very well. People who have worked on ML models tend to have strong knowledge of statistics. And people who know many programming languages also tend to be experienced developers.
 
 ## Recommended books
 
@@ -78,10 +78,10 @@ Even though projects and work experience are the best way to build your CV, I re
 
 ### Opportunities at OWID
 
-Even though our team has grown a lot, we still rarely open new positions. When we do so, you'll be able to find them on [our _Jobs_ page](https://ourworldindata.org/jobs). You can also follow us on Twitter ([OWID](https://twitter.com/OurWorldInData/), [myself](https://twitter.com/redouad)) or [LinkedIn](https://www.linkedin.com/in/edouardmathieu/), where we will usually advertise new positions multiple times.
+Even though our team has grown a lot, we still rarely open new positions. You can find them on [our _Jobs_ page](https://ourworldindata.org/jobs) when we do so. You can also follow us on Twitter ([OWID](https://twitter.com/OurWorldInData/), [myself](https://twitter.com/redouad)) or [LinkedIn](https://www.linkedin.com/in/edouardmathieu/), where we will usually advertise new positions multiple times.
 
 ### Opportunities outside OWID
 
-If you're looking to work at an organization similar to OWID, I recommend following the [80,000 Hours job board](https://jobs.80000hours.org/?query=data). 80,000 Hours is a nonprofit that provides [free advice](https://80000hours.org/make-a-difference-with-your-career/) and support to have a greater impact with your career. Opportunities listed on the job board are always interesting, and many of them are related to data and research. If you're on Twitter you should also follow [@effective_jobs](https://twitter.com/effective_jobs).
+If you want to work at an organization similar to OWID, I recommend following the [80,000 Hours job board](https://jobs.80000hours.org/?query=data). 80,000 Hours is a nonprofit that provides [free advice](https://80000hours.org/make-a-difference-with-your-career/) and support to have a greater impact on your career. Opportunities listed on the job board are always interesting; many are related to data and research. If you're on Twitter, you should also follow [@effective_jobs](https://twitter.com/effective_jobs).
 
-While you're honing your skills or looking for a job, I'd strongly recommend checking whether your city has an existing "Data for Good" or "Tech for Good" community. [MeetUp](https://www.meetup.com/find/?keywords=data%20for%20good&source=GROUPS) is the most frequent platform they use. These groups are typically composed of many members who volunteer to use their skills to work on interesting projects for a few weeks or months, alongside their day job. While the range of projects may include more or less important problems, it's generally a good way to meet like-minded people, get more experience, and enrich your portfolio.
+While you're honing your skills or looking for a job, I'd strongly recommend checking whether your city has an existing "Data for Good" or "Tech for Good" community. [MeetUp](https://www.meetup.com/find/?keywords=data%20for%20good&source=GROUPS) is the most frequent platform they use. These groups are typically composed of many members who volunteer to use their skills to work on interesting projects for a few weeks or months alongside their day job. While the range of projects may include more or less important problems, it's generally a good way to meet like-minded people, get more experience, and enrich your portfolio.

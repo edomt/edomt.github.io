@@ -72,7 +72,7 @@ Even though projects and work experience are the best way to build your CV, I re
 - [Nate Silver, _The Signal and the Noise_](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise?ref=nav_sb_ss_1_11)
 - [Philip E. Tetlock, _Superforecasting_](https://www.goodreads.com/book/show/23995360-superforecasting?ref=nav_sb_ss_1_16)
 - [Edward R. Tufte, _The Visual Display of Quantitative Information_](https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information?ref=nav_sb_ss_1_14)
-- [William MacAskill, _Doing Good Better_](https://www.goodreads.com/book/show/23398748-doing-good-better)
+- [Julia Galef, _The Scout Mindset_](https://www.goodreads.com/en/book/show/42041926)
 
 ## Where to work
 

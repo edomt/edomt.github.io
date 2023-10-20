@@ -63,6 +63,8 @@ Jul. 2022 · Five key findings from the 2022 UN Population Prospects [[ourworldi
 
 Jun. 2022 · Monkeypox Data Explorer [[ourworldindata.org](https://ourworldindata.org/explorers/monkeypox)]
 
+Jun. 2022 · Space Exploration and Satellites [[ourworldindata.org](https://ourworldindata.org/space-exploration-satellites)]
+
 Mar. 2022 · Commit to transparent COVID data until the WHO declares the pandemic is over. _Nature_ 602, 549 (2022). [[nature.com](https://doi.org/10.1038/d41586-022-00424-9)]
 
 Jan. 2022 · How do key COVID-19 metrics compare to previous waves? [[ourworldindata.org](https://ourworldindata.org/covid-metrics-previous-waves)]

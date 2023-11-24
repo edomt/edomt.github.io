@@ -46,7 +46,7 @@ GiveWell's Top Charities Fund](https://www.givewell.org/top-charities-fund).
 
 2011–2013 · [Sciences Po Paris](https://www.sciencespo.fr/ecole-management-innovation/en) · Master's degree in market research
 
-2008–2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/education/undergraduate-studies) · Bachelor's degree in the humanities and social sciences
+2008–2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/education/undergraduate-studies) · Bachelor's degree in humanities and social sciences
 
 
 ## Publications

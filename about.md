@@ -31,8 +31,6 @@ GiveWell's Top Charities Fund](https://www.givewell.org/top-charities-fund).
 
 **Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data & Research**
 
-2018–2021 · [Five Books](https://fivebooks.com/interviewer/edouard-mathieu/) · Interviewer
-
 2018–2020 · [Neoxia](https://neoxia.com/) · Lead Data Scientist
 
 2019–2020 · [OpenClassrooms](https://openclassrooms.com) · Data Science Mentor

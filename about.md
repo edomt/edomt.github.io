@@ -55,6 +55,8 @@ GiveWell's Top Charities Fund](https://www.givewell.org/top-charities-fund).
 
 Jun. 2023 · Blauer Beth, Brownstein John, Gardner Lauren, Kraemer Moritz UG, Leiva Rioja Zoila, Mathieu Edouard, Redies Isabel, Morgan Oliver W. Innovative platforms for data aggregation, linkage and analysis in the context of pandemic and epidemic intelligence. Euro Surveill. 2023;28(24):pii=2200860. [[eurosurveillance.org](https://doi.org/10.2807/1560-7917.ES.2023.28.24.2200860)]
 
+Apr. 2023 · How does age standardization make health metrics comparable? [[ourworldindata.org](https://ourworldindata.org/age-standardization)]
+
 Dec. 2022 · Charlie Giattino, Edouard Mathieu, Julia Broden and Max Roser (2022) - "Artificial Intelligence" [[ourworldindata.org](https://ourworldindata.org/artificial-intelligence)] 
 
 Jul. 2022 · Five key findings from the 2022 UN Population Prospects [[ourworldindata.org](https://ourworldindata.org/world-population-update-2022)]

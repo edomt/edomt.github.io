@@ -12,18 +12,23 @@ permalink: /about/
 
 ## What I do
 
-I manage a team of data scientists and researchers at [Our World in Data](https://ourworldindata.org) (OWID), a scientific online publication based out of the University of Oxford that focuses on large problems such as global health, poverty, climate change, human rights, war, existential risks, and innovation. We aim to make the data and research on these big problems accessible and understandable. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
+I'm the Head of Data and Research at [Our World in Data](https://ourworldindata.org) (OWID), an online publication based out of the University of Oxford that focuses on large problems such as global health, poverty, climate change, education, human rights, economic development, and technological progress.
+
+I manage a [team](https://ourworldindata.org/team) of data scientists and researchers who make these big problems – and their possible solutions – more accessible and understandable through articles and data visualizations. All our work is free and open access. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
 
 From 2020 to 2022, I led our work on the COVID-19 pandemic – most notably our [Data Explorer](https://ourworldindata.org/explorers/coronavirus-data-explorer), our [global data on vaccinations](https://ourworldindata.org/covid-vaccinations) used by most media organizations and international institutions, and our [open source dataset](https://github.com/owid/covid-19-data) with 60+ metrics on the country-by-country evolution of the pandemic.
 
-I previously worked as a data scientist at the University of Oxford in the departments of Population Health and Primary Care Health Sciences; and as a data science consultant in the private sector.
+Before joining OWID in 2020, I previously worked as a data scientist at the University of Oxford in the departments of Population Health and Primary Care Health Sciences; and as a data science consultant in the private sector.
 
 For an overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible, you can listen to the following:
 
 - [My interview with Ivan Stegic on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) (45 minutes, February 2021)
 - [My interview with Fin Moorhouse & Luca Righetti on Hear This Idea](https://hearthisidea.com/episodes/mathieu) (3.5 hours, October 2022)
 
-As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/) that I signed in 2018, I donate 10% of my income to high-impact, cost-effective charities. My donations are split between [GiveDirectly's cash transfers to families living in extreme poverty](https://www.givedirectly.org/large-transfer/) and [
+
+## Donations
+
+As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/), I've donated 10% of my income to high-impact, cost-effective charities since 2018. My donations are split between [GiveDirectly's cash transfers to families living in extreme poverty](https://www.givedirectly.org/large-transfer/) and [
 GiveWell's Top Charities Fund](https://www.givewell.org/top-charities-fund).
 
 

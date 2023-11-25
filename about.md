@@ -34,7 +34,7 @@ GiveWell's Top Charities Fund](https://www.givewell.org/top-charities-fund).
 
 ## Work
 
-**Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data & Research**
+Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data & Research
 
 2018–2020 · [Neoxia](https://neoxia.com/) · Lead Data Scientist
 

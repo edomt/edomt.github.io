@@ -28,7 +28,7 @@ For an overview of my background, the work of our team at OWID, and the principl
 
 ## Donations
 
-As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/), I've donated 10% of my income to high-impact, cost-effective charities since 2018. My donations are split between [GiveDirectly's cash transfers to families living in extreme poverty](https://www.givedirectly.org/large-transfer/) and [
+As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/), I've donated 10% of my income to high-impact, cost-effective charities since 2018. My donations currently go toward [GiveDirectly's cash transfers to families living in extreme poverty](https://www.givedirectly.org/large-transfer/) and [
 GiveWell's Top Charities Fund](https://www.givewell.org/top-charities-fund).
 
 

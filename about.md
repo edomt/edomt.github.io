@@ -12,7 +12,7 @@ permalink: /about/
 
 ## What I do
 
-I'm the Head of Data and Research at [Our World in Data](https://ourworldindata.org) (OWID), an online publication based out of the University of Oxford that focuses on large problems such as global health, poverty, climate change, education, human rights, economic development, and technological progress.
+I'm the Head of Data & Research at [Our World in Data](https://ourworldindata.org) (OWID), an online publication based out of the University of Oxford that focuses on large problems such as global health, poverty, climate change, education, human rights, economic development, and technological progress.
 
 I manage a [team](https://ourworldindata.org/team) of data scientists and researchers who make these big problems – and their possible solutions – more accessible and understandable through articles and data visualizations. All our work is free and open access. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
 

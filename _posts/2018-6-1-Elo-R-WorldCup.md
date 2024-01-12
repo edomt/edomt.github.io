@@ -15,9 +15,9 @@ and how to use those rankings to predict the result of football matches.
 What is Elo?
 ------------
 
-In its most basic definition, Elo is a rating system which lets us rank
+In its most basic definition, Elo is a rating system that lets us rank
 teams (or players in individual sports or games) relative to one
-another, and predict the likely outcome of a given match-up. I won't try
+another and predict the likely outcome of a given match-up. I won't try
 to explain it better than Wikipedia:
 
 > The Elo rating system is a method for calculating the relative skill
@@ -53,19 +53,16 @@ to explain it better than Wikipedia:
 > and thus gain rating points until the rating reflects their true playing
 > strength.
 
-The Elo ranking is featured in a [scene of the movie *The Social
+The Elo ranking is featured in an awkward [scene in the movie *The Social
 Network*](https://www.youtube.com/watch?v=10AeyTCeZJM), where Mark Zuckerberg and Eduardo Saverin discuss how to "rank
-women" on [Facemash](https://en.wikipedia.org/wiki/History_of_Facebook#FaceMash). (While the
-scene is a nice introduction to Elo, the idea that Zuckerberg would need
-Saverin to "give him the algorithm" – as opposed to just looking it
-up himself, say, on the Internet? – is fairly naive.)
+women" on [Facemash](https://en.wikipedia.org/wiki/History_of_Facebook#FaceMash).
 
 [![Elo in The Social Network](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/social-network1.jpg)](https://www.youtube.com/watch?v=10AeyTCeZJM)
 
 Getting our data
 ----------------
 
-In order to build reliable Elo rankings, we'll need a good dataset of
+To build reliable Elo rankings, we'll need a good dataset of
 historical results for the 32 teams in the World Cup, going as far back
 as possible.
 

@@ -53,12 +53,6 @@ to explain it better than Wikipedia:
 > and thus gain rating points until the rating reflects their true playing
 > strength.
 
-The Elo ranking is featured in an awkward [scene in the movie *The Social
-Network*](https://www.youtube.com/watch?v=10AeyTCeZJM), where Mark Zuckerberg and Eduardo Saverin discuss how to "rank
-women" on [Facemash](https://en.wikipedia.org/wiki/History_of_Facebook#FaceMash).
-
-[![Elo in The Social Network](https://raw.githubusercontent.com/edomt/edomt.github.io/master/images/social-network1.jpg)](https://www.youtube.com/watch?v=10AeyTCeZJM)
-
 Getting our data
 ----------------
 

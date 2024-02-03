@@ -4,7 +4,9 @@ title: How to become a research-oriented data scientist
 excerpt_separator: <!--more-->
 ---
 
-The work that our team does at [Our World in Data](https://ourworldindata.org/about) (OWID) has become a lot more visible recently. It has led me to receive more frequent emails asking for advice on working with us or growing one's skills toward similar positions. This post summarizes the necessary skills to join our data team at OWID or an "OWID-like" organization.
+_Last updated in February 2024._
+
+The work that our team does at [Our World in Data](https://ourworldindata.org/about) (OWID) has become a lot more visible since the COVID-19 pandemic. It has led me to receive more frequent emails asking for advice on working with us or growing one's skills toward similar positions. This post summarizes the necessary skills to join our data team at OWID or an "OWID-like" organization.
 
 <!--more-->
 
@@ -12,7 +14,7 @@ The work that our team does at [Our World in Data](https://ourworldindata.org/ab
 
 ### Core skill
 
-[Data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) is our data team's fundamental work at OWID. It is thus an essential skill to master if you're considering joining us. You will need to be fluent in the use of [pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas) or a similar package in R ([dplyr](https://www.datacamp.com/courses/data-manipulation-with-dplyr), [data.table](https://www.datacamp.com/courses/data-manipulation-with-datatable-in-r)). But our entire data pipeline relies on Python, so we strongly prefer data scientists who use this language.
+[Data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) is our data team's fundamental work at OWID. It is thus an essential skill to master if you're considering joining us. You will need to be fluent in the use of [pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas). We used to hire data scientists who only knew similar packages in R ([dplyr](https://www.datacamp.com/courses/data-manipulation-with-dplyr), [data.table](https://www.datacamp.com/courses/data-manipulation-with-datatable-in-r)), but our data pipeline now relies exlusively on Python, so we only hire data scientists who can use this language.
 
 The fact that this is our core skill should make it clear what we do, but also what we _don't_ do. To solve most of the world's largest problems, our team believes that machine learning isn't the most urgent next step. We work with datasets that are small by industry standards. And our tech stack is not at the cutting edge of data science and cloud services. Instead, we want to provide the world with the cleanest, most-reliable, best-documented datasets on crucial problems.
 
@@ -28,7 +30,7 @@ It's not only the technical skills for data wrangling that are essential. Resear
 - fluency in English;
 - strong experience with importing, transforming, and maintaining datasets for other users.
 
-This last skill can seem difficult to showcase if you've recently graduated. But its presence here doesn't mean you need to have worked for a large company. We love to hear from people who maintain open-source datasets on important subjects. Highly-valued applications also include candidates who have worked with some of our key sources ([WDI](https://datatopics.worldbank.org/world-development-indicators/), [SDG](https://unstats.un.org/sdgs), [UNWPP](https://population.un.org/wpp/), [GBD](http://www.healthdata.org/gbd/), etc.).
+This last skill can seem difficult to showcase if you've recently graduated. But its presence here doesn't mean you need to have worked for a large company. We love to hear from people who maintain open-source datasets on important subjects. Highly-valued applications also include candidates who have worked with some of our key sources ([WB WDI](https://datatopics.worldbank.org/world-development-indicators/), [UN SDG](https://unstats.un.org/sdgs), [UN WPP](https://population.un.org/wpp/), [IHME GBD](http://www.healthdata.org/gbd/), etc.).
 
 ### Secondary skills
 
@@ -68,17 +70,17 @@ This doesn't mean you won't find people on our team with these characteristics. 
 
 Even though projects and work experience are the best way to build your CV, I remain a big fan of book learning. Reading these five books is a great way to sharpen many of these skills at once:
 
+- [Hannah Ritchie, _Not the End of the World_](https://www.goodreads.com/book/show/145624737-not-the-end-of-the-world)
 - [Hans Rosling, _Factfulness_](https://www.goodreads.com/book/show/34890015-factfulness?ref=nav_sb_ss_1_11)
+- [Julia Galef, _The Scout Mindset_](https://www.goodreads.com/en/book/show/42041926)
 - [Nate Silver, _The Signal and the Noise_](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise?ref=nav_sb_ss_1_11)
 - [Philip E. Tetlock, _Superforecasting_](https://www.goodreads.com/book/show/23995360-superforecasting?ref=nav_sb_ss_1_16)
-- [Edward R. Tufte, _The Visual Display of Quantitative Information_](https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information?ref=nav_sb_ss_1_14)
-- [Julia Galef, _The Scout Mindset_](https://www.goodreads.com/en/book/show/42041926)
 
 ## Where to work
 
 ### Opportunities at OWID
 
-Even though our team has grown a lot, we still rarely open new positions. You can find them on [our _Jobs_ page](https://ourworldindata.org/jobs) when we do so. You can also follow us on Twitter ([OWID](https://twitter.com/OurWorldInData/), [myself](https://twitter.com/redouad)) or [LinkedIn](https://www.linkedin.com/in/edouardmathieu/), where we will usually advertise new positions multiple times.
+Even though our team has grown a lot, we still rarely open new positions. You can find them on [our _Jobs_ page](https://ourworldindata.org/jobs) when we do so. You can also follow us on [Twitter](https://twitter.com/) or [LinkedIn](https://www.linkedin.com/in/edouardmathieu/), where we will usually advertise new positions multiple times.
 
 ### Opportunities outside OWID
 

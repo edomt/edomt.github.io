@@ -26,9 +26,9 @@ For an overview of my background, the work of our team at OWID, and the principl
 - [My interview with Fin Moorhouse & Luca Righetti on Hear This Idea](https://hearthisidea.com/episodes/mathieu) (3.5 hours, October 2022)
 
 
-## Donations
+## Donation pledge
 
-As part of the [Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge/), I've donated 10% of my income to high-impact, cost-effective charities since 2018. My donations currently go toward [GiveDirectly's cash transfers to families in extreme poverty](https://www.givedirectly.org/large-transfer/) and [
+In 2018, I took the donation pledge of [Giving What We Can](https://www.givingwhatwecan.org/pledge/), thereby committing to give 10% of my income for the rest of my life to organizations that can most effectively use it to improve the lives of others. Currently, my donations are evenly split between [GiveDirectly's cash transfers to families in extreme poverty](https://www.givedirectly.org/large-transfer/) and [
 GiveWell's Top Charities Fund](https://www.givewell.org/top-charities-fund).
 
 

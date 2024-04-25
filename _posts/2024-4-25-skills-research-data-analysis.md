@@ -28,7 +28,7 @@ Not much. We want to hire data scientists with excellent data literacy, and you 
 
 ### How much ML, AI, or cloud computing do I need to know?
 
-Many of our data scientists have some ML/AI/cloud experience, but it's not intrinsically helpful to any of our work. We work with small datasets by industry standards, and our tech stack is not at the cutting edge of data science and cloud services. Instead, we want to provide the world with the cleanest, most reliable, and best-documented datasets on crucial problems.
+Many of our data scientists have some ML/AI/cloud experience, but none of these skills are essential to what we do. We work with small datasets by industry standards, and our tech stack is not at the cutting edge of data science and cloud services. Instead, we want to provide the world with the cleanest, most reliable, and best-documented datasets on crucial problems.
 
 ### How much research experience do I need?
 

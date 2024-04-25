@@ -20,7 +20,7 @@ Data wrangling in Python/pandas is the fundamental work that OWID's data scienti
 
 ### Can I apply if I know R/Stata/SPSS/Julia, but not Python?
 
-We used to hire data scientists who did not know Python but knew other statistical programming languages, but our data pipeline now relies exclusively on Python, so we only hire data scientists who can comfortably use Python.
+We used to hire data scientists who did not know Python but knew other statistical programming languages. However, our data pipeline now relies exclusively on Python, so we only hire data scientists who can comfortably use it.
 
 ### How much statistics do I need to know?
 
@@ -28,7 +28,7 @@ Not much. We want to hire data scientists with excellent data literacy, and you 
 
 ### How much ML, AI, or cloud computing do I need to know?
 
-Many of our data scientists have some ML/AI/cloud experience, but it's not intrinsically helpful to any of the work we do. We work with small datasets by industry standards, and our tech stack is not at the cutting edge of data science and cloud services. Instead, we want to provide the world with the cleanest, most reliable, and best-documented datasets on crucial problems.
+Many of our data scientists have some ML/AI/cloud experience, but it's not intrinsically helpful to any of our work. We work with small datasets by industry standards, and our tech stack is not at the cutting edge of data science and cloud services. Instead, we want to provide the world with the cleanest, most reliable, and best-documented datasets on crucial problems.
 
 ### How much research experience do I need?
 

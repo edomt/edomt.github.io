@@ -22,13 +22,17 @@ Data wrangling in Python/pandas is the fundamental work that OWID's data scienti
 
 We used to hire data scientists who did not know Python but knew other statistical programming languages. However, our data pipeline now relies exclusively on Python, so we only hire data scientists who can comfortably use it.
 
-### How much statistics do I need to know?
-
-Not much. We want to hire data scientists with excellent data literacy, and you should understand statistical techniques essential to academic research, such as confidence intervals. But we don't use more advanced statistics than this.
-
 ### How much ML, AI, or cloud computing do I need to know?
 
 Many of our data scientists have some ML/AI/cloud experience, but none of these skills are essential to what we do. We work with small datasets by industry standards, and your skills don't need to be at the absolute cutting edge of data science and cloud services.
+
+### How much statistics do I need to know?
+
+We want to hire data scientists with excellent data literacy, and you should understand statistical techniques essential to academic research, such as confidence intervals. But we don't use more advanced statistics than this.
+
+### How much data viz experience do I need?
+
+Data visualization is a core part of our work, and you should be comfortable with its broad principles and good practices. But we tend to focus 90% of our efforts on producing simple maps or line charts with perfect titles, footnotes, and annotations; more so than creating never-seen-before data viz formats.
 
 ### How much research experience do I need?
 

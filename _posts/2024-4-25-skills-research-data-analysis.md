@@ -36,7 +36,7 @@ Data visualization is a core part of our work, and you should be comfortable wit
 
 ### How much research experience do I need?
 
-You don't need years of experience in academia to join us. Still, over time, I've found that a solid understanding of academic research correlates very highly with being a successful data scientist at OWID. This could mean having done some research yourself (for example, a Ph.D.), but more simply, you could have acquired this knowledge by participating in a research project or reading a lot of academic papers.
+You don't need years of academic experience to join us. Still, over time, I've found that a solid understanding of academic research often correlates with being a successful data scientist at OWID. This could mean having done some research yourself (for example, a Ph.D.), but more simply, you could have acquired this knowledge by participating in research projects or reading a lot of academic papers.
 
 Another very helpful thing is having worked with some of our key sources of data, such as the World Bank's [World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/) or [Poverty and Inequality Platform](https://pip.worldbank.org), the UN's [Sustainable Development Goals dataset](https://unstats.un.org/sdgs) or [World Population Prospects](https://population.un.org/wpp/), the WHO's [Global Health Observatory](https://www.who.int/data/gho) or [Global Health Estimates](https://www.who.int/data/global-health-estimates), the [Global Carbon Budget](https://globalcarbonbudget.org/), the [Statistical Review of World Energy](https://www.energyinst.org/statistical-review/), etc.
 
@@ -50,7 +50,6 @@ Beyond [the skills that are useful to perform well in any job](https://80000hour
 
 - fluency in English;
 - good data judgment (attention to detail, thoughtful tradeoffs between data quantity and quality, careful and systematic thinking in situations where there is no perfect solution);
-- very good knowledge of data visualization principles and good practices;
 - intellectual curiosity, openness to new ideas and topics;
 - flexibility to receive feedback, learn from new evidence, and change one's mind;
 - ability and drive to work without supervision;

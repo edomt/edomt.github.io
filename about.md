@@ -28,7 +28,7 @@ For an overview of my background, the work of our team at OWID, and the principl
 
 ## Donation pledge
 
-In 2018, I took the donation pledge of [Giving What We Can](https://www.givingwhatwecan.org/pledge/), committing to give 10% of my income for the rest of my life to organizations that can most effectively use it to improve the lives of others. Currently, my donations are evenly split between [GiveDirectly's cash transfers to families in extreme poverty](https://www.givedirectly.org/large-transfer/) and [
+In 2018, I took the [🔸10% Pledge](https://www.givingwhatwecan.org/pledge) of Giving What We Can, committing to give 10% of my income for the rest of my life to organizations that can most effectively use it to improve the lives of others. Currently, my donations are evenly split between [GiveDirectly's cash transfers to families in extreme poverty](https://www.givedirectly.org/large-transfer/) and [
 GiveWell's Top Charities](https://www.givewell.org/charities/top-charities).
 
 

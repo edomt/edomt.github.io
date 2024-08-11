@@ -58,6 +58,7 @@ Beyond [the skills that are useful to perform well in any job](https://80000hour
 
 ### Which books would you recommend I read?
 
+- [Angus Deaton, _The Great Escape_](https://www.goodreads.com/book/show/17942017-the-great-escape) (parts I and II)
 - [Hannah Ritchie, _Not the End of the World_](https://www.goodreads.com/book/show/145624737-not-the-end-of-the-world)
 - [Hans Rosling, _Factfulness_](https://www.goodreads.com/book/show/34890015-factfulness?ref=nav_sb_ss_1_11)
 - [Nate Silver, _The Signal and the Noise_](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise?ref=nav_sb_ss_1_11)

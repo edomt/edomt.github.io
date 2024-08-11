@@ -58,10 +58,10 @@ Beyond [the skills that are useful to perform well in any job](https://80000hour
 
 ### Which books would you recommend I read?
 
-- [Hannah Ritchie, _Not the End of the World_](https://www.goodreads.com/book/show/145624737-not-the-end-of-the-world)
 - [Hans Rosling, _Factfulness_](https://www.goodreads.com/book/show/34890015-factfulness?ref=nav_sb_ss_1_11)
+- [Hannah Ritchie, _Not the End of the World_](https://www.goodreads.com/book/show/145624737-not-the-end-of-the-world)
+- [Angus Deaton, _The Great Escape_](https://www.goodreads.com/book/show/17942017-the-great-escape) (parts I and II)
 - [Nate Silver, _The Signal and the Noise_](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise?ref=nav_sb_ss_1_11)
-- [Angus Deaton, _The Great Escape_](https://www.goodreads.com/book/show/17942017-the-great-escape) (part I: Life and Death, and II: Money)
 
 ### If OWID has no open positions, where can I look for similar jobs?
 

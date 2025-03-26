@@ -20,11 +20,6 @@ From 2020 to 2022, I led our work on the COVID-19 pandemic – most notably our 
 
 Before joining OWID in 2020, I previously worked as a data scientist at the University of Oxford in the departments of Population Health and Primary Care Health Sciences; and as a data science consultant in the private sector.
 
-For an overview of my background, the work of our team at OWID, and the principles we follow to make research and data more understandable and accessible, you can listen to the following:
-
-- [My interview with Ivan Stegic on the TEN7 podcast](https://ten7.com/podcast/episode/edouard-mathieu-open-data-approach-solving-worlds-problems) (45 minutes, February 2021)
-- [My interview with Fin Moorhouse & Luca Righetti on Hear This Idea](https://hearthisidea.com/episodes/mathieu) (3.5 hours, October 2022)
-
 
 ## Donation pledge
 

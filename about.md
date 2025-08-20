@@ -53,6 +53,8 @@ Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data &
 
 🔗 [Google Scholar profile](https://scholar.google.com/citations?user=DLZjGZ0AAAAJ)
 
+Nov. 2024 · How our team at Our World in Data became a global data source on COVID-19 [[ourworldindata.org](https://ourworldindata.org/owid-covid-history)]
+
 May 2024 · Herre, B., Rodés-Guirao, L., Mathieu, E., Ritchie, H., Giattino, C., Hasell, J., Dattani, S., Ortiz-Ospina, E., & Roser, M. (2024). Best practices for government agencies to publish data: Lessons from COVID-19. The Lancet Public Health. [sciencedirect.com](https://doi.org/10.1016/S2468-2667(24)00073-2)
 
 Jun. 2023 · Blauer Beth, Brownstein John, Gardner Lauren, Kraemer Moritz UG, Leiva Rioja Zoila, Mathieu Edouard, Redies Isabel, Morgan Oliver W. Innovative platforms for data aggregation, linkage and analysis in the context of pandemic and epidemic intelligence. Euro Surveill. 2023;28(24):pii=2200860. [[eurosurveillance.org](https://doi.org/10.2807/1560-7917.ES.2023.28.24.2200860)]

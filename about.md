@@ -61,7 +61,7 @@ Jun. 2023 · Blauer Beth, Brownstein John, Gardner Lauren, Kraemer Moritz UG, Le
 
 Apr. 2023 · How does age standardization make health metrics comparable? [[ourworldindata.org](https://ourworldindata.org/age-standardization)]
 
-Dec. 2022 · Charlie Giattino, Edouard Mathieu, Julia Broden and Max Roser (2022) - "Artificial Intelligence" [[ourworldindata.org](https://ourworldindata.org/artificial-intelligence)] 
+Dec. 2022 · Artificial Intelligence [[ourworldindata.org](https://ourworldindata.org/artificial-intelligence)] 
 
 Jul. 2022 · Five key findings from the 2022 UN Population Prospects [[ourworldindata.org](https://ourworldindata.org/world-population-update-2022)]
 
@@ -79,17 +79,13 @@ Sep. 2021 · Which countries are on track to reach global COVID-19 vaccination t
 
 May 2021 · Mathieu, E., Ritchie, H., Ortiz-Ospina, E. _et al._ A global database of COVID-19 vaccinations. _Nature Human Behaviour_ 5, 947–953 (2021). [[nature.com](https://doi.org/10.1038/s41562-021-01122-8)]
 
-Jan. 2021 · State-by-state data on COVID-19 vaccinations in the United States [[ourworldindata.org](https://ourworldindata.org/us-states-vaccinations)]
-
-Dec. 2020 · Statistics and Research: Coronavirus (COVID-19) Vaccinations [[ourworldindata.org](https://ourworldindata.org/covid-vaccinations)]
+Dec. 2020 · Coronavirus (COVID-19) Vaccinations [[ourworldindata.org](https://ourworldindata.org/covid-vaccinations)]
 
 Nov. 2020 · Why do COVID-19 deaths in Sweden’s official data always appear to decrease? [[ourworldindata.org](https://ourworldindata.org/covid-sweden-death-reporting)]
 
 Oct. 2020 · Hasell, J., Mathieu, E., Beltekian, D. _et al._ A cross-country database of COVID-19 testing. _Nature Scientific Data_ 7, 345 (2020). [[nature.com](https://doi.org/10.1038/s41597-020-00688-8)]
 
-Apr. 2020 · Statistics and Research: Coronavirus (COVID-19) Testing [[ourworldindata.org](https://ourworldindata.org/coronavirus-testing)]
-
-Apr. 2020 · _le Signal et le Bruit_, a newsletter dedicated to questions relating to data and artificial intelligence [[substack.com](https://signaletbruit.substack.com), in French]
+Apr. 2020 · Coronavirus (COVID-19) Testing [[ourworldindata.org](https://ourworldindata.org/coronavirus-testing)]
 
 Mar. 2020 · The best books on Historical Change and Economic Ideology, recommended by Thomas Piketty [[fivebooks.com](https://fivebooks.com/best-books/economic-ideology-thomas-piketty/)]
 

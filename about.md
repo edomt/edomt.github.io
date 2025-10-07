@@ -23,7 +23,9 @@ Before joining OWID in 2020, I previously worked as a data scientist at the Univ
 
 ## Donation pledge
 
-In 2018, I took the [🔸10% Pledge](https://www.givingwhatwecan.org/pledge) of Giving What We Can, committing to give 10% of my income for the rest of my life to organizations that can most effectively use it to improve the lives of others. Currently, my donations are evenly split between [GiveDirectly](https://www.givedirectly.org/large-transfer/)'s cash transfers to families in extreme poverty and [
+In 2018, I took the [🔸10% Pledge](https://www.givingwhatwecan.org/pledge) of Giving What We Can, committing to give 10% of my income for the rest of my life to organizations that can most effectively use it to improve the lives of others.
+
+Currently, my donations are evenly split between [GiveDirectly](https://www.givedirectly.org/large-transfer/)'s cash transfers to families in extreme poverty and [
 GiveWell's Top Charities](https://www.givewell.org/charities/top-charities) working on malaria, vitamin A deficiency, and routine childhood vaccines.
 
 

@@ -12,21 +12,20 @@ permalink: /about/
 
 ## What I do
 
-I'm the Head of Data & Research at [Our World in Data](https://ourworldindata.org) (OWID), an online publication based at the University of Oxford that focuses on major global problems such as health, poverty, climate change, education, human rights, economic development, and technological progress.
+I'm the Head of Data & Research at [Our World in Data](https://ourworldindata.org) (OWID), an online publication based at the University of Oxford that focuses on the world's biggest problems, such as health, poverty, climate change, education, human rights, economic development, and technological progress.
 
-I manage a [team](https://ourworldindata.org/team) of researchers and data scientists who make these big problems — and their possible solutions — more accessible and understandable through articles and data visualizations. All our work is free and open access. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
+I manage a [team](https://ourworldindata.org/team) of researchers and data scientists who make these issues — and their possible solutions — more accessible and understandable through articles and data visualizations. All our work is free and open-access. Find out more [about OWID](https://ourworldindata.org/about) and [our mission](https://ourworldindata.org/problems-and-progress).
 
-From 2020 to 2022, I led our work on the COVID-19 pandemic — most notably our [Data Explorer](https://ourworldindata.org/explorers/coronavirus-data-explorer), our [global data on vaccinations](https://ourworldindata.org/covid-vaccinations) used by most media organizations and international institutions, and our [open-source dataset](https://github.com/owid/covid-19-data) tracking the country-by-country evolution of the pandemic.
+From 2020 to 2022, I led our work on the COVID-19 pandemic — most notably the [Data Explorer](https://ourworldindata.org/explorers/coronavirus-data-explorer), [global data on vaccinations](https://ourworldindata.org/covid-vaccinations) used by most media organizations and international institutions, and the [open-source dataset](https://github.com/owid/covid-19-data) tracking the country-by-country evolution of the pandemic.
 
 Before joining OWID in 2020, I worked as a data scientist at the University of Oxford in the Departments of Population Health and Primary Care Health Sciences, and as a data science consultant in the private sector.
 
 
 ## Donation pledge
 
-In 2018, I took the [🔸10% Pledge](https://www.givingwhatwecan.org/pledge) from Giving What We Can, committing to give 10% of my income for the rest of my life to organizations that can most effectively use it to improve the lives of others.
+In 2018, I took the [🔸10% Pledge](https://www.givingwhatwecan.org/pledge) from Giving What We Can, committing to donate 10% of my income for the rest of my life to organizations that can most effectively use it to improve the lives of others.
 
-My donations are evenly split between [GiveDirectly](https://www.givedirectly.org/large-transfer/) — providing cash transfers to families in extreme poverty — and [
-GiveWell's Top Charities](https://www.givewell.org/charities/top-charities), which work on malaria, vitamin A deficiency, and routine childhood vaccinations.
+My donations are evenly split between [GiveDirectly](https://www.givedirectly.org/large-transfer/) — providing cash transfers to families in extreme poverty — and [GiveWell's Top Charities](https://www.givewell.org/charities/top-charities), which work on malaria, vitamin A deficiency, and routine childhood vaccinations.
 
 
 ## Work

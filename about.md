@@ -46,9 +46,9 @@ Since 2020 · [Our World in Data](https://ourworldindata.org/) · Head of Data &
 
 ## Education
 
-2011–2013 · [Sciences Po Paris](https://www.sciencespo.fr/ecole-management-innovation/en) · Master's degree in market research
+2011–2013 · [Sciences Po Paris](https://www.sciencespo.fr/ecole-management-innovation/en) · Master's in Marketing and Market Research
 
-2008–2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/education/undergraduate-studies) · Bachelor's degree in humanities and social sciences
+2008–2011 · [Sciences Po Paris](https://www.sciencespo.fr/en/education/undergraduate-studies) · Bachelor's in Social and Political Sciences, Economics, and Humanities
 
 
 ## Publications

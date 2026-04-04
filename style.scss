@@ -18,78 +18,72 @@ html {
 }
 
 body {
-	background: #FDF2E6;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background: $white;
+  font: 17px/1.6 $sans;
+  color: $black;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  max-width: 640px;
+  padding: 0 20px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-
-  line-height: 1.7;
-  margin: 1.5em 0 15px;
+  font-family: $sans;
+  color: $black;
+  font-weight: 600;
+  line-height: 1.3;
+  margin: 1.5em 0 0.5em;
   padding: 0;
-
-  @include mobile {
-    line-height: 1.4;
-  }
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 28px;
   a {
     color: inherit;
+    &:hover {
+      text-decoration: none;
+    }
   }
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 22px;
 }
 
 h3 {
-  font-size: 24px;
-  margin: 1em 0 15px;
-}
-
-.post-date {
-  color: gray;
-  font-size: 0.6em;
+  font-size: 18px;
 }
 
 h4 {
-  font-size: 20px;
+  font-size: 17px;
   color: $gray;
 }
 
 p {
-  margin: 15px 0;
+  margin: 0.75em 0;
 }
 
 a {
-  color: #8C213E;
+  color: $accent;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
-    color: #8C213E;
+    text-decoration: underline;
   }
 }
 
 ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
+  margin: 0.75em 0;
+  padding-left: 1.5em;
 }
 
 ul {
   list-style-type: disc;
-  font-size: 90%;
 }
 
 ol {
@@ -109,21 +103,20 @@ em, i {
 }
 
 strong, b {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 img {
   max-width: 100%;
 }
 
-// Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
 }
 
 .date {
-  font-style: italic;
   color: $gray;
+  font-size: 15px;
 }
 
 // Specify the color of the selection
@@ -137,7 +130,6 @@ img {
 }
 
 // Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
     content: " ";
@@ -157,12 +149,12 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 3em;
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid #CAC1B8;
+  padding: 2em 0 1.5em;
+  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -171,18 +163,19 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+  width: 52px;
+  height: 52px;
+  margin-right: 14px;
+  margin-top: 2px;
 
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin: 0 auto 10px;
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 50%;
   }
 }
 
@@ -198,45 +191,54 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $black;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
+  font-family: $sans;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.3;
+
+  a {
+    color: inherit;
+  }
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 15px;
+  line-height: 1.4;
 
   @include mobile {
-    margin: 3px 0;
+    margin: 2px 0;
   }
 }
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  margin-top: 12px;
+  font-family: $sans;
+  font-size: 15px;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 12px;
     display: block;
-    font-size: 16px;
+    font-size: 14px;
   }
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $gray;
     text-align: right;
-    font-weight: 300;
+
+    &:hover {
+      color: $black;
+      text-decoration: none;
+    }
 
     @include mobile {
       margin: 0 10px;
-      color: #8C213E;
     }
   }
 }
@@ -245,25 +247,13 @@ nav {
 // .main
 //
 
-/* .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-} */
-
 .post {
   blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
+    margin: 1.5em 0;
+    border-left: 3px solid $lightGray;
+    padding: 0 1em;
     color: $gray;
-    /* font-size: 22px; */
     font-style: italic;
-    font-family: serif;
   }
 
   .comments {
@@ -272,22 +262,96 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
   }
-	
-  
 }
 
+.post-date {
+  color: $gray;
+  font-size: 0.85em;
+}
+
+//
+// Homepage
+//
+
+.home-section {
+  margin-bottom: 2em;
+}
+
+.home-section h2 {
+  font-size: 17px;
+  font-weight: 600;
+  color: $gray;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5em;
+}
+
+.work-entry, .education-entry {
+  margin-bottom: 0.3em;
+  font-size: 15px;
+  color: $darkGray;
+}
+
+.archive-section {
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 1px solid $lightGray;
+}
+
+.archive-section h2 {
+  font-size: 15px;
+  font-weight: 600;
+  color: $gray;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.archive-list {
+  list-style: none;
+  padding-left: 0;
+  font-size: 15px;
+
+  li {
+    margin-bottom: 0.3em;
+  }
+
+  .archive-date {
+    color: $gray;
+    font-size: 0.85em;
+    margin-right: 0.5em;
+  }
+}
+
+//
+// Publications
+//
+
+.publications-list {
+  font-size: 15px;
+  line-height: 1.5;
+
+  p {
+    margin: 0.5em 0;
+  }
+}
+
+//
+// Footer
+//
+
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 4em;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 2em 0;
   text-align: center;
+  color: $gray;
+  font-size: 14px;
+  border-top: 1px solid $lightGray;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
-@import "svg-icons";

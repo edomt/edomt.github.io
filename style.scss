@@ -19,7 +19,7 @@ html {
 
 body {
   background: $white;
-  font: 17px/1.6 $sans;
+  font: 18px/1.6 $sans;
   color: $black;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -27,7 +27,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 640px;
+  max-width: 660px;
   padding: 0 20px;
   width: 100%;
 }

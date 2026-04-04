@@ -2,6 +2,7 @@
 layout: post
 title: "FAQ: How to join Our World in Data's data team"
 excerpt_separator: <!--more-->
+hide_date: true
 ---
 
 _Last updated in February 2026._
